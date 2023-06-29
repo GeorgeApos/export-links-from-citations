@@ -1,0 +1,526 @@
+Raffaele Albano, Salvatore Manfreda, Giuseppe Celano,
+MY SIRR: Minimalist agro-hYdrological model for Sustainable IRRigation management—Soil moisture and crop dynamics,
+SoftwareX,
+Volume 6,
+2017,
+Pages 107-117,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.04.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300122)
+Keywords: Irrigation management; Soil moisture; Crop dynamics; Agro-hydrology
+
+Marcelo S. Reis, Gustavo Estrela, Carlos Eduardo Ferreira, Junior Barrera,
+featsel: A framework for benchmarking of feature selection algorithms and cost functions,
+SoftwareX,
+Volume 6,
+2017,
+Pages 193-197,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.07.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300286)
+Keywords: Feature selection; Benchmarking; Boolean lattice; Combinatorial optimization
+
+Michael E. Fortunato, Coray M. Colina,
+pysimm: A python package for simulation of molecular systems,
+SoftwareX,
+Volume 6,
+2017,
+Pages 7-12,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.12.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300395)
+Keywords: Amorphous polymers; Molecular simulation; Python
+
+V.S. Neverov,
+XaNSoNS: GPU-accelerated simulator of diffraction patterns of nanoparticles,
+SoftwareX,
+Volume 6,
+2017,
+Pages 63-68,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.01.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300043)
+Keywords: X-ray and neutron diffraction; Simulation; GPU
+
+D. Ranathunga, H. Nguyen, M. Roughan,
+MGtoolkit: A python package for implementing metagraphs,
+SoftwareX,
+Volume 6,
+2017,
+Pages 91-93,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.04.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300080)
+Keywords: Metagraph implementation; Computer-network policy; Policy analysis
+
+Daniel R. Aldrich, Cagri Ayranci, David S. Nobes,
+OSM-Classic: An optical imaging technique for accurately determining strain,
+SoftwareX,
+Volume 6,
+2017,
+Pages 225-230,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.08.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300407)
+Keywords: Strain measurement; Optical strain measurement; OSM; Optical extensometry; Matlab
+
+M.S. Almas, L. Vanfretti, M. Baudette,
+BabelFish—Tools for IEEE C37.118.2-compliant real-time synchrophasor data mediation,
+SoftwareX,
+Volume 6,
+2017,
+Pages 209-216,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.08.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300328)
+Keywords: IEEE Std C37.118.2-2011; LabVIEW; Phasor measurement unit; Phasor data concentrator; Standard implementation; Synchrophasors; WAMS; WACS; WAPS; WAMPAC
+
+Ian H. Williams, Philippe B. Wilson,
+SULISO: The Bath suite of vibrational characterization and isotope effect calculation software,
+SoftwareX,
+Volume 6,
+2017,
+Pages 1-6,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.11.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300358)
+Keywords: Isotope effects; Vibrational frequencies; Computational chemistry; Fortran
+
+Janaki Shanmugam, Konstantin B. Borisenko, Yu-Jen Chou, Angus I. Kirkland,
+eRDF Analyser: An interactive GUI for electron reduced density function analysis,
+SoftwareX,
+Volume 6,
+2017,
+Pages 185-192,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.07.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300249)
+Keywords: Electron reduced density function (RDF); Electron pair distribution function (ePDF); eRDF Analyser
+
+Miguel Pato, Fabio Iocco,
+galkin: A new compilation of Milky Way rotation curve data,
+SoftwareX,
+Volume 6,
+2017,
+Pages 54-62,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.12.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300437)
+Keywords: Dark matter; Galaxy: kinematics and dynamics
+
+Ken Soderstrom, Ali Alalawi,
+Software for objective comparison of vocal acoustic features over weeks of audio recording: KLFromRecordingDays,
+SoftwareX,
+Volume 6,
+2017,
+Pages 271-277,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.10.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300523)
+Keywords: Vocal learning; Acoustic analysis; Kullback–Leibler Distance; Phonology
+
+Serge Dmitrieff, François Nédélec,
+ConfocalGN: A minimalistic confocal image generator,
+SoftwareX,
+Volume 6,
+2017,
+Pages 243-247,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.09.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300444)
+Keywords: Synthetic image; Image analysis; Bioinformatics
+
+Arun S. Moorthy, Hermann J. Eberl,
+compuGUT: An in silico platform for simulating intestinal fermentation,
+SoftwareX,
+Volume 6,
+2017,
+Pages 237-242,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.06.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300201)
+Keywords: Anaerobic digestion; Large intestine; Linux; Mathematical modeling; Microbiota simulation
+
+Roberto Souza, Letícia Rittner, Rubens Machado, Roberto Lotufo,
+iamxt: Max-tree toolbox for image processing and analysis,
+SoftwareX,
+Volume 6,
+2017,
+Pages 81-84,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.03.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300079)
+Keywords: Max-tree; Component tree; Mathematical morphology
+
+Salim Khalil, Mohamed Fakir,
+RCrawler: An R package for parallel web crawling and scraping,
+SoftwareX,
+Volume 6,
+2017,
+Pages 98-106,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.04.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300110)
+Keywords: Web crawler; Web scraper; R package; Parallel crawling; Web mining; Data collection
+
+M. Imgrund, A. Arth,
+Rambrain - a library for virtually extending physical memory,
+SoftwareX,
+Volume 6,
+2017,
+Pages 179-184,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.07.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300274)
+Keywords: Memory management; Physical memory limitations; Abstraction library; System paging; Open source; MPI/OpenMP
+
+Giuseppe Stanghellini, Gabriela Carrara,
+Segy-change: The swiss army knife for the SEG-Y files,
+SoftwareX,
+Volume 6,
+2017,
+Pages 42-47,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.01.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300031)
+Keywords: SEG-Y editing; SEG-Y recovery; Seismic processing
+
+Stefano Baldan, Stefano Delle Monache, Davide Rocchesso,
+The Sound Design Toolkit,
+SoftwareX,
+Volume 6,
+2017,
+Pages 255-260,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.06.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300195)
+Keywords: Sonic interaction design; Sound synthesis; Procedural audio
+
+Sean P. Funk, Danny Hnatyshin, Daniel S. Alessi,
+HYDROSCAPE: A new versatile software program for evaluating contaminant transport in groundwater,
+SoftwareX,
+Volume 6,
+2017,
+Pages 261-266,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.10.001.
+(https://www.sciencedirect.com/science/article/pii/S235271101730050X)
+Keywords: Contaminant transport; Hydrogeology; Analytical solution; Advection–dispersion equation
+
+Adewale Amosu, Yuefeng Sun,
+WheelerLab: An interactive program for sequence stratigraphic analysis of seismic sections, outcrops and well sections and the generation of chronostratigraphic sections and dynamic chronostratigraphic sections,
+SoftwareX,
+Volume 6,
+2017,
+Pages 19-24,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.12.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300401)
+Keywords: Seismic sequence stratigraphy; Chronostratigraphic analysis; Wheeler diagram; Seismic interpretation
+
+Ravishankar Sundararaman, Kendra Letchworth-Weaver, Kathleen A. Schwarz, Deniz Gunceler, Yalcin Ozhabes, T.A. Arias,
+JDFTx: Software for joint density-functional theory,
+SoftwareX,
+Volume 6,
+2017,
+Pages 278-284,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.10.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300559)
+Keywords: Density functional theory; Electronic structure; Solvation; Electrochemistry; Light-matter interactions
+
+Olga Popova, Boris Popov, Dmitry Romanov, Marina Evseeva,
+Optimel: Software for selecting the optimal method,
+SoftwareX,
+Volume 6,
+2017,
+Pages 231-236,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.08.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300316)
+Keywords: Optimization methods; Domain; Knowledge structuring; Exploratory study
+
+Jean Pierre Charalambos,
+Proscene: A feature-rich framework for interactive environments,
+SoftwareX,
+Volume 6,
+2017,
+Pages 48-53,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.01.002.
+(https://www.sciencedirect.com/science/article/pii/S235271101730002X)
+Keywords: Computer graphics; Graphics utilities; Interaction techniques; Information interfaces and presentation; User interfaces
+
+Lev M. Tsypin, Aaron P. Turkewitz,
+The Co-regulation Data Harvester: Automating gene annotation starting from a transcriptome database,
+SoftwareX,
+Volume 6,
+2017,
+Pages 165-171,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.06.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300237)
+Keywords: Bioinformatics; Evolution; Protists; Automation
+
+Erika Tudisco, Edward Andò, Rémi Cailletaud, Stephen A. Hall,
+TomoWarp2: A local digital volume correlation code,
+SoftwareX,
+Volume 6,
+2017,
+Pages 267-270,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.10.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300511)
+Keywords: Experimental mechanics; Full-field measurements; Image correlation
+
+Ashley P. Willis,
+The Openpipeflow Navier–Stokes solver,
+SoftwareX,
+Volume 6,
+2017,
+Pages 124-127,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.05.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300158)
+Keywords: CFD; Dynamical systems
+
+Stergios Emmanouil, Andreas Langousis,
+UPStream: Automated hydraulic design of pressurized water distribution networks,
+SoftwareX,
+Volume 6,
+2017,
+Pages 248-254,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.09.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300432)
+Keywords: Water distribution networks; Hydraulic design; Pressurized pipe networks; MATLAB; EPANET
+
+Yann Marcon, Autun Purser,
+PAPARA(ZZ)I: An open-source software interface for annotating photographs of the deep-sea,
+SoftwareX,
+Volume 6,
+2017,
+Pages 69-80,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.02.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300067)
+Keywords: PAPARA(ZZ)I; Image annotation; WoRMS; Benthic; Megafauna; Density; Distribution; Composition; Abundance; Richness
+
+Kelin Zhuang, Gerald R. North, Mark J. Stevens,
+A NetCDF version of the two-dimensional energy balance model based on the full multigrid algorithm,
+SoftwareX,
+Volume 6,
+2017,
+Pages 198-202,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.07.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300262)
+Keywords: Energy balance model; Full multigrid algorithm; Seasonal surface temperature
+
+Tobias Weber,
+Update 1.5 to “Takin: An open-source software for experiment planning, visualisation, and data analysis”, (PII: S2352711016300152),
+SoftwareX,
+Volume 6,
+2017,
+Pages 148-149,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.06.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300183)
+Keywords: Triple-axis spectroscopy; Instrument control; Reciprocal and real space visualisation; Brillouin zones; Instrumental resolution
+
+Turaj Ashuri, Jie Zhang,
+CompSim: Cross sectional modeling of geometrical complex and inhomogeneous slender structures,
+SoftwareX,
+Volume 6,
+2017,
+Pages 155-160,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.04.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300109)
+Keywords: Structural properties; Cross sectional modeling; Inhomogeneous structures; Geometrical complex structures
+
+O. Naito,
+A browser-based tool for conversion between Fortran NAMELIST and XML/HTML,
+SoftwareX,
+Volume 6,
+2017,
+Pages 25-29,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.12.001.
+(https://www.sciencedirect.com/science/article/pii/S235271101630036X)
+Keywords: Fortran namelist; XML; Web browser; JavaScript
+
+Peter A. Predein, Anna A. Dobrynina, Tsyren A. Tubanov, Eugeny I. German,
+CodaNorm: A software package for the body-wave attenuation calculation by the coda-normalization method,
+SoftwareX,
+Volume 6,
+2017,
+Pages 30-35,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.12.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300413)
+Keywords: Coda-normalization method; Seismic waves; Attenuation; Quality factor
+
+Athanassios M. Kintsakis, Fotis E. Psomopoulos, Andreas L. Symeonidis, Pericles A. Mitkas,
+Hermes: Seamless delivery of containerized bioinformatics workflows in hybrid cloud (HTC) environments,
+SoftwareX,
+Volume 6,
+2017,
+Pages 217-224,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.07.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300304)
+Keywords: Bioinformatics; Hybrid cloud; Scientific workflows; Distributed computing
+
+Daniele De Sensi, Massimo Torquati, Marco Danelutto,
+Mammut: High-level management of system knobs and sensors,
+SoftwareX,
+Volume 6,
+2017,
+Pages 150-154,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.06.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300225)
+Keywords: Energy profiling; DVFS; System management; Remote management
+
+Matteo Ragni,
+Mr.CAS—A minimalistic (pure) Ruby CAS for fast prototyping and code generation,
+SoftwareX,
+Volume 6,
+2017,
+Pages 128-134,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.05.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300146)
+Keywords: CAS; Code-generation; Ruby
+
+
+Editorial Board,
+SoftwareX,
+Volume 6,
+2017,
+Page i,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(17)30066-3.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300663)
+
+Martin Haustein, Anton Gladkyy, Rüdiger Schwarze,
+Discrete element modeling of deformable particles in YADE,
+SoftwareX,
+Volume 6,
+2017,
+Pages 118-123,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.05.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300134)
+Keywords: YADE; Discrete element method; Granular materials; Deformation
+
+Jhonatha R. dos Santos, Luiz F.N. Barreta, Maria E. Sbampato, Marcelo G. Destro,
+ASAS: Computational code for Analysis and Simulation of Atomic Spectra,
+SoftwareX,
+Volume 6,
+2017,
+Pages 203-208,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.07.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300298)
+Keywords: Emission spectroscopy; Absorption spectroscopy; Simulations; Electronic transitions
+
+Jan M. Binder, Alexander Stark, Nikolas Tomek, Jochen Scheuer, Florian Frank, Kay D. Jahnke, Christoph Müller, Simon Schmitt, Mathias H. Metsch, Thomas Unden, Tobias Gehring, Alexander Huck, Ulrik L. Andersen, Lachlan J. Rogers, Fedor Jelezko,
+Qudi: A modular python suite for experiment control and data processing,
+SoftwareX,
+Volume 6,
+2017,
+Pages 85-90,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.02.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300055)
+Keywords: Python 3; Qt; Experiment control; Automation; Measurement software; Framework; Modular
+
+Martin Robinson, Maria Bruna,
+Particle-based and meshless methods with Aboria,
+SoftwareX,
+Volume 6,
+2017,
+Pages 172-178,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.07.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300250)
+Keywords: Particle-based numerical methods; Meshless; C++
+
+Dorleta Garcia, Sonia Sánchez, Raúl Prellezo, Agurtzane Urtizberea, Marga Andrés,
+FLBEIA: A simulation model to conduct Bio-Economic evaluation of fisheries management strategies,
+SoftwareX,
+Volume 6,
+2017,
+Pages 141-147,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.06.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300171)
+Keywords: Bio-economic model; Fleet dynamics; Fisheries management; Impact assessment; Management strategy evaluation
+
+Veera Sundararaghavan, Siddhartha Srivastava,
+MicroFract: An image based code for microstructural crack path prediction,
+SoftwareX,
+Volume 6,
+2017,
+Pages 94-97,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.04.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300092)
+Keywords: Graph cuts; Fracture; Microstructure; Image analysis; Crack path prediction
+
+de los Santos-Villalobos Sergio, Bravo-Linares Claudio, Meigikos dos Anjos Roberto, Cardoso Renan, Gibbs Max, Swales Andrew, Mabit Lionel, Dercon Gerd,
+The CSSIAR v.1.00 Software: A new tool based on SIAR to assess soil redistribution using Compound Specific Stable Isotopes,
+SoftwareX,
+Volume 6,
+2017,
+Pages 13-18,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.12.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300425)
+Keywords: Soil erosion; Fatty acids; Soil apportionment; CSSI
+
+M. Subbiah, V. Rajeswaran,
+proportion: A comprehensive R package for inference on single Binomial proportion and Bayesian computations,
+SoftwareX,
+Volume 6,
+2017,
+Pages 36-41,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.01.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300018)
+Keywords: Binomial proportion; Evaluation criteria; Predictive distributions; R package
+
+Harry Zekollari,
+TopoZeko: A MATLAB function for 3-D and 4-D topographical visualization in geosciences,
+SoftwareX,
+Volume 6,
+2017,
+Pages 285-292,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.10.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300535)
+Keywords: MATLAB function; Visualization tool; 4D visualization; Topography
+
+Olivier L. Georgeon,
+Little AI: Playing a constructivist robot,
+SoftwareX,
+Volume 6,
+2017,
+Pages 161-164,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.06.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300213)
+Keywords: Pedagogical game; Artificial intelligence; Developmental learning; Constructivist learning
+
+Hakan Ozbasaran,
+solveTruss v1.0: Static, global buckling and frequency analysis of 2D and 3D trusses with Mathematica,
+SoftwareX,
+Volume 6,
+2017,
+Pages 135-140,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.05.004.
+(https://www.sciencedirect.com/science/article/pii/S235271101730016X)
+Keywords: Truss; Buckling; Frequency; Mathematica

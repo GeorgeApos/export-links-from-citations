@@ -1,0 +1,426 @@
+Austen Bernardi, Jessica M.J. Swanson,
+CycFlowDec: A Python module for decomposing flow networks using simple cycles,
+SoftwareX,
+Volume 14,
+2021,
+100676,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100676.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000212)
+Keywords: CycFlowDec; Cyclic flow decomposition; Network analysis; Kinetic networks; Kinetic modeling
+
+Maximilian Coblenz,
+MATVines: A vine copula package for MATLAB,
+SoftwareX,
+Volume 14,
+2021,
+100700,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100700.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000455)
+Keywords: Vine copulas; Copulas; Dependence modeling; MATLAB
+
+Marco Drago, Sergey Klimenko, Claudia Lazzaro, Edoardo Milotti, Guenakh Mitselmakher, Valentin Necula, Brendan O’Brian, Giovanni Andrea Prodi, Francesco Salemi, Marek Szczepanczyk, Shubhanshu Tiwari, Vaibhav Tiwari, Gayathri V, Gabriele Vedovato, Igor Yakushin,
+coherent WaveBurst, a pipeline for unmodeled gravitational-wave data analysis,
+SoftwareX,
+Volume 14,
+2021,
+100678,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100678.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000236)
+Keywords: Gravitational waves; Signal processing; Wavelets
+
+Berenice Talamantes-Becerra, Jason Carling, Arthur Georges,
+omicR: A tool to facilitate BLASTn alignments for sequence data,
+SoftwareX,
+Volume 14,
+2021,
+100702,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100702.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000479)
+Keywords: BLASTn; Sequencing; Genotyping-by-sequencing; Software; Discontiguous megaBLAST
+
+Vlad Atanasiu, Rolf Ingold,
+Document Towers: A MATLAB software implementing a three-dimensional architectural paradigm for the visual exploration of digital documents and libraries,
+SoftwareX,
+Volume 14,
+2021,
+100684,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100684.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000297)
+Keywords: Digital libraries; Document structure; Visualization; Information exploration; Serendipity; Metaphors
+
+Federico Miretti, Daniela Misul, Ezio Spessa,
+DynaProg: Deterministic Dynamic Programming solver for finite horizon multi-stage decision problems,
+SoftwareX,
+Volume 14,
+2021,
+100690,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100690.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000352)
+Keywords: Dynamic Programming; Optimal control; Decision problem
+
+Cristian Jiménez, Ivan Amaya, Rodrigo Correa,
+SCSV_IPS: A software for the estimation of the shear coefficient of spin viscosity during the movement of a ferrofluid under the effect of an external rotating magnetic field,
+SoftwareX,
+Volume 14,
+2021,
+100668,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100668.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000133)
+
+Sebastian Deorowicz, Adam Gudyś,
+Whisper2: Indel-sensitive short read mapping,
+SoftwareX,
+Volume 14,
+2021,
+100692,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100692.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000376)
+Keywords: Short read mapping; High throughput sequencing; Variant calling
+
+Elizabeth D. Gregory, William C. Schneck, Erik L. Frankforter,
+swSim: Solid wave simulation,
+SoftwareX,
+Volume 14,
+2021,
+100698,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100698.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000431)
+Keywords: Simulation; Elastodynamics; Nondestructive evaluation; GPU; MPI
+
+Lucas Dominguez Ruben, Kensuke Naito, Ronald Roger Gutierrez, Ricardo Szupiany, Jorge Darwin Abad,
+Meander Statistics Toolbox (MStaT): A toolbox for geometry characterization of bends in large meandering channels,
+SoftwareX,
+Volume 14,
+2021,
+100674,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100674.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000194)
+Keywords: Morphometrics; Migration patterns; Wavelet filter
+
+Donghoh Kim, Hee-Seok Oh, Guebin Choi,
+EPT: An R package for ensemble patch transform,
+SoftwareX,
+Volume 14,
+2021,
+100704,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100704.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000492)
+Keywords: Ensemble patch transform; Multiscale analysis; Filtering; R package
+
+Adam Mertel, David Zbíral, Zdeněk Stachoň, Hana Hořínková,
+Historical geocoding assistant,
+SoftwareX,
+Volume 14,
+2021,
+100682,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100682.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000273)
+Keywords: Geocoding; GIS; Historical data; Gazetteer; Web-based application
+
+John Taylor Chavis, Amy Louise Cochran, Christopher James Earls,
+CU-MSDSp: A flexible parallelized Reversible jump Markov chain Monte Carlo method,
+SoftwareX,
+Volume 14,
+2021,
+100664,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100664.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000091)
+Keywords: Reversible jump Markov chain Monte Carlo methods; RJMCMC; Model selection; Parallel MCMC
+
+Connor Powers, Lindsay Bassman, Thomas M. Linker, Ken-ichi Nomura, Sahil Gulania, Rajiv K. Kalia, Aiichiro Nakano, Priya Vashishta,
+MISTIQS: An open-source software for performing quantum dynamics simulations on quantum computers,
+SoftwareX,
+Volume 14,
+2021,
+100696,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100696.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000418)
+Keywords: Quantum dynamics simulation; Quantum computing
+
+Petri Laarne, Martha A. Zaidan, Tuomo Nieminen,
+ennemi: Non-linear correlation detection with mutual information,
+SoftwareX,
+Volume 14,
+2021,
+100686,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100686.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000315)
+Keywords: Information theory; Mutual information; Correlation analysis; Variable selection
+
+Kim Miikki, Alp Karakoç, Mahdi Rafiee, Duck Weon Lee, Jaana Vapaavuori, Jennifer Tersteegen, Laura Lemetti, Jouni Paltakari,
+An open-source camera system for experimental measurements,
+SoftwareX,
+Volume 14,
+2021,
+100688,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100688.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000339)
+Keywords: Raspberry Pi; Digital image processing; Non-contact optical measurements; Open-source initiative
+
+Kong Aik Lee, Ville Vestman, Tomi Kinnunen,
+ASVtorch toolkit: Speaker verification with deep neural networks,
+SoftwareX,
+Volume 14,
+2021,
+100697,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100697.
+(https://www.sciencedirect.com/science/article/pii/S235271102100042X)
+Keywords: Speaker recognition; PyTorch; Deep learning
+
+Laura Sani, Michele Amoretti, Stefano Cagnoni, Monica Mordonini, Riccardo Pecori,
+ReSS: A tool for discovering relevant sets in complex systems,
+SoftwareX,
+Volume 14,
+2021,
+100693,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100693.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000388)
+Keywords: Complex systems analysis; Relevance index; Relevant sets; Information theory
+
+Andrew Lyden, Graeme Flett, Paul G. Tuohy,
+PyLESA: A Python modelling tool for planning-level Local, integrated, and smart Energy Systems Analysis,
+SoftwareX,
+Volume 14,
+2021,
+100699,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100699.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000443)
+Keywords: Energy system modelling; Smart energy systems; Energy storage; Model predictive control
+
+Ryan P. Fisher, Gary Hemming, Marie-Anne Bizouard, Duncan A. Brown, Peter F. Couvares, Florent Robinet, Didier Verkindt,
+DQSEGDB: A time-interval database for storing gravitational wave observatory metadata,
+SoftwareX,
+Volume 14,
+2021,
+100677,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100677.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000224)
+Keywords: Database 1; Metadata 2; Time segments 3; Gravitational waves 4; LIGO-Virgo 5
+
+Kipp Cannon, Sarah Caudill, Chiwai Chan, Bryce Cousins, Jolien D.E. Creighton, Becca Ewing, Heather Fong, Patrick Godwin, Chad Hanna, Shaun Hooper, Rachael Huxford, Ryan Magee, Duncan Meacher, Cody Messick, Soichiro Morisaki, Debnandini Mukherjee, Hiroaki Ohta, Alexander Pace, Stephen Privitera, Iris de Ruiter, Surabhi Sachdev, Leo Singer, Divya Singh, Ron Tapia, Leo Tsukada, Daichi Tsuna, Takuya Tsutsui, Koh Ueno, Aaron Viets, Leslie Wade, Madeline Wade,
+GstLAL: A software framework for gravitational wave discovery,
+SoftwareX,
+Volume 14,
+2021,
+100680,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100680.
+(https://www.sciencedirect.com/science/article/pii/S235271102100025X)
+Keywords: Gravitational waves; Neutron stars; Black holes; Multi-messenger astrophysics; Data analysis
+
+Osezua Ibhadode, Zhidong Zhang, Ali Bonakdar, Ehsan Toyserkani,
+IbIPP for topology optimization—An Image-based Initialization and Post-Processing code written in MATLAB,
+SoftwareX,
+Volume 14,
+2021,
+100701,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100701.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000467)
+Keywords: Topology optimization; MATLAB; Free-form design; Density-based methods; SIMP; RAMP; BESO; Level set method; Post-processing; 3D printing
+
+Edgar Fajardo, Frank Wuerthwein, Brian Bockelman, Miron Livny, Greg Thain, James Alexander Clark, Peter Couvares, Josh Willis,
+Adapting LIGO workflows to run in the Open Science Grid,
+SoftwareX,
+Volume 14,
+2021,
+100679,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100679.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000248)
+Keywords: LIGO; OSG; Grid; DHTC
+
+Matthew T. Herritt, Jacob C. Long, Mike D. Roybal, David C. Moller, Todd C. Mockler, Duke Pauli, Alison L. Thompson,
+FLIP: FLuorescence Imaging Pipeline for field-based chlorophyll fluorescence images,
+SoftwareX,
+Volume 14,
+2021,
+100685,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100685.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000303)
+Keywords: Chlorophyll fluorescence imaging; Python; ImageJ
+
+Collin J. Wilkinson, John C. Mauro,
+Explorer.py: Mapping the energy landscapes of complex materials,
+SoftwareX,
+Volume 14,
+2021,
+100683,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100683.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000285)
+Keywords: Energy landscapes; Monte Carlo; Eigenvector following
+
+Nazmus Sakib, Shiyu Tian, Md Munirul Haque, Rumi Ahmed Khan, Sheikh Iqbal Ahamed,
+SepINav (Sepsis ICU Navigator): A data-driven software tool for sepsis monitoring and intervention using Bayesian Online Change Point Detection,
+SoftwareX,
+Volume 14,
+2021,
+100689,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100689.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000340)
+Keywords: Sepsis; Covid-19; SIRS; qSOFA; SOFA; Septic shock; Bayesian Online Change Point Detection
+
+Tobias Weber,
+Update 2.0 to “Takin: An open-source software for experiment planning, visualisation, and data analysis”, (PII: S2352711016300152),
+SoftwareX,
+Volume 14,
+2021,
+100667,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100667.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000121)
+Keywords: Triple-axis spectroscopy; Resolution convolution fitting
+
+
+Editorial Board,
+SoftwareX,
+Volume 14,
+2021,
+100713,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(21)00058-3.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000583)
+
+Nikolaos Batalas, Vassilis-Javed Khan, Panos Markopoulos,
+Executable HTML,
+SoftwareX,
+Volume 14,
+2021,
+100691,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100691.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000364)
+Keywords: Experience sampling method; Ambulatory assessment; Ecological momentary assessment; Custom HTML elements; Executable HMTL
+
+Zoltan Csati, Jean-François Witz, Vincent Magnier, Ahmed El Bartali, Nathalie Limodin, Denis Najjar,
+CristalX: Facilitating simulations for experimentally obtained grain-based microstructures,
+SoftwareX,
+Volume 14,
+2021,
+100669,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100669.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000145)
+Keywords: Meshing; Microstructure; Segmentation
+
+Artur Karczmarczyk, Jarosław Jankowski, Jarosław Wątróbski,
+OONIS — Object-Oriented Network Infection Simulator,
+SoftwareX,
+Volume 14,
+2021,
+100675,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100675.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000200)
+Keywords: Complex networks; Social networks; Independent cascades model; Seeding; Sequential seeding; Information spreading
+
+Filipe Assunção, Nuno Lourenço, Bernardete Ribeiro, Penousal Machado,
+Fast-DENSER: Fast Deep Evolutionary Network Structured Representation,
+SoftwareX,
+Volume 14,
+2021,
+100694,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100694.
+(https://www.sciencedirect.com/science/article/pii/S235271102100039X)
+Keywords: Artificial Neural Networks; Automated machine learning; NeuroEvolution
+
+Zahrate El Oula Frihi, Julian Barreiro-Gomez, Salah Eddine Choutri, Hamidou Tembine,
+Toolbox to simulate and mitigate COVID-19 propagation,
+SoftwareX,
+Volume 14,
+2021,
+100673,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100673.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000182)
+Keywords: COVID-19; Markov chain; Simulation; Toolbox
+
+Paul L. Raston,
+HeNDS: A program for calculating average Helium NanoDroplet Sizes,
+SoftwareX,
+Volume 14,
+2021,
+100703,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100703.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000480)
+Keywords: Liquid helium; Nanodroplets; Mathematica; Thermochemistry
+
+Seiki Ohnishi,
+Gxsview: Geometry and cross section viewer for calculating radiation transport,
+SoftwareX,
+Volume 14,
+2021,
+100681,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100681.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000261)
+Keywords: Visualization; Monte Carlo transport code; Cross section; PHITS; MCNP
+
+Martin Schlueter, Mehdi Neshat, Mohamed Wahib, Masaharu Munetomo, Markus Wagner,
+GTOPX space mission benchmarks,
+SoftwareX,
+Volume 14,
+2021,
+100666,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100666.
+(https://www.sciencedirect.com/science/article/pii/S235271102100011X)
+Keywords: Optimization; Benchmark; Landscape analysis; Space mission trajectory
+
+Claire L. Davies,
+SEDBYS: A python-based SED Builder for Young Stars,
+SoftwareX,
+Volume 14,
+2021,
+100687,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100687.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000327)
+Keywords: Photometry; Spectral energy distribution; Young stellar objects; Circumstellar disks; Infrared excess; Dust continuum emission
+
+Michael Julian Orella, McLain Evan Leonard, Yuriy Román-Leshkov, Fikile Richard Brushett,
+High-throughput analysis of contact angle goniometry data using DropPy,
+SoftwareX,
+Volume 14,
+2021,
+100665,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100665.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000108)
+Keywords: Contact angle goniometry; High-throughput image analysis; Automatic edge detection
+
+Boris Krasnopolsky, Alexey Medvedev,
+XAMG: A library for solving linear systems with multiple right-hand side vectors,
+SoftwareX,
+Volume 14,
+2021,
+100695,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100695.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000406)
+Keywords: Systems of linear algebraic equations; Krylov subspace iterative methods; Algebraic multigrid method; Multiple right-hand sides; Hybrid programming model; MPI+POSIX shared memory

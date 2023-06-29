@@ -1,0 +1,547 @@
+Mohan Ananth, Mario F. Trujillo,
+2PJIT: Two-phase 3D jet instability tool in cylindrical coordinates,
+SoftwareX,
+Volume 18,
+2022,
+101011,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101011.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000206)
+Keywords: Linear stability analysis; Spatial stability; Two-phase flows
+
+Christopher Reinartz, Thomas T. Enevoldsen,
+pyTEP: A Python package for interactive simulations of the Tennessee Eastman process,
+SoftwareX,
+Volume 18,
+2022,
+101053,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101053.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000449)
+Keywords: Tennessee Eastman process; Chemical process simulation; Simulation framework; Python
+
+Tzvi Gershanik, Itay Levin, Daniel Rittel,
+2BarG—A program to process split Hopkinson (Kolsky) bar test results,
+SoftwareX,
+Volume 18,
+2022,
+101093,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101093.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000644)
+Keywords: Split Hopkinson (Kolsky) Pressure Bar; Stress waves; Data processing; Signal analysis
+
+Giovanni Castellazzi, Nicolò Lo Presti, Antonio Maria D’Altri, Stefano de Miranda,
+Cloud2FEM: A finite element mesh generator based on point clouds of existing/historical structures,
+SoftwareX,
+Volume 18,
+2022,
+101099,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101099.
+(https://www.sciencedirect.com/science/article/pii/S235271102200067X)
+Keywords: Point cloud; FE modelling; Mesh generation; Cultural heritage structures; Voxel; Masonry
+
+Leonardo Trujillo, Jose Manuel Muñoz Contreras, Daniel E. Hernandez, Mauro Castelli, Juan J. Tapia,
+GSGP-CUDA — A CUDA framework for Geometric Semantic Genetic Programming,
+SoftwareX,
+Volume 18,
+2022,
+101085,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101085.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000607)
+Keywords: Genetic Programming; Geometric Semantic Genetic Programming; CUDA; GPU
+
+Rachel A. Aronow, Shaya Akbarinejad, Trang Le, Sumeyye Su, Leili Shahriyari,
+TumorDecon: A digital cytometry software,
+SoftwareX,
+Volume 18,
+2022,
+101072,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101072.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000528)
+Keywords: Deconvolution methods; Digital cytometry; Signature matrix; DeconRNASeq; CIBERSORT; ssGSEA; SingScore
+
+Joonas Tapani Holmi, Harri Lipsanen,
+WITio: A MATLAB data evaluation toolbox to script broader insights into big data from WITec microscopes,
+SoftwareX,
+Volume 18,
+2022,
+101009,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101009.
+(https://www.sciencedirect.com/science/article/pii/S235271102200019X)
+Keywords: MATLAB toolbox; Big data evaluation; WITec microscopes; Bidirectional interoperability; Full file import/export; Customized automation scripts; WITec Project (*.wip) file; WITec Data (*.wid) file
+
+Akimitsu Ishii, Ryunosuke Kamijyo, Akinori Yamanaka, Akiyasu Yamamoto,
+BOXVIA: Bayesian optimization executable and visualizable application,
+SoftwareX,
+Volume 18,
+2022,
+101019,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101019.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000243)
+Keywords: Bayesian optimization; GUI; Visualization; Python
+
+Zachary Hamida, Blanche Laurent, James-A. Goulet,
+OpenIPDM: A probabilistic framework for estimating the deterioration and effect of interventions on bridges,
+SoftwareX,
+Volume 18,
+2022,
+101077,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101077.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000565)
+Keywords: Bridge deterioration software; Visual inspections; Inspector uncertainty; Structural health monitoring
+
+Md Motiur Rahman, Tahmina Tasnim Nahar, Dookie Kim,
+Corrigendum to “FeView: Finite element model (FEM) visualization and post-processing tool for OpenSees” [SoftwareX 15 (2021) 100751],
+SoftwareX,
+Volume 18,
+2022,
+101045,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101045.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000401)
+
+Niccolò Pancino, Pietro Bongini, Franco Scarselli, Monica Bianchini,
+GNNkeras: A Keras-based library for Graph Neural Networks and homogeneous and heterogeneous graph processing,
+SoftwareX,
+Volume 18,
+2022,
+101061,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101061.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000486)
+Keywords: Graphs; Machine Learning; TensorFlow; Keras; Graph Neural Networks
+
+Deneb Boito, Magnus Herberthson, Tom Dela Haije, Evren Özarslan,
+Applying positivity constraints to q-space trajectory imaging: The QTI+ implementation,
+SoftwareX,
+Volume 18,
+2022,
+101030,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101030.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000322)
+Keywords: Diffusion MRI; QTI; Constrained estimation; Microscopic anisotropy
+
+Jouni Helske,
+Efficient Bayesian generalized linear models with time-varying coefficients: The walker package in R,
+SoftwareX,
+Volume 18,
+2022,
+101016,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101016.
+(https://www.sciencedirect.com/science/article/pii/S235271102200022X)
+Keywords: Bayesian inference; Time-varying regression; R; Markov chain Monte Carlo
+
+Travis J. Black, Alexei F. Cheviakov,
+3DRSP: Matlab-based random sphere packing code in three dimensions,
+SoftwareX,
+Volume 18,
+2022,
+101051,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101051.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000437)
+Keywords: Random sphere packing; Three-dimensional domain; Probability distribution; Matlab
+
+Jalaj Pachouly, Swati Ahirrao, Ketan Kotecha,
+SDPTool : A tool for creating datasets and software defect predictions,
+SoftwareX,
+Volume 18,
+2022,
+101036,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101036.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000358)
+Keywords: Java Swing; REST API; GitHub; SQLite; Relational database; Open JDK
+
+Niki Hrovatin, Aleksandar Tošić, Jernej Vičič,
+PPWSim: Privacy preserving wireless sensor network simulator,
+SoftwareX,
+Volume 18,
+2022,
+101067,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101067.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000516)
+Keywords: Wireless Sensor Networks; NS-3; Onion routing; Edge computing
+
+Gianfranco Mariotti, Roberto Giorgi,
+WebRISC-V: A 32/64-bit RISC-V pipeline simulation tool,
+SoftwareX,
+Volume 18,
+2022,
+101105,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101105.
+(https://www.sciencedirect.com/science/article/pii/S235271102200070X)
+Keywords: Simulation environments; Interactive learning environments; Computer architectures; Pipeline computing
+
+Davide Pagano, Lorenzo Sostero,
+EmiR: Evolutionary minimization for R,
+SoftwareX,
+Volume 18,
+2022,
+101083,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101083.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000590)
+Keywords: Evolutionary algorithms; Optimization; R
+
+Jenny Farmer, Donald J. Jacobs,
+MATLAB tool for probability density assessment and nonparametric estimation,
+SoftwareX,
+Volume 18,
+2022,
+101017,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101017.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000231)
+Keywords: Nonparametric density estimation; Maximum entropy; Single order statistics; MATLAB; R
+
+Yash Soni, Terry Brett,
+Data driven simulations of infectious diseases: Exploring facial recognition approach in predicting the infection severity,
+SoftwareX,
+Volume 18,
+2022,
+101059,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101059.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000474)
+Keywords: Data science; Facial recognition; Compartmental modeling; Simulations
+
+Masoud Abdollahi, Babak Farjad, Anil Gupta, Quazi K. Hassan,
+CMIP6-D&A: An R-based software with GUI for processing climate data available in network common data format,
+SoftwareX,
+Volume 18,
+2022,
+101044,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101044.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000395)
+Keywords: Climate projections; netCDF; Open source software; CMIP
+
+Matheus Roman Carini, Marcelo Maia Rocha,
+CESSIPy: A Python open-source module for stochastic system identification in civil engineering,
+SoftwareX,
+Volume 18,
+2022,
+101091,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101091.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000632)
+Keywords: System identification; Operational modal analysis; Structural dynamics; Enhanced frequency-domain decomposition; Peak-picking; Stochastic subspace identification
+
+Renjith G., Sonia Laudanna, Aji S., Corrado Aaron Visaggio, Vinod P.,
+GANG-MAM: GAN based enGine for Modifying Android Malware,
+SoftwareX,
+Volume 18,
+2022,
+100977,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100977.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000036)
+Keywords: Generative Adversarial Network; Malware; Android malware; Malware detection
+
+Emanuele Buchicchio, Alessio De Angelis, Francesco Santoni, Paolo Carbone,
+EasyEIS: A software tool to perform electrochemical impedance spectroscopy using a source measure unit,
+SoftwareX,
+Volume 18,
+2022,
+101075,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101075.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000553)
+Keywords: Electrochemical impedance spectroscopy; EIS; Battery; State of charge; SoC; SMU
+
+Javier E. Santos, Alex Gigliotti, Abhishek Bihani, Christopher Landry, Marc A. Hesse, Michael J. Pyrcz, Maša Prodanović,
+MPLBM-UT: Multiphase LBM library for permeable media analysis,
+SoftwareX,
+Volume 18,
+2022,
+101097,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101097.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000668)
+Keywords: Multiphase; Singlephase; Relative permeability; Permeability; Lattice-Boltzmann; Porous media; Digital rock physics
+
+Thomas F. Flint, Gowthaman Parivendhan, Alojz Ivankovic, Michael C. Smith, Philip Cardiff,
+beamWeldFoam: Numerical simulation of high energy density fusion and vapourisation-inducing processes,
+SoftwareX,
+Volume 18,
+2022,
+101065,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101065.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000504)
+Keywords: Advanced manufacturing; Volume-of-fluid; Heat transfer; OpenFOAM; State transition
+
+Maliheh Haghgoo, Ilya Sychev, Antonello Monti, Frank H.P. Fitzek,
+ENTIRETY — sEmanNTIc pRovisioning and govErning ioT devices in smart energY domain,
+SoftwareX,
+Volume 18,
+2022,
+101081,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101081.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000589)
+Keywords: Internet of Things; Device provisioning; Semantic IoT provisioning
+
+Clara Antón-Fernández, Rasmus Astrup,
+SiTree: A framework to implement single-tree simulators,
+SoftwareX,
+Volume 18,
+2022,
+100925,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100925.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001667)
+Keywords: Forest simulator; Forest growth modeling; Individual-tree; R package; Forest growth and yield
+
+Duarte Folgado, Marília Barandas, Margarida Antunes, Maria Lua Nunes, Hui Liu, Yale Hartmann, Tanja Schultz, Hugo Gamboa,
+TSSEARCH: Time Series Subsequence Search Library,
+SoftwareX,
+Volume 18,
+2022,
+101049,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101049.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000425)
+Keywords: Time series; Subsequence search; Distances; Similarity measurements; Query-based search; Segmentation; Python package
+
+Andrés Ramos, Erik F. Alvarez, Sara Lumbreras,
+OpenTEPES: Open-source Transmission and Generation Expansion Planning,
+SoftwareX,
+Volume 18,
+2022,
+101070,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101070.
+(https://www.sciencedirect.com/science/article/pii/S235271102200053X)
+Keywords: Transmission Expansion Planning; Generation Expansion Planning; Stochastic optimization
+
+Isa Anshori, Suksmandhira Harimurti, Mahendra Baleno Rama, Rey Ezra Langelo,  Jessika, Lenny Putri Yulianti, Gilang Gumilar, Muhammad Yusuf, Silmina Prastriyanti, Brian Yuliarto, Husna Nugrahapraja, Wyanda Arnafia, Irvan Faizal,
+Web-based surface plasmon resonance signal processing system for fast analyte analysis,
+SoftwareX,
+Volume 18,
+2022,
+101057,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101057.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000462)
+Keywords: Surface Plasmon Resonance; Baseline prediction; Web application; Data visualization; Python; Firebase
+
+Yinsheng Zhang, Haiyan Wang, Yongbo Cheng, Xiaolin Qin,
+pyCLAMs: An integrated Python toolkit for classifiability analysis,
+SoftwareX,
+Volume 18,
+2022,
+101007,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101007.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000188)
+Keywords: Classifiability analysis; Discriminative task; Python
+
+Reece N. Oosterbeek, Jonathan R.T. Jeffers,
+StrutSurf: A tool for analysis of strut morphology and surface roughness in additively manufactured lattices,
+SoftwareX,
+Volume 18,
+2022,
+101043,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101043.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000383)
+Keywords: Additive manufacturing; Micro-strut; Lattice material; Surface roughness
+
+George Oikonomou, Simon Duquennoy, Atis Elsts, Joakim Eriksson, Yasuyuki Tanaka, Nicolas Tsiftes,
+The Contiki-NG open source operating system for next generation IoT devices,
+SoftwareX,
+Volume 18,
+2022,
+101089,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101089.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000620)
+Keywords: Contiki-NG; Internet of Things; Resource-Constrained Devices
+
+Juan Ignacio Deza, Hisham Ihshaish,
+qNoise: A generator of non-Gaussian colored noise,
+SoftwareX,
+Volume 18,
+2022,
+101034,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101034.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000346)
+Keywords: Non-Gaussian; Random process generator; Stochastic differential equations
+
+Caio Eadi Stringari, Hannah Power,
+Picoastal: A low-cost coastal video monitoring system,
+SoftwareX,
+Volume 18,
+2022,
+101073,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101073.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000541)
+Keywords: Coastal monitoring; Beaches; Computer vision; Image processing; Raspberry Pi
+
+Omar Kammouh, M.W.A. (Maurits) Kok, Maria Nogal, Ruud Binnekamp, A.R.M. (Rogier) Wolfert,
+MitC: Open-source software for construction project control and delay mitigation,
+SoftwareX,
+Volume 18,
+2022,
+101023,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101023.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000267)
+Keywords: Risk; Uncertainty; Corrective measure; Project scheduling; Time-cost optimization; Monte Carlo simulation; Penalty and reward; Activity correlation
+
+Christoph W. Wagner, Sebastian Semper, Jan Kirchhof,
+fastmat: Efficient linear transforms in Python,
+SoftwareX,
+Volume 18,
+2022,
+101013,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101013.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000218)
+Keywords: Linear transforms; Linear algebra; Matrix-free; Compressed sensing
+
+Jorge M. Cruz-Duarte, José C. Ortiz-Bayliss, Ivan Amaya,
+MatHH: A Matlab-based Hyper-Heuristic framework,
+SoftwareX,
+Volume 18,
+2022,
+101047,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101047.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000413)
+Keywords: Combinatorial optimization; Hyper-heuristics; Job shop scheduling; Matlab; MatHH
+
+Maura Pintor, Luca Demetrio, Angelo Sotgiu, Marco Melis, Ambra Demontis, Battista Biggio,
+secml: Secure and explainable machine learning in Python,
+SoftwareX,
+Volume 18,
+2022,
+101095,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101095.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000656)
+Keywords: Machine learning; Security; Adversarial attacks; Explainability; Python3
+
+Haritz Medina, Oscar Díaz, Xabier Garmendia,
+WACline: A Software Product Line to harness heterogeneity in Web Annotation,
+SoftwareX,
+Volume 18,
+2022,
+101090,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101090.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000619)
+Keywords: Web annotation client customization; Data curation; Browser extension; Software product lines
+
+Andrzej Daniluk,
+Update 2.0 to rheed++: A complex computer model for dynamical one-beam calculations of RHEED intensity oscillations,
+SoftwareX,
+Volume 18,
+2022,
+101040,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101040.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000371)
+Keywords: Scientific computing; Numerical simulations; RHEED oscillations; Rocking curves
+
+Chloe Brimicombe, Claudia Di Napoli, Tiago Quintino, Florian Pappenberger, Rosalind Cornforth, Hannah L. Cloke,
+Thermofeel: A python thermal comfort indices library,
+SoftwareX,
+Volume 18,
+2022,
+101005,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101005.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000176)
+Keywords: Heat; Cold; Thermal comfort; Weather forecasting; Python
+
+Christoph Haas, Dörthe Holthusen, Rainer Horn,
+The Rheological-Data Extraction Application: A time-saving tool for the extraction of measured rheological data from a specific rheometer-inherent software,
+SoftwareX,
+Volume 18,
+2022,
+101055,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101055.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000450)
+Keywords: AutoIt; Rheology; RheoPlus; Soil
+
+Matthias Jordan, Markus Millinger, Daniela Thrän,
+Benopt-Heat: An economic optimization model to identify robust bioenergy technologies for the German heat transition,
+SoftwareX,
+Volume 18,
+2022,
+101032,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101032.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000334)
+Keywords: Optimization; Heat sector; Bioenergy; Uncertainty assessment
+
+Raphaël Hebert, Emese Meglécz,
+NSDPY: A python package to download DNA sequences from NCBI,
+SoftwareX,
+Volume 18,
+2022,
+101038,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101038.
+(https://www.sciencedirect.com/science/article/pii/S235271102200036X)
+Keywords: NCBI; Batch download; CDS; Python; PyPI; Taxonomy
+
+Bruno Pereira Cipriano, Nuno Fachada, Pedro Alves,
+Drop Project: An automatic assessment tool for programming assignments,
+SoftwareX,
+Volume 18,
+2022,
+101079,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101079.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000577)
+Keywords: Automated assessment; Computer science education; Programming education; Unit testing
+
+Digvijay Gusain, Milos̆ Cvetković, Peter Palensky,
+Simplifying multi-energy system co-simulations using energysim,
+SoftwareX,
+Volume 18,
+2022,
+101021,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101021.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000255)
+Keywords: Multi energy systems; Co-simulation; Technical assessment; Hybrid simulation
+
+
+Editorial Board,
+SoftwareX,
+Volume 18,
+2022,
+101117,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(22)00077-2.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000772)
+
+Krešimir Jozić, Nikolina Frid, Alan Jović, Željka Mihajlović,
+DICOM SIVR: A web architecture and platform for seamless DICOM image and volume rendering,
+SoftwareX,
+Volume 18,
+2022,
+101063,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101063.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000498)
+Keywords: DICOM; Medical imaging; Web application; Go

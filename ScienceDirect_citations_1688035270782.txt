@@ -1,0 +1,515 @@
+Bhoj Raj Ghimire, Rishi Ram Parajuli, Bipin Khatiwada, Shobha Poudel, Kusum Sharma, Bhogendra Mishra,
+Covira: A COVID-19 risk assessment, visualization and communication tool,
+SoftwareX,
+Volume 16,
+2021,
+100873,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100873.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001400)
+Keywords: Covira; Risk assessment; COVID-19; Software; Risk communication tool; Personal risk
+
+Giovanni Ciatto, Roberta Calegari, Andrea Omicini,
+2P-Kt: A logic-based ecosystem for symbolic AI,
+SoftwareX,
+Volume 16,
+2021,
+100817,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100817.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001126)
+Keywords: Logic programming; Artificial intelligence; Prolog; Kotlin; tuProlog
+
+Gunratan Lonare, Bharat Patil, Nilesh Raut,
+edgar: An R package for the U.S. SEC EDGAR retrieval and parsing of corporate filings,
+SoftwareX,
+Volume 16,
+2021,
+100865,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100865.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001369)
+Keywords: EDGAR filing; Financial statements; Textual analyses; Text parsing
+
+Matthias Drvoderic, Matthias Rettl, Martin Pletz, Clara Schuecker,
+CrackDect: Detecting crack densities in images of fiber-reinforced polymers,
+SoftwareX,
+Volume 16,
+2021,
+100832,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100832.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001205)
+Keywords: Crack detection; Image processing; Fiber-reinforced polymers; Crack density; Python
+
+Jorge Ribeiro, Pedro Lima, Francisco Nunes,
+Trial Monitor: Scaffolding personalised Web dashboards for Human–Computer Interaction field trials,
+SoftwareX,
+Volume 16,
+2021,
+100883,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100883.
+(https://www.sciencedirect.com/science/article/pii/S235271102100145X)
+Keywords: Field trials; Data visualisation; Remote monitoring; Telemonitoring
+
+Andrea Bizzego, Mengyu Lim, Gianluca Esposito,
+mics-library: A Python package for reproducible studies on the Multiple Indicator Cluster Survey,
+SoftwareX,
+Volume 16,
+2021,
+100828,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100828.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001187)
+Keywords: Low- and middle- income countries; Child development; Publich health; Multiple Indicator Cluster Survey
+
+Krzysztof Gajowniczek, Tomasz Ząbkowski,
+ImbTreeEntropy: An R package for building entropy-based classification trees on imbalanced datasets,
+SoftwareX,
+Volume 16,
+2021,
+100841,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100841.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001242)
+Keywords: Decision trees; Generalized entropy; Cost-sensitive learning; Imbalanced data
+
+Stanisław Deniziak, Mariusz Wiśniewski,
+DECOLib: A library of components for DECOmposition of discrete functions,
+SoftwareX,
+Volume 16,
+2021,
+100799,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100799.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001023)
+Keywords: functional decomposition; Logic functions; Multiple-valued functions; Blanket algebra; FPGA; Java
+
+Omar Montoya, Octavio Icasio-Hernández, Joaquín Salas,
+TreeTool: A tool for detecting trees and estimating their DBH using forest point clouds,
+SoftwareX,
+Volume 16,
+2021,
+100889,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100889.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001485)
+Keywords: Detecting trees; Dense point clouds; Segmentation; Forestry
+
+Davide Stocco, Enrico Bertolazzi,
+Acme: A small 3D geometry library,
+SoftwareX,
+Volume 16,
+2021,
+100845,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100845.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001266)
+Keywords: Computational geometry; C++; Eigen 3; Matlab®; Mex file; BVH; Real-time; Driving simulation
+
+Fabio Corradini, Nicolas Beriot, Esperanza Huerta-Lwanga, Violette Geissen,
+uFTIR: An R package to process hyperspectral images of environmental samples captured with μFTIR microscopes,
+SoftwareX,
+Volume 16,
+2021,
+100857,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100857.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001321)
+Keywords: Hyperspectral images; Environmental monitoring; Microplastics; IR microscopy; Plastic pollution
+
+Victor Couty, Jean-François Witz, Pauline Lecomte-Grosbras, Julien Berthe, Eric Deletombe, Mathias Brieu,
+GPUCorrel: A GPU accelerated Digital Image Correlation software written in Python,
+SoftwareX,
+Volume 16,
+2021,
+100815,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100815.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001102)
+Keywords: DIC; Digital Image Correlation; GPU; Mechanics; CUDA; Python; Strain; Measurement
+
+Michał Narajewski, Jens Kley-Holsteg, Florian Ziel,
+tsrobprep — an R package for robust preprocessing of time series data,
+SoftwareX,
+Volume 16,
+2021,
+100809,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100809.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001084)
+Keywords: Data cleaning; Missing values; Outliers; Anomaly detection; Time series; Robust preprocessing; Energy system data
+
+Leonard Göke,
+AnyMOD.jl: A Julia package for creating energy system models,
+SoftwareX,
+Volume 16,
+2021,
+100871,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100871.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001382)
+Keywords: Macro-energy systems; Energy system modeling; Open-source modeling; Julia
+
+Aleksandr Yurievich Yurin, Nikita Olegovich Dorodnykh, Olga Anatolievna Nikolaychuk,
+Update (4.2020.0303) to “Personal Knowledge Base Designer: Software for expert systems prototyping”, (PII: S2352711019303334),
+SoftwareX,
+Volume 16,
+2021,
+100825,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100825.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001163)
+Keywords: Decision tables; Knowledge base; Rules; RVML; PKBD
+
+Oleg Zolotov, Yulia Romanovskaya, Maria Knyazeva,
+pyFIRI — A free and open source Python software package of the non-auroral Earth’s lower ionosphere,
+SoftwareX,
+Volume 16,
+2021,
+100885,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100885.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001461)
+Keywords: Python package; FIRI model; D-region; Lower ionosphere of the Earth
+
+Siqin Meng, Zhendong Fu, Jianfei Qin, Xiaobai Ma, Yuqing Li, Lijie Hao, Yuntao Liu, Kai Sun, Dongfeng Chen,
+magcoilcalc: A Python package for modeling and optimization of axisymmetric magnet coils generating uniform magnetic field for noble gas spin-polarizers,
+SoftwareX,
+Volume 16,
+2021,
+100805,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100805.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001060)
+Keywords: Magnetic field; Spin-exchange optical pumping; Python
+
+Madhavi Latha Yadav Bangaru, Ravi Kumar Medabalimi, Sobhan Babu, Nidhanapati K. Raghavendra,
+REMP software to introduce a screening REstriction site in site-directed Mutagenesis Primer,
+SoftwareX,
+Volume 16,
+2021,
+100881,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100881.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001448)
+Keywords: Site-directed mutagenesis; Python 3; Silent mutation; Restriction site; DNA mutant primer
+
+Mateusz Żarski, Bartosz Wójcik, Jarosław Adam Miszczak,
+KrakN: Transfer Learning framework and dataset for infrastructure thin crack detection,
+SoftwareX,
+Volume 16,
+2021,
+100893,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100893.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001503)
+Keywords: Infrastructure maintenance; Structural health monitoring; Deep learning; Transfer learning
+
+Jong-Hee Chung, Yong-Bin Lim, Donghoh Kim,
+BDEsize: An R package for efficient determination of sample size in a balanced design of experiments,
+SoftwareX,
+Volume 16,
+2021,
+100837,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100837.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001229)
+Keywords: Sample size; Balanced design of experiment; Standardized effect size; Power
+
+
+Editorial Board,
+SoftwareX,
+Volume 16,
+2021,
+100940,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(21)00174-6.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001746)
+
+Ali Ahmad, Guillaume Vanel, Sorina Camarasu-Pop, Axel Bonnet, Carole Frindel, David Rousseau,
+MicroVIP: Microscopy image simulation on the Virtual Imaging Platform,
+SoftwareX,
+Volume 16,
+2021,
+100854,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100854.
+(https://www.sciencedirect.com/science/article/pii/S235271102100131X)
+Keywords: Microscopy image simulation; Virtual Imaging Platform; Machine learning
+
+Jimmy Francky Randrianasoa, Camille Kurtz, Éric Desjardin, Nicolas Passat,
+AGAT: Building and evaluating binary partition trees for image segmentation,
+SoftwareX,
+Volume 16,
+2021,
+100855,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100855.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001308)
+Keywords: Binary partition tree; Hierarchical modeling; Image/graph processing; Quality evaluation
+
+Aleksandr Podvesovskii, Alena Zakharova, Dmitriy Korostelyov, Aleksandr Kuzin,
+DecisionMaster: A multi-criteria decision support system with ability to combine different decision rules,
+SoftwareX,
+Volume 16,
+2021,
+100814,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100814.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001114)
+Keywords: Decision support system; Ranking of alternatives; Multi-criteria decision making methods
+
+Mohammad Bozlul Karim, Shigehiko Kanaya, Md. Altaf-Ul-Amin,
+DPClusSBO: An integrated software for clustering of simple and bipartite graphs,
+SoftwareX,
+Volume 16,
+2021,
+100821,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100821.
+(https://www.sciencedirect.com/science/article/pii/S235271102100114X)
+Keywords: Graph; Cluster; Bicluster
+
+Christoph Praschl, Andreas Pointner, David Baumgartner, Gerald Adam Zwettler,
+Imaging framework: An interoperable and extendable connector for image-related Java frameworks,
+SoftwareX,
+Volume 16,
+2021,
+100863,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100863.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001357)
+Keywords: Java; Image processing; Computer vision; Interoperability and extendability
+
+Jean-Yves Colle, Jouni Rautio, Daniel Freis,
+A modular LabVIEW application frame for Knudsen Effusion Mass Spectrometry instrument control,
+SoftwareX,
+Volume 16,
+2021,
+100875,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100875.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001412)
+Keywords: Knudsen Effusion Mass Spectrometry; KEMS; Software
+
+Miron B. Kursa,
+Praznik: High performance information-based feature selection,
+SoftwareX,
+Volume 16,
+2021,
+100819,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100819.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001138)
+Keywords: Feature selection; Information theory; Information filters
+
+Danjo De Chavez, Jun-ya Hasegawa,
+OpenMechanochem: A Python module for mechanochemical simulations,
+SoftwareX,
+Volume 16,
+2021,
+100879,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100879.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001436)
+Keywords: Mechanochemistry; Molecular simulations; Quantum chemistry; Atomic simulation environment; Potential energy surface
+
+Dexter D. Antonio, Jiawei Guo, Sam J. Holton, Ambarish R. Kulkarni,
+Simplifying computational workflows with the Multiscale Atomic Zeolite Simulation Environment (MAZE),
+SoftwareX,
+Volume 16,
+2021,
+100797,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100797.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001011)
+Keywords: Multiscale simulations; Cluster; Zeolites; DFT
+
+Piotr Korcyl,
+Numerical package for solving the JIMWLK evolution equation in C++,
+SoftwareX,
+Volume 16,
+2021,
+100887,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100887.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001473)
+Keywords: Langevin equation; JIMWLK equation; Stochastic integration; Gluon dipole distribution
+
+Nikolaos Anastasopoulos, Ioannis G. Tsoulos, Alexandros Tzallas,
+GenClass: A parallel tool for data classification based on Grammatical Evolution,
+SoftwareX,
+Volume 16,
+2021,
+100830,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100830.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001199)
+Keywords: Genetic algorithm; Data classification; Grammatical evolution; Stochastic methods
+
+Eurico Mesquita Noleto-Filho, Ronaldo Angelini, Jeroen Steenbeek, Adriana Rosa Carvalho,
+New, flexible and open-source fisheries self-reporting app: The Shiny4SelfReport,
+SoftwareX,
+Volume 16,
+2021,
+100843,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100843.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001254)
+Keywords: Fisheries; Self-reporting; Shiny apps; R software; Monitoring
+
+Chathika Gunaratne, Ivan Garibay,
+NL4Py: Agent-based modeling in Python with parallelizable NetLogo workspaces,
+SoftwareX,
+Volume 16,
+2021,
+100801,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100801.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001035)
+Keywords: Python; NetLogo; Agent-based modeling; Complex adaptive systems; Parameter calibration
+
+William T. Heller, Mathieu Doucet, Richard K. Archibald,
+Sas-temper: Software for fitting small-angle scattering data that provides automated reproducibility characterization,
+SoftwareX,
+Volume 16,
+2021,
+100849,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100849.
+(https://www.sciencedirect.com/science/article/pii/S235271102100128X)
+Keywords: Small-angle scattering; Reproducibility characterization; Simulated annealing
+
+João R. Almeida, Leonardo Coelho, José L. Oliveira,
+BIcenter: A collaborative Web ETL solution based on a reflective software approach,
+SoftwareX,
+Volume 16,
+2021,
+100892,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100892.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001497)
+Keywords: ETL; Collaborative pipeline; Pentaho Data Integration
+
+Victor Couty, Jean-François Witz, Corentin Martel, François Bari, Antoine Weisrock,
+CRAPPY: Command and Real-Time Acquisition in Parallelized Python, a Python module for experimental setups,
+SoftwareX,
+Volume 16,
+2021,
+100848,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100848.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001278)
+Keywords: Control-command; Acquisition; Python; Experimental setup
+
+Kais Siala, Leonhard Odersky,
+pyGRETA, pyCLARA, pyPRIMA: A pre-processing suite to generate flexible model regions for energy system models,
+SoftwareX,
+Volume 16,
+2021,
+100860,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100860.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001333)
+Keywords: Energy system modeling; Spatial complexity; Clustering; Pre-processing
+
+Dimitrios Michail,
+JHeaps: An open-source library of priority queues,
+SoftwareX,
+Volume 16,
+2021,
+100869,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100869.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001370)
+Keywords: Heap; Priority queue; Data structures
+
+Leon M. Aksman, Peter A. Wijeratne, Neil P. Oxtoby, Arman Eshaghi, Cameron Shand, Andre Altmann, Daniel C. Alexander, Alexandra L. Young,
+pySuStaIn: A Python implementation of the Subtype and Stage Inference algorithm,
+SoftwareX,
+Volume 16,
+2021,
+100811,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100811.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001096)
+Keywords: Disease progression modeling; Disease heterogeneity; Disease subtyping; Disease staging
+
+Arnout M.P. Boelens, Hamdi A. Tchelepi,
+QuantImPy: Minkowski functionals and functions with Python,
+SoftwareX,
+Volume 16,
+2021,
+100823,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100823.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001151)
+Keywords: Minkowski functionals; Minkowski functions; Morphological operations; Python
+
+Richard Weinhold, Robert Mieth,
+Power Market Tool (POMATO) for the analysis of zonal electricity markets,
+SoftwareX,
+Volume 16,
+2021,
+100870,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100870.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001394)
+Keywords: Flow-based market coupling; FBMC; Economic dispatch problem; Transmission system; Optimal power flow; Security constrained optimal power flow
+
+Alp Karakoç,
+RegionTPMS — Region based triply periodic minimal surfaces (TPMS) for 3-D printed multiphase bone scaffolds with exact porosity values,
+SoftwareX,
+Volume 16,
+2021,
+100835,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100835.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001175)
+Keywords: Triply periodic minimal surface (TPMS); Scaffold; Porosity; Additive manufacturing (AM); Functionally graded; Multiphase
+
+Sebastian Schwarz, Sebastian Alexander Uerlich, Antonello Monti,
+pycity_scheduling—A Python framework for the development and assessment of optimisation-based power scheduling algorithms for multi-energy systems in city districts,
+SoftwareX,
+Volume 16,
+2021,
+100839,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100839.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001230)
+Keywords: Optimisation framework; Power scheduling algorithm; Multi-energy systems; Smart grid
+
+Mokbel Karam, Tony Saad,
+BuckinghamPy: A Python software for dimensional analysis,
+SoftwareX,
+Volume 16,
+2021,
+100851,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100851.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001291)
+Keywords: Buckingham Π theorem; Dimensional analysis; Dimensionless terms; Python
+
+Benjamin Rodenberg, Ishaan Desai, Richard Hertrich, Alexander Jaust, Benjamin Uekermann,
+FEniCS–preCICE: Coupling FEniCS to other simulation software,
+SoftwareX,
+Volume 16,
+2021,
+100807,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100807.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001072)
+Keywords: FEniCS; Fluid–structure interaction; Conjugate heat transfer; Multiphysics; Coupled problems; Finite element method; preCICE
+
+Bernard Giroux,
+ttcrpy: A Python package for traveltime computation and raytracing,
+SoftwareX,
+Volume 16,
+2021,
+100834,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100834.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001217)
+Keywords: Traveltime; Raytracing; Geophysics; Python; C＋＋

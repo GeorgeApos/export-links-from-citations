@@ -1,0 +1,450 @@
+Andrés Manuel Chacón-Maldonado, Gualberto Asencio-Cortés, Francisco Martínez-Álvarez, Alicia Troncoso,
+FS-Studio: An extensive and efficient feature selection experimentation tool for Weka Explorer,
+SoftwareX,
+Volume 23,
+2023,
+101401,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101401.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000973)
+Keywords: Feature selection; Weka; Parallel computation; Bayesian statistical tests
+
+Jiachen Xu, Moritz Grosse-Wentrup,
+PyTES: A Python toolbox for closed-loop transcranial electrical stimulation,
+SoftwareX,
+Volume 23,
+2023,
+101403,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101403.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000997)
+Keywords: Closed-loop system; Transcranial electrical stimulation (TES); Personalized system; Python toolbox
+
+Kristóf Floch, Attila Kossa,
+Motion Tracker Beta: A GUI based open-source motion tracking application,
+SoftwareX,
+Volume 23,
+2023,
+101424,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101424.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001206)
+Keywords: Motion tracking; Motion analysis; Python
+
+Achilleas Fillipidis, Adam J. Sadowski,
+Modern analysis of axisymmetric shells with AQUINAS: A MATLAB finite element toolbox,
+SoftwareX,
+Volume 23,
+2023,
+101434,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101434.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001309)
+Keywords: FEM; Axisymmetric shells; Buckling; Eurocode development
+
+Cristian E. Sosa-Espadas, Mauricio G. Orozco-del-Castillo, Nora Cuevas-Cuevas, Juan A. Recio-Garcia,
+IREX: Iterative Refinement and Explanation of classification models for tabular datasets,
+SoftwareX,
+Volume 23,
+2023,
+101420,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101420.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001164)
+Keywords: Explainable Artificial Intelligence; ML model refinement; Tabular data; Depression screening
+
+Alejandro Platas-López, Alejandro Guerra-Hernández, Francisco Grimaldo, Nicandro Cruz-Ramírez, Efrén Mezura-Montes, Marcela Quiroz-Castellanos,
+dplbnDE: An R package for discriminative parameter learning of Bayesian Networks by Differential Evolution,
+SoftwareX,
+Volume 23,
+2023,
+101442,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101442.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001383)
+Keywords: Bayesian Networks; Discriminative Learning; Differential Evolution; Parameter optimization
+
+Malik Yahiaoui, Denis Mazuyer, Juliette Cayer-Barrioz,
+IssyOsborne: transIent Squeeze and Starvation in elastohydrodynamic — OScillating Bodies sOlving Reynolds oNe-dimensional Equation,
+SoftwareX,
+Volume 23,
+2023,
+101422,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101422.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001188)
+Keywords: Tribology; Elastohydrodynamic lubrication; Reynolds equation resolution; Reciprocating sliding; Transient flow
+
+Gianluca Amato, Francesca Scozzari,
+JGMP: Java bindings and wrappers for the GMP library,
+SoftwareX,
+Volume 23,
+2023,
+101428,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101428.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001243)
+Keywords: Arbitrary precision arithmetic; Integer numbers; Rational numbers; Floating point numbers; Java
+
+Nathan Fox, Derek Van Berkel, Ramiro Serrano Verge, Mark Lindquist,
+vGameReviews: An R package for harnessing video game reviews for scientific research,
+SoftwareX,
+Volume 23,
+2023,
+101423,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101423.
+(https://www.sciencedirect.com/science/article/pii/S235271102300119X)
+Keywords: Video games; Game reviews; Sustainability; Urban planning; Education
+
+Miguel González Jiménez, Héctor Aguilera, Luis Moreno Merino, Amalia Romero Prados,
+Q-Facies: A tool for the quantitative interpretation of groundwater hydrochemical facies,
+SoftwareX,
+Volume 23,
+2023,
+101450,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101450.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001462)
+Keywords: Hydrochemical facies; Hydrochemistry; Variability indices; Spatiotemporal facies analysis
+
+João Paulo Just Peixoto, Daniel G. Costa, Washington de J.S. da Franca Rocha, Paulo Portugal, Francisco Vasques,
+CityZones: A geospatial multi-tier software tool to compute urban risk zones,
+SoftwareX,
+Volume 23,
+2023,
+101409,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101409.
+(https://www.sciencedirect.com/science/article/pii/S235271102300105X)
+Keywords: Geospatial data; Urban emergency; Smart cities; OpenStreetMap
+
+George S. Evans, Thomas F. Fuerst, Chase N. Taylor, Masashi Shimada,
+Hydrogen Permeation and Absorption Tool (HyPAT v2.0): An update to facilitate analyses of data from hydrogen absorption experiments,
+SoftwareX,
+Volume 23,
+2023,
+101430,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101430.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001267)
+Keywords: Hydrogen; Data analysis; Absorption; Solubility; Diffusivity; Permeability
+
+Henrik Austad, Geir Mathisen,
+net_chan: Deterministic network channels for distributed real-time systems,
+SoftwareX,
+Volume 23,
+2023,
+101436,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101436.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001322)
+Keywords: TSN; Real-time Linux; Reliable network-channels; Composable systems
+
+Victorino Sanz, Alfonso Urquia,
+MSGLib: A Modelica library for message passing communication,
+SoftwareX,
+Volume 23,
+2023,
+101438,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101438.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001346)
+Keywords: Message passing communication; Modelica
+
+Moncef Garouani, Mourad Bouneffa, Adeel Ahmad, Mohamed Hamlich,
+Version [2.0]- [AMLBID: An auto-explained Automated Machine Learning tool for Big Industrial Data],
+SoftwareX,
+Volume 23,
+2023,
+101444,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101444.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001401)
+Keywords: Machine learning; AutoML; Meta-learning; Decision-support systems; Explainable AI
+
+Luca S. D’Acci, Michele Voto,
+Morphogenesis of Isobenefit urbanism: Isobenefit-cities simulator,
+SoftwareX,
+Volume 23,
+2023,
+101408,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101408.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001048)
+Keywords: Walkable cities; Green cities; Sustainable urban forms; E-planning; Low carbon cities; future cities
+
+Emmanuel K. Raptis, Konstantinos Englezos, Orfeas Kypris, Marios Krestenitis, Athanasios Ch. Kapoutsis, Konstantinos Ioannidis, Stefanos Vrochidis, Elias B. Kosmatopoulos,
+CoFly: An automated, AI-based open-source platform for UAV precision agriculture applications,
+SoftwareX,
+Volume 23,
+2023,
+101414,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101414.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001103)
+Keywords: UAVs; Precision agriculture; Power efficient solutions; Remote sensing applications
+
+Andrés Segura-Tinoco, Iván Cantador,
+ARGAEL: ARGument Annotation and Evaluation tooL,
+SoftwareX,
+Volume 23,
+2023,
+101410,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101410.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001061)
+Keywords: Text annotation; Annotation software; Annotation evaluation; Argument extraction; Argument mining
+
+Jianning Li, André Ferreira, Behrus Puladi, Victor Alves, Michael Kamp, Moon Kim, Felix Nensa, Jens Kleesiek, Seyed-Ahmad Ahmadi, Jan Egger,
+Open-source skull reconstruction with MONAI,
+SoftwareX,
+Volume 23,
+2023,
+101432,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101432.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001280)
+Keywords: Skull reconstruction; Research contribution; MONAI; Open-source; API; PyTorch; Python; Deep learning; Pre-trained model; Cranial implant design; Cranioplasty; Craniotomy; Craniectomy; CT; Bone; Head; Face
+
+Vanesa Herrera, David Vallejo, José J. Castro-Schez, Dorothy N. Monekosso, Ana de los Reyes, Carlos Glez-Morcillo, Javier Albusac,
+Rehab-Immersive: A framework to support the development of virtual reality applications in upper limb rehabilitation,
+SoftwareX,
+Volume 23,
+2023,
+101412,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101412.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001085)
+Keywords: Virtual reality (VR); Upper-limb rehabilitation; Software framework; Spinal cord injuries (SCI); Kinematic data; Box & Block test
+
+Grace Skinner, Rob Cooke, Junghyuk Keum, Andy Purvis, Cristina Raw, Ben A. Woodcock, Joseph Millard,
+Dynameta: A dynamic platform for ecological meta-analyses in R Shiny,
+SoftwareX,
+Volume 23,
+2023,
+101439,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101439.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001358)
+Keywords: Dynamic meta-analysis; Living-review; Biodiversity change; R Shiny; Anthropogenic disturbance
+
+Agung Danu Wijaya, Dedy Farhamsa, Darmawati Darwis,
+netDFT: JAVA Density Functional Theory for solid,
+SoftwareX,
+Volume 23,
+2023,
+101445,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101445.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001413)
+Keywords: Kohn–Sham Density Functional Theory; Band structure; Total energy; JAVA
+
+Thanh Tung Khuat, Bogdan Gabrys,
+hyperbox-brain: A Python toolbox for hyperbox-based machine learning algorithms,
+SoftwareX,
+Volume 23,
+2023,
+101425,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101425.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001218)
+Keywords: Hyperbox-based machine learning; Hyperbox fuzzy sets; Fuzzy min–max neural networks; General fuzzy min–max neural network; Explainable machine learning; Classifier
+
+Giacomo Longo, Alessandro Orlich, Stefano Musante, Alessio Merlo, Enrico Russo,
+MaCySTe: A virtual testbed for maritime cybersecurity,
+SoftwareX,
+Volume 23,
+2023,
+101426,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101426.
+(https://www.sciencedirect.com/science/article/pii/S235271102300122X)
+Keywords: Maritime cybersecurity; Digital twin; Testbed; Cyber–physical systems; Cybersecurity testing; Cybersecurity training; Cyber ranges
+
+José-Luis Blanco-Claraco, Borys Tymchenko, Francisco José Mañas-Alvarez, Fernando Cañadas-Aránega, Ángel López-Gázquez, José Carlos Moreno,
+MultiVehicle Simulator (MVSim): Lightweight dynamics simulator for multiagents and mobile robotics research,
+SoftwareX,
+Volume 23,
+2023,
+101443,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101443.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001395)
+Keywords: Mobile robotics; Vehicle dynamics; Vehicle–ground interaction; Multi-agent simulation
+
+Ramón Pujol-Nadal, Gabriel Cardona,
+OTSunWebApp: A ray tracing web application for the analysis of concentrating solar-thermal and photovoltaic solar cells,
+SoftwareX,
+Volume 23,
+2023,
+101449,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101449.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001450)
+Keywords: Ray tracing; Concentrating solar power; Photovoltaic solar cell; Solar optics
+
+Vicente González-Ruiz, Jose-Jesus Fernández,
+FlowDenoising: Structure-preserving denoising in 3D electron microscopy (3DEM),
+SoftwareX,
+Volume 23,
+2023,
+101413,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101413.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001097)
+Keywords: Gaussian denoising; Noise filtering; Optical flow; 3D electron microscopy; FIB-SEM; CryoET
+
+Mario Stojanović, Francesco Romanò, Hendrik C. Kuhlmann,
+MaranStable: A linear stability solver for multiphase flows in canonical geometries,
+SoftwareX,
+Volume 23,
+2023,
+101405,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101405.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001012)
+Keywords: Navier–Stokes equations; Multiphase flow; GUI; Thermocapillary flow
+
+Daniel A. Triana-Camacho, Jorge H. Quintero-Orozco, Enrique García-Macías,
+Pypiezo-GO: A software tool for processing electromechanical measurements of piezoelectric reduced graphene oxide-cement composites,
+SoftwareX,
+Volume 23,
+2023,
+101451,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101451.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001474)
+Keywords: Cyclic voltammetry; DataFrame; Open circuit potential; Piezoelectricity; Python language; Reduced graphene oxide
+
+Samantha Wittke, Anne Fouilloux, Petteri Lehti, Juuso Varho, Arttu Kivimäki, Maiju Karhu, Mika Karjalainen, Matti Vaaja, Eetu Puttonen,
+EODIE — Earth Observation Data Information Extractor,
+SoftwareX,
+Volume 23,
+2023,
+101421,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101421.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001176)
+Keywords: Remote sensing; Big data processing; Earth observation; Open-source software
+
+Wilmer Moina-Rivera, Juan Gutiérrez-Aguado, Miguel Garcia-Pineda,
+Video quality metrics toolkit: An open source software to assess video quality,
+SoftwareX,
+Volume 23,
+2023,
+101427,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101427.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001231)
+Keywords: Video quality; Video metric; Video assessment; Video quality metric; Software tool
+
+Jannek Gundlach, Maximilian Behnke, Christian Jordan,
+PROVER-M: A simple model to project the disposal of fine sediments,
+SoftwareX,
+Volume 23,
+2023,
+101407,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101407.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001036)
+Keywords: Sediment disposal; Dynamic plume; Near-field model; MATLAB
+
+Karl Ludger Radke, Janina Hußmann, Lena Röwer, Dirk Voit, Jens Frahm, Gerald Antoch, Dirk Klee, Frank Pillekamp, Hans-Jörg Wittsack,
+“shortCardiac” — An open-source framework for fast and standardized assessment of cardiac function,
+SoftwareX,
+Volume 23,
+2023,
+101453,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101453.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001498)
+Keywords: Open-source framework; Cardiac magnetic resonance imaging; Computer-assisted methods; Heart diagnostic imaging; Image processing; Real-time imaging
+
+Mattan Tseng, Jack Miller, Dante Goldner, Eliot Winer,
+XRAE: Extended Reality Acuity Examination,
+SoftwareX,
+Volume 23,
+2023,
+101429,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101429.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001255)
+Keywords: Extended Reality; Visual acuity; Accessibility
+
+Suhail S.M. Hussain, Chen Yaohao, Muhammad M. Roomi, Daisuke Mashima, Ee-Chien Chang,
+An open-source framework for publishing/subscribing IEC 61850 R-GOOSE and R-SV,
+SoftwareX,
+Volume 23,
+2023,
+101415,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101415.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001115)
+Keywords: Routable-GOOSE (R-GOOSE); Routable-SV (R-SV); IEC 61850-90-5; Publisher; Subscriber
+
+Eddy Caron, Jean-François Witz, Christophe Cuvier, Arnaud Beaurain, Vincent Magnier, Ahmed El Bartali,
+PYCASO: Python module for calibration of cameras by Soloff’s method,
+SoftwareX,
+Volume 23,
+2023,
+101440,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101440.
+(https://www.sciencedirect.com/science/article/pii/S235271102300136X)
+Keywords: Stereoscopic calibration; Precision measurement; Artificial intelligence; Open-source module; Python
+
+Fabien Salmon, Ludovic Chatellier,
+pyMeshFOAM: Automated meshing for CFD and fluid–structure simulations,
+SoftwareX,
+Volume 23,
+2023,
+101431,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101431.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001279)
+Keywords: Computational fluid dynamics; Fluid–structure interaction; Meshing tool; Boundary layers; OpenFOAM
+
+Pavla Krotka, Katharina Hees, Peter Jacko, Dominic Magirr, Martin Posch, Marta Bofill Roig,
+NCC: An R-package for analysis and simulation of platform trials with non-concurrent controls,
+SoftwareX,
+Volume 23,
+2023,
+101437,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101437.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001334)
+Keywords: Statistics; Clinical trial simulation; Platform trials; Shared controls; Non-concurrent controls
+
+Hao Weng, Zhengyang Liu, Dayong Wang,
+ALPHA MODEL: A C++ code for modelling and analyzing hydrate-saturation-dependent permeability of hydrate-bearing porous media,
+SoftwareX,
+Volume 23,
+2023,
+101433,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101433.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001292)
+Keywords: Gas hydrate; Visualization; Permeability; Data processing; Energy
+
+Ahcen Aliouat, Nasreddine Kouadria, Doru Florin Chiper,
+x-DTT: A package for calculating real and Integer Discrete Tchebichef Transform kernels based on orthogonal polynomials,
+SoftwareX,
+Volume 23,
+2023,
+101441,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101441.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001371)
+Keywords: Discrete Tchebichef Transform; Integer Discrete Tchebichef Transform; Image compression; Features extraction
+
+Rui Wu, Connor Scully-Allison, Chase Carthen, Andy Garcia, Roger Hoang, Christopher Lewis, Ronn Siedrik Quijada, Jessica Smith, Sergiu M. Dascalu, Frederick C. Harris,
+vFirelib: A GPU-based fire simulation and visualization tool,
+SoftwareX,
+Volume 23,
+2023,
+101411,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101411.
+(https://www.sciencedirect.com/science/article/pii/S2352711023001073)
+Keywords: Wildfire; GPU; Simulation and visualization

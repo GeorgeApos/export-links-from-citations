@@ -1,0 +1,568 @@
+Venkatramanan Krishnamani, Mark A. Stamnes, Robert C. Piper,
+MALTA: A calculator for estimating the coverage with shRNA, CRISPR, and cDNA libraries,
+SoftwareX,
+Volume 9,
+2019,
+Pages 154-160,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301304)
+Keywords: Computation; Genetic screening; Pooled libraries
+
+Marcos Cardinot, Colm O’Riordan, Josephine Griffith, Matjaž Perc,
+Evoplex: A platform for agent-based modeling on networks,
+SoftwareX,
+Volume 9,
+2019,
+Pages 199-204,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.02.009.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302437)
+Keywords: Agent-based modeling; Complex system; Self-organization; Coevolution; Network science; Evolutionary game theory
+
+Danny Smyl, Sven Bossuyt, Dong Liu,
+OpenQSEI: A MATLAB package for quasi static elasticity imaging,
+SoftwareX,
+Volume 9,
+2019,
+Pages 73-76,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300256)
+Keywords: Elasticity imaging; Inverse problems; Medical imaging; Structural health monitoring
+
+Raghu Dharmavarapu, Shanti Bhattacharya, Saulius Juodkazis,
+GDOESII: Software for design of diffractive optical elements and phase mask conversion to GDSII lithography files,
+SoftwareX,
+Volume 9,
+2019,
+Pages 126-131,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.012.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302711)
+Keywords: Diffractive optics; Image to GDSII conversion; Python
+
+Vinay Yadav, Subhankar Karmakar, Pradip P. Kalbar, A.K. Dikshit,
+PyTOPS: A Python based tool for TOPSIS,
+SoftwareX,
+Volume 9,
+2019,
+Pages 217-222,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.02.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302279)
+Keywords: Python; TOPSIS
+
+Miguel A. Rodriguez, Christoph M. Augustin, Shawn C. Shadden,
+FEniCS mechanics: A package for continuum mechanics simulations,
+SoftwareX,
+Volume 9,
+2019,
+Pages 107-111,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.10.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300979)
+Keywords: Computational mechanics; Fluid mechanics; Solid mechanics; Finite element method
+
+R. Zupko, M. Rouleau,
+ForestSim: Spatially explicit agent-based modeling of non-industrial forest owner policies,
+SoftwareX,
+Volume 9,
+2019,
+Pages 117-125,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.008.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302310)
+Keywords: Agent-based modeling; Policy modeling; Forest modeling; Environmental impacts; Land-use change
+
+Pierre Lacroix, Frédéric Moser, Antonio Benvenuti, Thomas Piller, David Jensen, Inga Petersen, Marion Planque, Nicolas Ray,
+MapX: An open geospatial platform to manage, analyze and visualize data on natural resources and the environment,
+SoftwareX,
+Volume 9,
+2019,
+Pages 77-84,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300177)
+Keywords: Spatial data infrastructure; Open data; Data integrity; Natural resources
+
+Andreas F. Haselsteiner, Jannik Lehmkuhl, Tobias Pape, Kai-Lukas Windmeier, Klaus-Dieter Thoben,
+ViroCon: A software to compute multivariate extremes using the environmental contour method,
+SoftwareX,
+Volume 9,
+2019,
+Pages 95-101,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301420)
+Keywords: Marine structures; Probabilistic design; Extreme value statistics
+
+Matthew Roughan,
+Practically surreal: Surreal arithmetic in Julia,
+SoftwareX,
+Volume 9,
+2019,
+Pages 293-298,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.03.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302152)
+
+Arya Shahdi, Ekarit Panacharoensawad,
+SP-Wax: Solid–liquid equilibrium thermodynamic modeling software for paraffinic systems,
+SoftwareX,
+Volume 9,
+2019,
+Pages 145-153,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.015.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302395)
+Keywords: Thermodynamics; Paraffin; Solid–liquid equilibria; Wax deposition
+
+José A. Álvarez-Gómez,
+FMC—Earthquake focal mechanisms data management, cluster and classification,
+SoftwareX,
+Volume 9,
+2019,
+Pages 299-307,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.03.008.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302590)
+Keywords: Earthquake; Focal mechanism; Clustering
+
+Gabriel Johnson, Sandra Spiroff,
+Automating the calculation of the Hilbert–Kunz multiplicity and F-signature,
+SoftwareX,
+Volume 9,
+2019,
+Pages 35-38,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.12.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301833)
+Keywords: Hilbert–Kunz multiplicity; F-signature; Intersection algebras
+
+Daniil Kazantsev, Edoardo Pasca, Martin J. Turner, Philip J. Withers,
+CCPi-Regularisation toolkit for computed tomographic image reconstruction with proximal splitting algorithms,
+SoftwareX,
+Volume 9,
+2019,
+Pages 317-323,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.04.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301912)
+Keywords: X-ray CT; Iterative methods; Model-based; Regularisation; Denoising; Primal–dual; Big-data
+
+Constantin Steppa, Tim L. Holch,
+HexagDLy—Processing hexagonally sampled data with CNNs in PyTorch,
+SoftwareX,
+Volume 9,
+2019,
+Pages 193-198,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.02.010.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302723)
+Keywords: Convolutional neural networks; Hexagonal grid; PyTorch; Astroparticle physics
+
+Suresh Dhakal, Mohamed A. Moustafa,
+MC-BAM: Moment–curvature analysis for beams with advanced materials,
+SoftwareX,
+Volume 9,
+2019,
+Pages 175-182,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.014.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301432)
+Keywords: Moment–curvature section analysis; Ultra-high performance concrete; High-strength steel; Prestressing
+
+Nikolaos Karathanasopoulos, Panagiotis Hadjidoukas,
+TendonMech: An open source high performance code to compute the mechanical behavior of tendon fascicles,
+SoftwareX,
+Volume 9,
+2019,
+Pages 324-327,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.04.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302929)
+Keywords: Tendon; fiber; Poisson’s ratio; matrix
+
+Antonella Galizia, Gabriele Zereik, Luca Roverelli, Emanuele Danovaro, Andrea Clematis, Daniele D’Agostino,
+Json-GUI—A module for the dynamic generation of form-based web interfaces,
+SoftwareX,
+Volume 9,
+2019,
+Pages 28-34,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.11.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300505)
+Keywords: AngularJS; Web form; Science gateways
+
+Parul Mathur, Mauricio D. Perez, Robin Augustine, Dhanesh G. Kurup,
+NDECOAX: A software package for nondestructive evaluation of stratified dielectric media,
+SoftwareX,
+Volume 9,
+2019,
+Pages 187-192,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.02.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302280)
+Keywords: Coaxial probe; Nondestructive evaluation (NDE)
+
+Tilo Zienert,
+cp-tools: A Python library for predicting heat capacity of crystalline substances,
+SoftwareX,
+Volume 9,
+2019,
+Pages 244-247,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.02.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301791)
+Keywords: CALPHAD; Heat capacity; Thermodynamic modelling
+
+Fabiano Pallonetto, Eleni Mangina, Federico Milano, Donal P. Finn,
+SimApi, a smartgrid co-simulation software platform for benchmarking building control algorithms,
+SoftwareX,
+Volume 9,
+2019,
+Pages 271-281,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.03.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300463)
+Keywords: Smart grid; Control algorithm; Building simulation software
+
+Anna Charvátová Campbell, Petr Grolich, Radek Šlesinger,
+Niget: Nanoindentation general evaluation tool,
+SoftwareX,
+Volume 9,
+2019,
+Pages 248-254,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.03.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301353)
+Keywords: Nanoindentation; Uncertainties; Orthogonal distance regression
+
+Juris Vencels, Peter Råback, Vadims Geža,
+EOF-Library: Open-source Elmer FEM and OpenFOAM coupler for electromagnetics and fluid dynamics,
+SoftwareX,
+Volume 9,
+2019,
+Pages 68-72,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302164)
+Keywords: Elmer; FEM; OpenFOAM; FVM; CFD; MPI
+
+Brandon K. Horton, Rajiv K. Kalia, Erick Moen, Aiichiro Nakano, Ken-ichi Nomura, Michael Qian, Priya Vashishta, Anders Hafreager,
+Game-Engine-Assisted Research platform for Scientific computing (GEARS) in Virtual Reality,
+SoftwareX,
+Volume 9,
+2019,
+Pages 112-116,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.009.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300633)
+Keywords: Virtual reality; Real-time simulation visualization; Molecular dynamics; LAMMPS
+
+Melina Vidoni, Aldo Vecchietti,
+“rsppfp”: An R package for the shortest path problem with forbidden paths,
+SoftwareX,
+Volume 9,
+2019,
+Pages 265-270,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.03.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300955)
+Keywords: R package; Shortest path; Forbidden paths; Network flows
+
+Vitalis Salis, Diomidis Spinellis,
+RepoFS: File system view of Git repositories,
+SoftwareX,
+Volume 9,
+2019,
+Pages 288-292,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.03.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300712)
+Keywords: Git; Virtual file system; Mining software repositories; Unix shell
+
+Vladimir Konkov, Roberto Peverati,
+QMC-SW: A simple workflow for quantum Monte Carlo calculations in chemistry,
+SoftwareX,
+Volume 9,
+2019,
+Pages 7-14,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.11.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302218)
+Keywords: Quantum Monte Carlo; Computational chemistry; Benchmark calculations
+
+Deny A. Kwary,
+A corpus platform of Indonesian academic language,
+SoftwareX,
+Volume 9,
+2019,
+Pages 102-106,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.011.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302413)
+Keywords: Academic text; Digital corpus platform; Indonesian corpus; Indonesian language
+
+Kaden Plewe, Amanda D. Smith,
+PECT: A tool for computing the temporal and spatial variation of externalities related to power generation in the United States,
+SoftwareX,
+Volume 9,
+2019,
+Pages 61-67,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.12.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300475)
+Keywords: Power generation; Purchased electricity; Fuel mix; Emissions; Water usage
+
+G.Y. Sheu,
+aXBRL: Search of fraudulent XBRL instance documents with an Android app,
+SoftwareX,
+Volume 9,
+2019,
+Pages 308-316,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.04.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302334)
+Keywords: Smartphone; XBRL; Benford’s law
+
+Liang Tian, Lin Li, Jun Ding, Normand Mousseau,
+ART_data_analyzer: Automating parallelized computations to study the evolution of materials,
+SoftwareX,
+Volume 9,
+2019,
+Pages 238-243,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.03.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302851)
+Keywords: Activation and relaxation techniques; Kinetics; Automation and parallelization; Machine learning
+
+Francisco J. Gómez, Luigi Vanfretti, Miguel Aguilera, Svein H. Olsen,
+CIM-2-mod: A CIM to modelica mapping and model-2-model transformation engine,
+SoftwareX,
+Volume 9,
+2019,
+Pages 161-167,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.013.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300554)
+Keywords: Common information model; CIM; Model transformation; Information modeling; Modelica; OpenIPSL; Electrical power grid; Power system modeling; Power system dynamics; Power system simulation
+
+Michelle Rudolph-Lilith,
+ChessY: A Mathematica toolbox for the generation, visualization and analysis of positional chess graphs,
+SoftwareX,
+Volume 9,
+2019,
+Pages 39-43,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.12.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301687)
+Keywords: Chess; PGN parser; Graph theory; Game theory; Mathematica
+
+Abhishek Thakur, Arnav Dhamija, Tejeshwar Reddy G.,
+VECTORS — VidEo Communication Through Opportunistic Relays and Scalable video coding,
+SoftwareX,
+Volume 9,
+2019,
+Pages 55-60,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.12.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300918)
+Keywords: User-generated video content; Opportunistic communication; User mobility; Disruption tolerant network
+
+Massimo Ceraolo,
+MC’s PlotXY—A general-purpose plotting and post-processing open-source tool,
+SoftwareX,
+Volume 9,
+2019,
+Pages 282-287,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.017.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300287)
+Keywords: Line chart; Bar chart; Post-processing; Fourier series; Matlab; Lab-view; ATP; ASCII
+
+Andrew Abi-Mansour,
+PyGran: An object-oriented library for DEM simulation and analysis,
+SoftwareX,
+Volume 9,
+2019,
+Pages 168-174,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.016.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301080)
+Keywords: Granular systems; Discrete element method; Python; LIGGGHTS
+
+Hung Tien Pham, Wolfram Rühaak, Valerian Schuster, Ingo Sass,
+Fully hydro-mechanical coupled Plug-in (SUB+) in FEFLOW for analysis of land subsidence due to groundwater extraction,
+SoftwareX,
+Volume 9,
+2019,
+Pages 15-19,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.11.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301286)
+Keywords: Groundwater modelling; Land subsidence; FEFLOW Biot’s theory; Fully coupled hydro-mechanics
+
+Hsieh-Fu Tsai, Joanna Gajda, Tyler F.W. Sloan, Andrei Rares, Amy Q. Shen,
+Usiigaci: Instance-aware cell tracking in stain-free phase contrast microscopy enabled by machine learning,
+SoftwareX,
+Volume 9,
+2019,
+Pages 230-237,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.02.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301882)
+Keywords: Phase contrast microscopy; Instance-aware segmentation; Machine learning; Convolutional neural network; Stain-free cell tracking; Single-cell migration
+
+Faruk Diblen, Jisk Attema, Rena Bakhshi, Sascha Caron, Luc Hendriks, Bob Stienen,
+spot: Open Source framework for scientific data repository and interactive visualization,
+SoftwareX,
+Volume 9,
+2019,
+Pages 328-331,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.04.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302097)
+Keywords: Visualization; High-dimensional data; Theoretical models; Open data; FAIR; Particle physics
+
+Onur Rauf Bingol, Adarsh Krishnamurthy,
+NURBS-Python: An open-source object-oriented NURBS modeling framework in Python,
+SoftwareX,
+Volume 9,
+2019,
+Pages 85-94,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.12.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301778)
+Keywords: Curve and surface modeling; Non-uniform rational B-splines; Object-oriented programming; Python
+
+
+Editorial Board,
+SoftwareX,
+Volume 9,
+2019,
+Page i,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(19)30160-8.
+(https://www.sciencedirect.com/science/article/pii/S2352711019301608)
+
+Kristofer Björnson,
+TBTK: A quantum mechanics software development kit,
+SoftwareX,
+Volume 9,
+2019,
+Pages 205-210,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.02.005.
+(https://www.sciencedirect.com/science/article/pii/S235271101830164X)
+Keywords: Quantum mechanics; SDK; C++; Data structures
+
+Gianfranco Giulioni,
+GABRIELE: The General Agent Based Repast Implemented Extensible Laboratory for Economics,
+SoftwareX,
+Volume 9,
+2019,
+Pages 255-259,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.03.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300761)
+Keywords: Agent-based model; Macroeconomics; Open-source software; Economic systems; Policy maker decision support system
+
+Guillaume F.G. Garnier, Clare A. Manderson, Saveen Giri, Gil Garnier,
+IdentiCyte: Simple red blood cell identification software,
+SoftwareX,
+Volume 9,
+2019,
+Pages 223-229,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.02.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301377)
+Keywords: Image recognition; Cell shape; Red blood cell; Erythrocyte
+
+Davide Micieli, Triestino Minniti, Giuseppe Gorini,
+NeuTomPy toolbox, a Python package for tomographic data processing and reconstruction,
+SoftwareX,
+Volume 9,
+2019,
+Pages 260-264,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302103)
+Keywords: Tomographic reconstruction software; Tomography; Neutron imaging
+
+Mohammad AlHamaydeh, Nader Aly, Mohamad Najib, Sameer Alawnah,
+INSPECT-PBEE: A performance-based earthquake engineering GUI for IDARC-2D,
+SoftwareX,
+Volume 9,
+2019,
+Pages 132-144,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.010.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300323)
+Keywords: Performance-Based Earthquake Engineering (PBEE); IDARC-2D; Pre/post-processor GUI; FEMA P695
+
+Lorenzo Mentaschi, Michalis Vousdoukas, Giovanni Besio, Luc Feyen,
+alphaBetaLab: Automatic estimation of subscale transparencies for the Unresolved Obstacles Source Term in ocean wave modelling,
+SoftwareX,
+Volume 9,
+2019,
+Pages 1-6,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.11.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301456)
+Keywords: Wave modelling; Subscale modelling; Unresolved Obstacles Source Term (UOST); WAVEWATCH III
+
+Danny Petschke, Torsten E.M. Staab,
+Update (v1.3) to DLTPulseGenerator: A library for the simulation of lifetime spectra based on detector-output pulses,
+SoftwareX,
+Volume 9,
+2019,
+Pages 183-186,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.02.003.
+(https://www.sciencedirect.com/science/article/pii/S235271101930038X)
+
+Mihály Héder, Szabolcs Tenczer, Andrea Biancini,
+Collaboration between SAML federations and OpenStack clouds,
+SoftwareX,
+Volume 9,
+2019,
+Pages 44-48,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.12.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302905)
+Keywords: SAML; OpenStack; Research loud; eduGAIN
+
+S. Schoeder, W.A. Wall, M. Kronbichler,
+ExWave: A high performance discontinuous Galerkin solver for the acoustic wave equation,
+SoftwareX,
+Volume 9,
+2019,
+Pages 49-54,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.01.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302024)
+Keywords: Matrix-free methods; Discontinuous Galerkin methods; Acoustic wave equation
+
+N. Creati, R. Vidmar, P. Sterzai,
+Field Animation,
+SoftwareX,
+Volume 9,
+2019,
+Pages 211-216,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.02.008.
+(https://www.sciencedirect.com/science/article/pii/S235271101830205X)
+Keywords: Python; OpenGL; Vector field; Animation
+
+Younes Nejahi, Mohammad Soroush Barhaghi, Jason Mick, Brock Jackman, Kamel Rushaidat, Yuanzhe Li, Loren Schwiebert, Jeffrey Potoff,
+GOMC: GPU Optimized Monte Carlo for the simulation of phase equilibria and physical properties of complex fluids,
+SoftwareX,
+Volume 9,
+2019,
+Pages 20-27,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.11.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301171)
+Keywords: Molecular simulation; Monte Carlo; Gibbs ensemble; Adsorption; Phase equilibrium; GPU

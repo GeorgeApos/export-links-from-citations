@@ -1,0 +1,185 @@
+Ervin Sejdić, Irena Orović, Srdjan Stanković,
+A software companion for compressively sensed time–frequency processing of sparse nonstationary signals,
+SoftwareX,
+Volume 8,
+2018,
+Pages 9-10,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.08.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300365)
+Keywords: Compressive sensing; Time–frequency analysis; Nonstationary signals
+
+M.C.R. Leles, J.P.H. Sansão, L.A. Mozelli, H.N. Guimarães,
+A new algorithm in singular spectrum analysis framework:The Overlap-SSA (ov-SSA),
+SoftwareX,
+Volume 8,
+2018,
+Pages 26-32,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.11.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300596)
+Keywords: Singular spectrum analysis; Non-stationary signals; Segmentation
+
+Onur Yorulmaz, A. Enis Cetin,
+Deconvolution using Fourier Transform phase, ℓ1 and ℓ2 balls, and filtered variation,
+SoftwareX,
+Volume 8,
+2018,
+Pages 11-17,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.11.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300651)
+Keywords: Deconvolution; Fourier Transform phase; ℓ1 ball; Projection onto convex sets
+
+
+Editorial Board,
+SoftwareX,
+Volume 8,
+2018,
+Page i,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(18)30280-2.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302802)
+
+Boualem Boashash, Samir Ouelha,
+Efficient software platform TFSAP 7.1 and Matlab package to compute Time–Frequency Distributions and related Time-Scale methods with extraction of signal characteristics,
+SoftwareX,
+Volume 8,
+2018,
+Pages 48-52,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.08.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300353)
+Keywords: Time–frequency distribution (TFDs); Time-scale distributions (TSDs); Instantaneous frequency; Discrete-time TFDs; Analytic signal; Time–frequency toolbox
+
+Juan Rafael Orozco-Arroyave, Juan Camilo Vásquez-Correa, Jesús Francisco Vargas-Bonilla, R. Arora, N. Dehak, P.S. Nidadavolu, H. Christensen, F. Rudzicz, M. Yancheva, H. Chinaei, A. Vann, N. Vogler, T. Bocklet, M. Cernak, J. Hannink, Elmar Nöth,
+NeuroSpeech,
+SoftwareX,
+Volume 8,
+2018,
+Pages 69-70,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.08.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300341)
+Keywords: Speech processing; Dysarthria; Parkinson’s disease; Phonation; Articulation; Prosody; Intelligibility; Python; Software
+
+Ömer Emre Yetgin, Ömer Nezih Gerek,
+Feature extraction, selection and classification code for power line scene recognition,
+SoftwareX,
+Volume 8,
+2018,
+Pages 43-47,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.10.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300560)
+Keywords: DCT; Feature extraction/selection; Classification; Power line wires recognition
+
+Marco Stocchi, Michele Marchesi,
+Fast wavelet transform assisted predictors of streaming time series,
+SoftwareX,
+Volume 8,
+2018,
+Pages 1-4,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.09.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300481)
+Keywords: Streaming datasets; Time series forecast; Fast wavelet transform; Shift variance theorem
+
+Carlos Mateo, Juan Antonio Talavera,
+Short-Time Fourier Transform with the Window Size Fixed in the Frequency Domain (STFT-FD): Implementation,
+SoftwareX,
+Volume 8,
+2018,
+Pages 5-8,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.11.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300638)
+Keywords: Short Time Fourier Transform; Time–frequency domain; Window Size; Multi-resolution; Wavelet; Electrocardiogram
+
+Dogac Basaran, Ali Taylan Cemgil, Emin Anarim,
+Multiresolution alignment for multiple unsynchronized audio sequences using Sequential Monte Carlo samplers,
+SoftwareX,
+Volume 8,
+2018,
+Pages 33-38,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.11.006.
+(https://www.sciencedirect.com/science/article/pii/S235271101730064X)
+Keywords: Multiple audio alignment; Multiresolution alignment; Audio fingerprint; Bayesian inference; Sequential Monte Carlo samplers; Sequential alignment
+
+Çağatay Yıldız, Barış Kurt, Taha Yusuf Ceritli, Bülent Sankur, Ali Taylan Cemgil,
+A real-time SIP network simulation and monitoring system,
+SoftwareX,
+Volume 8,
+2018,
+Pages 21-25,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.11.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300614)
+Keywords: SIP networks; Network simulation; DDoS attack detection
+
+D. Bykhovsky,
+Mathematica code for numerical generation of random process with given distribution and exponential autocorrelation function,
+SoftwareX,
+Volume 8,
+2018,
+Pages 18-20,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.08.005.
+(https://www.sciencedirect.com/science/article/pii/S235271101730033X)
+Keywords: Stochastic differential equation; Exponential autocorrelation; Numerical generation of random process
+
+Ahmed Aldahdooh, Enrico Masala, Glenn Van Wallendael, Marcus Barkowsky,
+Reproducible research framework for objective video quality measures using a large-scale database approach,
+SoftwareX,
+Volume 8,
+2018,
+Pages 64-68,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.09.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300468)
+Keywords: Reproducible research; Large database analysis; Video quality
+
+Emre Cimen, Gurkan Ozturk, Omer Nezih Gerek,
+ICF: An algorithm for large scale classification with conic functions,
+SoftwareX,
+Volume 8,
+2018,
+Pages 59-63,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.12.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300699)
+Keywords: Polyhedral conic functions; Mathematical programming; Classification; Machine learning
+
+Fatih Nar, Osman Erman Okman, Atilla Özgür, Müjdat Çetin,
+RmSAT-CFAR: Fast and accurate target detection in radar images,
+SoftwareX,
+Volume 8,
+2018,
+Pages 39-42,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.09.005.
+(https://www.sciencedirect.com/science/article/pii/S235271101730047X)
+Keywords: Integral image; Summed area table; CFAR; Target detection; Rayleigh mixture; Adaptive simulated annealing; Parallelization; OpenMP; OpenCV
+
+Boualem Boashash, Abdeldjalil Aïssa-El-Bey, Mohammad F. Al-Sa’d,
+Multisensor Time–Frequency Signal Processing MATLAB package: An analysis tool for multichannel non-stationary data,
+SoftwareX,
+Volume 8,
+2018,
+Pages 53-58,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.12.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300687)
+Keywords: Multisensor time–frequency analysis; Direction of arrival; Automated component separation; Blind source separation; Non-stationary array processing; Cross-channel causality analysis
+
+Pawel Kasprowski, Katarzyna Harezlak,
+ETCAL - A versatile and extendable library for eye tracker calibration,
+SoftwareX,
+Volume 8,
+2018,
+Pages 71-76,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.12.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300742)
+Keywords: Eye tracking; Calibration; Library

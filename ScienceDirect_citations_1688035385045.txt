@@ -1,0 +1,438 @@
+D. Nikezic, M. Ivanovic, K.N. Yu,
+A computer program TRACK_P for studying proton tracks in PADC detectors,
+SoftwareX,
+Volume 5,
+2016,
+Pages 74-79,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.04.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300073)
+Keywords: Solid state nuclear track detectors; CR-39; Proton tracks
+
+L. Vanfretti, T. Rabuzin, M. Baudette, M. Murad,
+iTesla Power Systems Library (iPSL): A Modelica library for phasor time-domain simulations,
+SoftwareX,
+Volume 5,
+2016,
+Pages 84-88,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.05.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300097)
+Keywords: Modelica; Power system; Simulation
+
+Tobias Weber, Robert Georgii, Peter Böni,
+Takin: An open-source software for experiment planning, visualisation, and data analysis,
+SoftwareX,
+Volume 5,
+2016,
+Pages 121-126,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.06.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300152)
+Keywords: Triple-axis spectroscopy; Instrument control; Reciprocal and real space visualisation; Instrument resolution; Resolution convolution
+
+Erin Scott, Natalia Serpetti, Jeroen Steenbeek, Johanna Jacomina Heymans,
+A Stepwise Fitting Procedure for automated fitting of Ecopath with Ecosim models,
+SoftwareX,
+Volume 5,
+2016,
+Pages 25-30,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.02.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711016000054)
+Keywords: Stepwise model fitting procedure; Ecopath with Ecosim; Ecological modelling; Model fitting
+
+Marios Fragkoulis, Diomidis Spinellis, Panos Louridas,
+PiCO QL: A software library for runtime interactive queries on program data,
+SoftwareX,
+Volume 5,
+2016,
+Pages 134-138,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.07.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300176)
+Keywords: sql; Main memory data structures; Data analysis; Program data
+
+Balázs Zsigmond Horváth, Bence Blaske, Anita Szabó,
+Duenna—An experimental language teaching application,
+SoftwareX,
+Volume 5,
+2016,
+Pages 171-177,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.08.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300231)
+Keywords: Computer aided language learning; Text to speech; Language teaching
+
+Michael Ruby,
+SpectraFox: A free open-source data management and analysis tool for scanning probe microscopy and spectroscopy,
+SoftwareX,
+Volume 5,
+2016,
+Pages 31-36,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.04.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300012)
+Keywords: Scanning probe microscopy; Scanning probe spectroscopy; Data overview; Data management; Data analysis; Batch processing
+
+Simon Kiesewetter, Rodney Polkinghorne, Bogdan Opanchuk, Peter D. Drummond,
+xSPDE: Extensible software for stochastic equations,
+SoftwareX,
+Volume 5,
+2016,
+Pages 12-15,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.02.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711016000030)
+Keywords: Stochastic software code-generator
+
+Mario Mulansky, Thomas Kreuz,
+PySpike—A Python library for analyzing spike train synchrony,
+SoftwareX,
+Volume 5,
+2016,
+Pages 183-189,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.07.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300255)
+Keywords: Synchrony; Spike train analysis; Spike train distance; Python
+
+Kristian Hovde Liland, Lars Snipen,
+fixedTimeEvents: An R package for the distribution of distances between discrete events in fixed time,
+SoftwareX,
+Volume 5,
+2016,
+Pages 227-233,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.09.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300310)
+Keywords: R Package; Distributions; Distances; Gene expression
+
+Ardita Shkurti, Ramon Goni, Pau Andrio, Elena Breitmoser, Iain Bethune, Modesto Orozco, Charles A. Laughton,
+pyPcazip: A PCA-based toolkit for compression and analysis of molecular simulation data,
+SoftwareX,
+Volume 5,
+2016,
+Pages 44-50,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.04.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300036)
+Keywords: Data analysis; Principal component analysis; Molecular dynamics; Molecular simulation
+
+Sheng-Cheng Huang, Sara Lee, Allen Wang, Scott B. Cantor, Clement Sun, Kaili Fan, Gregory P. Reece, Min Soon Kim, Mia K. Markey,
+UT Biomedical Informatics Lab (BMIL) probability wheel,
+SoftwareX,
+Volume 5,
+2016,
+Pages 211-215,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.10.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300292)
+Keywords: Probability wheel; Mobile application; Decision-making; Preference elicitation; Probability estimation; Cognitive biases
+
+T. Salles,
+Badlands: A parallel basin and landscape dynamics model,
+SoftwareX,
+Volume 5,
+2016,
+Pages 195-202,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.08.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300279)
+Keywords: Surface process model; Landscape evolution; Sub-basin partitioning; Parallel
+
+Mohammad AlHamaydeh, Mohamad Najib, Sameer Alawnah,
+INSPECT: A graphical user interface software package for IDARC-2D,
+SoftwareX,
+Volume 5,
+2016,
+Pages 243-251,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.10.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300334)
+Keywords: IDARC-2D; GUI; Pre-processor; INSPECT
+
+Mariette Annergren, Christian A. Larsson,
+MOOSE2—A toolbox for least-costly application-oriented input design,
+SoftwareX,
+Volume 5,
+2016,
+Pages 96-100,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.05.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300115)
+Keywords: Input design; System identification; MATLAB®
+
+R.O. Ocaya, J.J. Terblans,
+C-language package for standalone embedded atom method molecular dynamics simulations of fcc structures,
+SoftwareX,
+Volume 5,
+2016,
+Pages 107-111,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.05.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300139)
+Keywords: C-language; Molecular dynamics; Standalone simulation; Embedded atom method
+
+G. Pereira, M. McGugan, L.P. Mikkelsen,
+FBG_SiMul V1.0: Fibre Bragg grating signal simulation tool for finite element method models,
+SoftwareX,
+Volume 5,
+2016,
+Pages 163-170,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.08.001.
+(https://www.sciencedirect.com/science/article/pii/S235271101630022X)
+Keywords: Fibre Bragg grating; FBG output simulation; FBG sensing solution design; FBG implementation; FBG optimization
+
+Chenhui Liu, Anuj Sharma, Edward Smaglik, Sirisha Kothuri,
+TraSER: A traffic signal event-based recorder,
+SoftwareX,
+Volume 5,
+2016,
+Pages 156-162,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.09.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300218)
+Keywords: Signalized intersection; Event; Traffic signal; TraSER
+
+F. Pina-Martins, O.S. Paulo,
+NCBI Mass Sequence Downloader–Large dataset downloading made easy,
+SoftwareX,
+Volume 5,
+2016,
+Pages 80-83,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.04.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300085)
+Keywords: Bioinformatics; Genomics; Molecular evolution; BLAST
+
+Jun Peng, ZhiBao Dong, FengQing Han,
+tgcd: An R package for analyzing thermoluminescence glow curves,
+SoftwareX,
+Volume 5,
+2016,
+Pages 112-120,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.06.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300140)
+Keywords: TL glow curve; Deconvolution; Simulation; R package
+
+
+Editorial Board,
+SoftwareX,
+Volume 5,
+2016,
+Page i,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(16)30038-3.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300383)
+
+Thomas Mejer Hansen, Le Thanh Vu, Torben Bach,
+MPSLIB: A C++ class for sequential simulation of multiple-point statistical models,
+SoftwareX,
+Volume 5,
+2016,
+Pages 127-133,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.07.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300164)
+Keywords: Simulation; Geostatistics; Multiple-point statistics
+
+Luigi Vanfretti, Maxime Baudette, Achour Amazouz, Tetiana Bogodorova, Tin Rabuzin, Jan Lavenius, Francisco José Goméz-López,
+RaPId: A modular and extensible toolbox for parameter estimation of Modelica and FMI compliant models,
+SoftwareX,
+Volume 5,
+2016,
+Pages 144-149,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.07.004.
+(https://www.sciencedirect.com/science/article/pii/S235271101630019X)
+Keywords: FMI; Modelica; Model validation; System identification
+
+A. Christopher Oishi, David A. Hawthorne, Ram Oren,
+Baseliner: An open-source, interactive tool for processing sap flux data from thermal dissipation probes,
+SoftwareX,
+Volume 5,
+2016,
+Pages 139-143,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.07.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300188)
+Keywords: Sap flux; Thermal dissipation probe; Granier probe; Data processing
+
+Johan Nordström, Johan Schött, Inka L.M. Locht, Igor Di Marco,
+A GPU code for analytic continuation through a sampling method,
+SoftwareX,
+Volume 5,
+2016,
+Pages 178-182,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.08.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300243)
+Keywords: GPU; Analytic continuation; Parallelization; Green’s function
+
+Ali Sadollah, Hadi Eskandar, Ho Min Lee, Do Guen Yoo, Joong Hoon Kim,
+Water cycle algorithm: A detailed standard code,
+SoftwareX,
+Volume 5,
+2016,
+Pages 37-43,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.03.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300024)
+Keywords: Metaheuristic algorithms; Water cycle algorithm; Global optimization
+
+Elisabeth Schold Linnér, Max Morén, Karl-Oskar Smed, Johan Nysjö, Robin Strand,
+LatticeLibrary and BccFccRaycaster: Software for processing and viewing 3D data on optimal sampling lattices,
+SoftwareX,
+Volume 5,
+2016,
+Pages 16-24,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.01.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711016000042)
+Keywords: Optimal sampling lattices; Image processing; Volume raycasting; C++; GLSL
+
+Nicolin Govender, Daniel N. Wilke, Schalk Kok,
+Blaze-DEMGPU: Modular high performance DEM framework for the GPU architecture,
+SoftwareX,
+Volume 5,
+2016,
+Pages 62-66,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.04.004.
+(https://www.sciencedirect.com/science/article/pii/S235271101630005X)
+Keywords: DEM; GPU; Polyhedra; Particle transport
+
+Jad El-khoury,
+Lyo code generator: A model-based code generator for the development of OSLC-compliant tool interfaces,
+SoftwareX,
+Volume 5,
+2016,
+Pages 190-194,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.08.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300267)
+Keywords: OSLC; Tool integration; Tool interface modeling; Tool interface code generation
+
+Mariem Bouafif, Zied Lachiri,
+SRC_Num_TDOA: Multiple speech sources’ number and their TDOA Estimation from a stereo recorded mixture,
+SoftwareX,
+Volume 5,
+2016,
+Pages 234-242,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.10.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300322)
+Keywords: Time delays of arrival (TDOAs); Sources counting; Localization; MATLAB
+
+S.J. Cooper, A. Bertei, P.R. Shearing, J.A. Kilner, N.P. Brandon,
+TauFactor: An open-source application for calculating tortuosity factors from tomographic data,
+SoftwareX,
+Volume 5,
+2016,
+Pages 203-210,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.09.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300280)
+Keywords: Tortuosity factor; Diffusion; Microstructure; Tomography
+
+G. Milani, F. Milani,
+GURU v2.0: An interactive Graphical User interface to fit rheometer curves in Han’s model for rubber vulcanization,
+SoftwareX,
+Volume 5,
+2016,
+Pages 67-73,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.04.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300061)
+Keywords: GUI optimization software; Natural rubber (NR) vulcanization; Kinetic numerical model; Experimental data fitting
+
+Shaowen Wang, Yan Liu, Anand Padmanabhan,
+Open cyberGIS software for geospatial research and education in the big data era,
+SoftwareX,
+Volume 5,
+2016,
+Pages 1-5,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.10.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000138)
+Keywords: CyberGIS; Cyberinfrastructure; Geospatial big data
+
+Mahdi Nabil, Alexander S. Rattner,
+interThermalPhaseChangeFoam—A framework for two-phase flow simulations with thermally driven phase change,
+SoftwareX,
+Volume 5,
+2016,
+Pages 216-226,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.10.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300309)
+Keywords: Phase change; Condensation; Evaporation; Volume of fluid
+
+Ali H. Taqi,
+A visual Fortran 90 program for the two-particle or two-hole excitations of nuclei: The PPRPA program,
+SoftwareX,
+Volume 5,
+2016,
+Pages 51-61,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.04.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300048)
+Keywords: Random Phase Approximation (RPA); Tamm–Dancoff approximation (TDA); Density; Charge distribution
+
+P. Degenne, D. Lo Seen,
+Ocelet: Simulating processes of landscape changes using interaction graphs,
+SoftwareX,
+Volume 5,
+2016,
+Pages 89-95,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.05.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300103)
+Keywords: Spatial modelling; Multi-scale; Domain specific language
+
+Florian Schumacher, Wolfgang Friederich,
+ASKI: A modular toolbox for scattering-integral-based seismic full waveform inversion and sensitivity analysis utilizing external forward codes,
+SoftwareX,
+Volume 5,
+2016,
+Pages 252-259,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.10.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300346)
+Keywords: ASKI; Seismic full waveform inversion; Waveform sensitivity kernels; Object-oriented programming
+
+Jeffrey Bolan, Elise Hall, Chris Clifford, Brian Thurow,
+Light-Field Imaging Toolkit,
+SoftwareX,
+Volume 5,
+2016,
+Pages 101-106,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.05.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300127)
+Keywords: Plenoptic; Light field; MATLAB
+
+Álvaro López García, Enol Fernández del Castillo, Pablo Orviz Fernández,
+ooi: OpenStack OCCI interface,
+SoftwareX,
+Volume 5,
+2016,
+Pages 6-11,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.01.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711016000029)
+Keywords: Cloud; OCCI; Standards; Interface
+
+Roberto Ulloa,
+CulSim: A simulator of emergence and resilience of cultural diversity,
+SoftwareX,
+Volume 5,
+2016,
+Pages 150-155,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2016.07.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711016300206)
+Keywords: Cultural simulations; Agent-based models; Cultural diversity; Cultural resilience

@@ -1,0 +1,1054 @@
+Murat Çalışkan, Berk Anbaroğlu,
+Geo-MST: A geographical minimum spanning tree plugin for QGIS,
+SoftwareX,
+Volume 12,
+2020,
+100553,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100553.
+(https://www.sciencedirect.com/science/article/pii/S2352711020301771)
+Keywords: Kruskal’s algorithm; Network analysis; GIS; Open-science
+
+Hadar Ben-Gida, Roi Gurka, Alex Liberzon,
+OpenPIV-MATLAB — An open-source software for particle image velocimetry; test case: Birds’ aerodynamics,
+SoftwareX,
+Volume 12,
+2020,
+100585,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100585.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302983)
+Keywords: Particle Image Velocimetry; MATLAB; Fluid mechanics; Wake analysis
+
+Claudio Lucchese, Cristina Ioana Muntean, Franco Maria Nardini, Raffaele Perego, Salvatore Trani,
+RankEval: Evaluation and investigation of ranking models,
+SoftwareX,
+Volume 12,
+2020,
+100614,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100614.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303277)
+Keywords: Learning to Rank; Evaluation; Analysis
+
+Alexandre Decan, Tom Mens,
+Sismic—A Python library for statechart execution and testing,
+SoftwareX,
+Volume 12,
+2020,
+100590,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100590.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303034)
+Keywords: Statechart; Executable modelling; Behaviour-driven development; Design by contract; Runtime verification
+
+Eric Medvet, Alberto Bartoli, Andrea De Lorenzo, Stefano Seriani,
+2D-VSR-Sim: A simulation tool for the optimization of 2-D voxel-based soft robots,
+SoftwareX,
+Volume 12,
+2020,
+100573,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100573.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302867)
+Keywords: Evolutionary robotics; Soft robotics; Optimization; Learning
+
+Maksym Dosta, Vasyl Skorych,
+MUSEN: An open-source framework for GPU-accelerated DEM simulations,
+SoftwareX,
+Volume 12,
+2020,
+100618,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100618.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303319)
+Keywords: Discrete element method; CPU–GPU computing; Simulation framework; Granular materials
+
+Kamila Zdybał, Elizabeth Armstrong, Alessandro Parente, James C. Sutherland,
+PCAfold: Python software to generate, analyze and improve PCA-derived low-dimensional manifolds,
+SoftwareX,
+Volume 12,
+2020,
+100630,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100630.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303435)
+Keywords: Low-dimensional manifolds; Dimensionality reduction; Sampling; Principal component analysis
+
+William F. Godoy, Norbert Podhorszki, Ruonan Wang, Chuck Atkins, Greg Eisenhauer, Junmin Gu, Philip Davis, Jong Choi, Kai Germaschewski, Kevin Huck, Axel Huebl, Mark Kim, James Kress, Tahsin Kurc, Qing Liu, Jeremy Logan, Kshitij Mehta, George Ostrouchov, Manish Parashar, Franz Poeschel, David Pugmire, Eric Suchyta, Keichi Takahashi, Nick Thompson, Seiji Tsutsumi, Lipeng Wan, Matthew Wolf, Kesheng Wu, Scott Klasky,
+ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management,
+SoftwareX,
+Volume 12,
+2020,
+100561,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100561.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302560)
+Keywords: High-performance computing (HPC); Scalable I/O; Luster GPFS file systems; Staging; RDMA; Data science; In-situ; Exascale computing
+
+Leandro Lima Rasmussen,
+UnBlocksgen: A Python library for 3D rock mass generation and analysis,
+SoftwareX,
+Volume 12,
+2020,
+100577,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100577.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302909)
+Keywords: Rock block; Shape; Size; Generation; DFN
+
+Rudolf Ferenc, Tamás Viszkok, Tamás Aladics, Judit Jász, Péter Hegedűs,
+Deep-water framework: The Swiss army knife of humans working with machine learning models,
+SoftwareX,
+Volume 12,
+2020,
+100551,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100551.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303772)
+Keywords: Deep-learning; Machine learning; Software analysis; Model management; Data visualization
+
+German A. Sinuco-Leon,
+OPENMMF: A library for multimode driven quantum systems,
+SoftwareX,
+Volume 12,
+2020,
+100603,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100603.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303162)
+Keywords: Polychromatic driving; Multimode floquet; Quantum dynamics; Fortran; C++; Python; Dressed states; Non-equilibrium quantum dynamics
+
+Lars Hertel, Julian Collado, Peter Sadowski, Jordan Ott, Pierre Baldi,
+Sherpa: Robust hyperparameter optimization for machine learning,
+SoftwareX,
+Volume 12,
+2020,
+100591,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100591.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303046)
+Keywords: Hyperparameter optimization; Machine learning; Deep neural networks
+
+Spencer H. Bryngelson, Tim Colonius, Rodney O. Fox,
+QBMMlib: A library of quadrature-based moment methods,
+SoftwareX,
+Volume 12,
+2020,
+100615,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100615.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303289)
+Keywords: Population balance equation; Quadrature moment methods; Method of moments; Particulate flows; Dispersions
+
+Iván .G. Torre, Richard J. Heck, A.M. Tarquis,
+MULTIFRAC: An ImageJ plugin for multiscale characterization of 2D and 3D stack images,
+SoftwareX,
+Volume 12,
+2020,
+100574,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100574.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302879)
+Keywords: Multifractal; Lacunarity; Configuration entropy; ImageJ
+
+Cristian Jimenez, Iván Amaya, Rodrigo Correa,
+SpinUpFlowDescriptor: A MATLAB toolbox for ferrofluids materials under moderate and high amplitude and frequency of magnetic rotating fields in a spin-up geometry,
+SoftwareX,
+Volume 12,
+2020,
+100567,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100567.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302636)
+Keywords: Spin diffusion theory; Ferrofluid; Rotating magnetic fields; Spin-up geometry
+
+Luís Mendes, Alexandre Bernardino, Rui M.L. Ferreira,
+piv-image-generator: An image generating software package for planar PIV and Optical Flow benchmarking,
+SoftwareX,
+Volume 12,
+2020,
+100537,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100537.
+(https://www.sciencedirect.com/science/article/pii/S2352711020300339)
+Keywords: PIV; Optical flow; Hydraulics; Fluid mechanics; Velocimetry
+
+Crispin H.V. Cooper, Alain J.F. Chiaradia,
+sDNA: 3-d spatial network analysis for GIS, CAD, Command Line & Python,
+SoftwareX,
+Volume 12,
+2020,
+100525,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100525.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303401)
+Keywords: Network analysis; Spatial network analysis; GIS
+
+Sebastian Muraru, Jorge S. Burns, Mariana Ionita,
+GOPY: A tool for building 2D graphene-based computational models,
+SoftwareX,
+Volume 12,
+2020,
+100586,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100586.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302995)
+Keywords: Graphene; Graphene derivatives; Computational models; PDB
+
+Federico Tartarini, Stefano Schiavon,
+pythermalcomfort: A Python package for thermal comfort research,
+SoftwareX,
+Volume 12,
+2020,
+100578,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100578.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302910)
+Keywords: Thermal comfort; ASHRAE; Predicted mean vote; Adaptive comfort
+
+Ahmed Elkady, Dimitrios G. Lignos,
+EaRL—Software for Earthquake Risk, Loss and Lifecycle Analysis,
+SoftwareX,
+Volume 12,
+2020,
+100607,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100607.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303204)
+Keywords: Computational platform; Software; Earthquake damage; Loss estimation; FEMA P-58; Performance-based earthquake engineering
+
+Kyriakos Panagiotidis, Naoum Tsolakis, Alexander Tsigkas,
+HC-4-PM: A heterarchical communication framework for project management,
+SoftwareX,
+Volume 12,
+2020,
+100557,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100557.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303243)
+Keywords: Heterarchical communication; Cybernetics; Operations Research; Viable System Model; Self-regulatory decision support systems; Project management
+
+Carlos Argáez, Peter Giesl, Sigurdur Freyr Hafstein,
+Update (2.0) to LyapXool: Eigenpairs and new classification methods,
+SoftwareX,
+Volume 12,
+2020,
+100616,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100616.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303290)
+Keywords: Complete Lyapunov functions; C++; Scientific computing; Dynamical systems; Autonomous ordinary differential equations
+
+Florent Robinet, Nicolas Arnaud, Nicolas Leroy, Andrew Lundgren, Duncan Macleod, Jessica McIver,
+Omicron: A tool to characterize transient noise in gravitational-wave detectors,
+SoftwareX,
+Volume 12,
+2020,
+100620,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100620.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303332)
+Keywords: Gravitational waves; Transient noise; Spectrogram; LIGO–Virgo
+
+Vítor Silva, Vinícius Campos, Thaylon Guedes, José Camata, Daniel de Oliveira, Alvaro L.G.A. Coutinho, Patrick Valduriez, Marta Mattoso,
+DfAnalyzer: Runtime dataflow analysis tool for Computational Science and Engineering applications,
+SoftwareX,
+Volume 12,
+2020,
+100592,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100592.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303058)
+Keywords: Computational Science and Engineering (CSE); Dataflow; Provenance; Computational applications; Data analysis
+
+James B. Scoggins, Vincent Leroy, Georgios Bellas-Chatzigeorgis, Bruno Dias, Thierry E. Magin,
+Mutation++: MUlticomponent Thermodynamic And Transport properties for IONized gases in C++,
+SoftwareX,
+Volume 12,
+2020,
+100575,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100575.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302880)
+Keywords: Partially ionized gases; Thermochemical nonequilibrium; Multiphase equilibrium; Gas-surface interaction
+
+Guilherme Lindner, Yann Devaux, Sanja Miskovic,
+VortexFitting: A post-processing fluid mechanics tool for vortex identification,
+SoftwareX,
+Volume 12,
+2020,
+100604,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100604.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303174)
+Keywords: Vortex; Detection methods; Fluid dynamics; Python
+
+D. van Kuppevelt, C. Meijer, F. Huber, A. van der Ploeg, S. Georgievska, V.T. van Hees,
+Mcfly: Automated deep learning on time series,
+SoftwareX,
+Volume 12,
+2020,
+100548,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100548.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300202)
+Keywords: Deep learning; Machine learning; Time series; autoML; Research software
+
+Bruno Blais, Lucka Barbeau, Valérie Bibeau, Simon Gauvin, Toni El Geitani, Shahab Golshan, Rajeshwari Kamble, Ghazaleh Mirakhori, Jamal Chaouki,
+Lethe: An open-source parallel high-order adaptative CFD solver for incompressible flows,
+SoftwareX,
+Volume 12,
+2020,
+100579,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100579.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302922)
+Keywords: Computational Fluid Dynamics; Finite Element Method (FEM); Continuous Galerkin; High-order methods
+
+Giuseppe Futia, Antonio Vetrò, Juan Carlos De Martin,
+SeMi: A SEmantic Modeling machIne to build Knowledge Graphs with graph neural networks,
+SoftwareX,
+Volume 12,
+2020,
+100516,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100516.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302626)
+Keywords: Knowledge Graphs; Semantic Modeling; Graph neural networks
+
+Ahmed Sleem, Mohamed Abdel-Baset, Ibrahim El-henawy,
+PyIVNS: A python based tool for Interval-valued neutrosophic operations and normalization,
+SoftwareX,
+Volume 12,
+2020,
+100632,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100632.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303459)
+Keywords: Python; Neutrosophic; Normalization
+
+Michael G. Leeming, Andrew P. Isaac, Luke Zappia, Richard A.J. O’Hair, William A. Donald, Bernard J. Pope,
+HiTIME: An efficient model-selection approach for the detection of unknown drug metabolites in LC-MS data,
+SoftwareX,
+Volume 12,
+2020,
+100559,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100559.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303796)
+Keywords: Liquid chromatography-mass spectrometry; Twin ions; Metabolites
+
+Mokbel Karam, James C. Sutherland, Tony Saad,
+PyModPDE: A python software for modified equation analysis,
+SoftwareX,
+Volume 12,
+2020,
+100541,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100541.
+(https://www.sciencedirect.com/science/article/pii/S2352711020300224)
+Keywords: Modified equation analysis; Finite difference schemes; Stability analysis; Numerical methods; Error analysis
+
+Gijs van den Oord, Fredrik Jansson, Inti Pelupessy, Maria Chertova, Johanna H. Grönqvist, Pier Siebesma, Daan Crommelin,
+A Python interface to the Dutch Atmospheric Large-Eddy Simulation,
+SoftwareX,
+Volume 12,
+2020,
+100608,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100608.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303216)
+Keywords: Large-eddy simulation; Atmospheric sciences
+
+Guus Rongen, Cornelis Marcel Pieter ’t Hart, Georgios Leontaris, Oswaldo Morales-Nápoles,
+Update (1.2) to ANDURIL and ANDURYL: Performance improvements and a graphical user interface,
+SoftwareX,
+Volume 12,
+2020,
+100497,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100497.
+(https://www.sciencedirect.com/science/article/pii/S2352711020301837)
+Keywords: Structured expert judgment; Cooke’s classical model; Expert opinion; Python module; EXCALIBUR software; ANDURIL; GUI
+
+Michael Adams, Andreas V. Hense, Arthur H.M. ter Hofstede,
+YAWL: An open source Business Process Management System from science for science,
+SoftwareX,
+Volume 12,
+2020,
+100576,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100576.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302892)
+Keywords: BPMS; Open source software; YAWL; Workflow; process
+
+Adrian Linsel, Kristian Bär, Joshua Haas, Jens Hornung, Matthias D. Greb, Matthias Hinderer,
+GeoReVi: A knowledge discovery and data management tool for subsurface characterization,
+SoftwareX,
+Volume 12,
+2020,
+100597,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100597.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303101)
+Keywords: Visual analytics; Subsurface characterization; Spatial data mining; Knowledge discovery in databases
+
+Sergio A. Barcellos Lins, Boris Bremmers, Giovanni E. Gigante,
+XISMuS — X-ray fluorescence imaging software for multiple samples,
+SoftwareX,
+Volume 12,
+2020,
+100621,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100621.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303344)
+Keywords: X-ray fluorescence; Imaging; MA-XRF; Data visualization
+
+Rebecca Loraamm, Joni Downs, James Anderson, David S. Lamb,
+PySTPrism: Tools for voxel-based space–time prisms,
+SoftwareX,
+Volume 12,
+2020,
+100499,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100499.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303309)
+Keywords: Time geography; Moving objects; GPS
+
+Daniel Leal Fagundes, Jair T. Goulart,
+ContHeart: Software for monitoring isolated cardiomyocyte shortening,
+SoftwareX,
+Volume 12,
+2020,
+100547,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100547.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303826)
+Keywords: cardiomyocytes; Shortening; Edge detection; Canny method
+
+Stefano Dalla Palma, Dario Di Nucci, Damian A. Tamburri,
+AnsibleMetrics: A Python library for measuring Infrastructure-as-Code blueprints in Ansible,
+SoftwareX,
+Volume 12,
+2020,
+100633,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100633.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303460)
+Keywords: Infrastructure as Code; Software metrics; Software quality
+
+L. van Kessel, C.W. Hagen,
+Nebula: Monte Carlo simulator of electron–matter interaction,
+SoftwareX,
+Volume 12,
+2020,
+100605,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100605.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303186)
+Keywords: Monte Carlo simulation; Electron scattering; GPU; SEM; Lithography; Metrology
+
+Xavier Alejandro Flores Cabezas, Martha Cecilia Paredes Paredes, Luis Felipe Urquiza-Aguiar, Diego Javier Reinoso-Chisaguano,
+PhySim-11p: Simulation model for IEEE 802.11p physical layer in MATLAB,
+SoftwareX,
+Volume 12,
+2020,
+100580,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100580.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302934)
+Keywords: PER; IEEE 802.11p; MATLAB; OFDM
+
+
+Editorial Board,
+SoftwareX,
+Volume 12,
+2020,
+100649,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(20)30362-9.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303629)
+
+Paulo Paneque Galuzio, Emerson Hochsteiner de Vasconcelos Segundo, Leandro dos Santos Coelho, Viviana Cocco Mariani,
+MOBOpt — multi-objective Bayesian optimization,
+SoftwareX,
+Volume 12,
+2020,
+100520,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100520.
+(https://www.sciencedirect.com/science/article/pii/S2352711020300911)
+Keywords: Optimization problems; Multi-objective optimization; Bayesian optimization algorithm
+
+Nan-Hung Hsieh, Brad Reisfeld, Weihsueh A. Chiu,
+pksensi: An R package to apply global sensitivity analysis in physiologically based kinetic modeling,
+SoftwareX,
+Volume 12,
+2020,
+100609,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100609.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303228)
+Keywords: Global sensitivity analysis; Physiologically based kinetic modeling; R package
+
+G. Luciano, K.H. Liland, M. Marsotto, R. Svoboda, S. Berretta,
+takos: An R package for thermal analysis calculations,
+SoftwareX,
+Volume 12,
+2020,
+100637,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100637.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303502)
+Keywords: Calorimetry; Thermal analysis; Kinetic analysis; R
+
+Sofya Kulikova,
+StimVis: A tool for interactive computation of the TMS-induced effects over tractography data,
+SoftwareX,
+Volume 12,
+2020,
+100594,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100594.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303071)
+Keywords: Transcranial magnetic stimulation; Effective field; Diffusion-weighted imaging; Modeling; Visualization
+
+Davide Ninni, Miguel A. Mendez,
+MODULO: A software for Multiscale Proper Orthogonal Decomposition of data,
+SoftwareX,
+Volume 12,
+2020,
+100622,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100622.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303356)
+Keywords: Data-driven modal decomposition; Multiresolution analysis; Multiscale Proper Orthogonal Decomposition
+
+Sahar Hojati, Rahele Kafieh, Parisa Fardafshari, Masoud Aghsaei Fard, Hatef Fouladi,
+A MATLAB package for automatic extraction of flow index in OCT-A images by intelligent vessel manipulation,
+SoftwareX,
+Volume 12,
+2020,
+100510,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100510.
+(https://www.sciencedirect.com/science/article/pii/S2352711020300364)
+Keywords: Optical Coherence Tomography Angiography (OCT-A); Digital image processing; Feature extraction; Blood flow information
+
+Andrzej Daniluk,
+rheed++: A C++ framework to simulation of RHEED intensity oscillations during the growth of thin epitaxial films,
+SoftwareX,
+Volume 12,
+2020,
+100593,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100593.
+(https://www.sciencedirect.com/science/article/pii/S235271102030306X)
+Keywords: Scientific computing; Numerical simulations; Diffuse scattering; RHEED; MBE
+
+Manish Anand, Jed A. Diekfuss, Alexis B. Slutsky-Ganesh, Scott Bonnette, Dustin R. Grooms, Gregory D. Myer,
+Graphical interface for automated management of motion artifact within fMRI acquisitions: INFOBAR,
+SoftwareX,
+Volume 12,
+2020,
+100598,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100598.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303113)
+Keywords: ICA-AROMA; GUI; Batch process; Python
+
+João Victor da Silva Guerra, Helder Veras Ribeiro Filho, Leandro Oliveira Bortot, Rodrigo Vargas Honorato, José Geraldo de Carvalho Pereira, Paulo Sérgio Lopes-de-Oliveira,
+ParKVFinder: A thread-level parallel approach in biomolecular cavity detection,
+SoftwareX,
+Volume 12,
+2020,
+100606,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100606.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303198)
+Keywords: Cavity detection; Parallelization; Space segmentation; Spatial characterization; OpenMP
+
+Karl Wette,
+SWIGLAL: Python and Octave interfaces to the LALSuite gravitational-wave data analysis libraries,
+SoftwareX,
+Volume 12,
+2020,
+100634,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100634.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303472)
+Keywords: Gravitational waves; Software wrapper; Python; Octave
+
+Michele Castelluzzo, Alessio Perinelli, Simone Detassis, Michela Alessandra Denti, Leonardo Ricci,
+MiRNA-QC-and-Diagnosis: An R package for diagnosis based on MiRNA expression,
+SoftwareX,
+Volume 12,
+2020,
+100569,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100569.
+(https://www.sciencedirect.com/science/article/pii/S2352711020301977)
+Keywords: MiRNA; Biomarkers; Diagnosis; Statistical analysis
+
+Yoann Ladroit, Pablo C. Escobar-Flores, Alexandre C.G. Schimel, Richard L. O’Driscoll,
+ESP3: An open-source software for the quantitative processing of hydro-acoustic data,
+SoftwareX,
+Volume 12,
+2020,
+100581,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100581.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302946)
+Keywords: Hydro-acoustics; Biomass estimation; Fisheries management; Marine science; Oceanography
+
+João Bispo, João M.P. Cardoso,
+Clava: C/C++ source-to-source compilation using LARA,
+SoftwareX,
+Volume 12,
+2020,
+100565,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100565.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302122)
+Keywords: Source-to-source; C/C++; LARA; Compilers
+
+P.E. Hadjidoukas, A. Bartezzaghi, F. Scheidegger, R. Istrate, C. Bekas, A.C.I. Malossi,
+torcpy: Supporting task parallelism in Python,
+SoftwareX,
+Volume 12,
+2020,
+100517,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100517.
+(https://www.sciencedirect.com/science/article/pii/S2352711020300091)
+Keywords: Parallelism; Python; MPI; Multithreading
+
+Kenneth A. Hart, Julian J. Rimoli,
+MicroStructPy: A statistical microstructure mesh generator in Python,
+SoftwareX,
+Volume 12,
+2020,
+100595,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100595.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303083)
+Keywords: Microstructure; Mesh generation; Polycrystal; Laguerre tessellation
+
+Simone Cirani, Marco Picone, Luca Veltri, Luca Zaccomer, Francesco Zanichelli,
+ZWT: A new cross-platform graphical interface framework for Java applications,
+SoftwareX,
+Volume 12,
+2020,
+100599,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100599.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303125)
+Keywords: Cross-platform; Java; Android; User Interface
+
+Amarin Siripanich, Taha Hossein Rashidi,
+Dymium: A modular microsimulation modelling framework for integrated urban modelling,
+SoftwareX,
+Volume 12,
+2020,
+100555,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100555.
+(https://www.sciencedirect.com/science/article/pii/S235271102030008X)
+Keywords: Microsimulation; Urban modelling; Life-course; R package
+
+Luka Čehovin Zajc,
+A modular toolkit for visual tracking performance evaluation,
+SoftwareX,
+Volume 12,
+2020,
+100623,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100623.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303368)
+Keywords: Computer vision; Visual tracking; Performance evaluation; Experiment result analysis
+
+Luca Ardito, Luca Barbato, Marco Castelluccio, Riccardo Coppola, Calixte Denizet, Sylvestre Ledru, Michele Valsesia,
+rust-code-analysis: A Rust library to analyze and extract maintainability information from source codes,
+SoftwareX,
+Volume 12,
+2020,
+100635,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100635.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303484)
+Keywords: Algorithm; Software metrics; Software maintainability; Software quality
+
+Jan Wilhelm Gärtner, Andreas Kronenburg, Tobias Martin,
+Efficient WENO library for OpenFOAM,
+SoftwareX,
+Volume 12,
+2020,
+100611,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100611.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303241)
+Keywords: OpenFOAM; WENO; Higher order schemes; Numerical validation; CFD
+
+Cemre Cubukcuoglu, Pirouz Nourian, I. Sevil Sariyildiz, M. Fatih Tasgetiren,
+A discrete event simulation procedure for validating programs of requirements: The case of hospital space planning,
+SoftwareX,
+Volume 12,
+2020,
+100539,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100539.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303723)
+Keywords: Discrete event simulation; Program of requirements; Hospital space planning
+
+Brittany L. Bruder, Katherine L. Brodie,
+CIRN Quantitative Coastal Imaging Toolbox,
+SoftwareX,
+Volume 12,
+2020,
+100582,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100582.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302958)
+Keywords: MATLAB; Photogrammetry tutorial; Unmanned Aircraft Systems (UAS); Coastal Imaging Research Network
+
+Orod Razeghi, José Alonso Solís-Lemus, Angela W.C. Lee, Rashed Karim, Cesare Corrado, Caroline H. Roney, Adelaide de Vecchi, Steven A. Niederer,
+CemrgApp: An interactive medical imaging application with image processing, computer vision, and machine learning toolkits for cardiovascular research,
+SoftwareX,
+Volume 12,
+2020,
+100570,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100570.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302831)
+Keywords: Image processing; Computer vision; Machine learning; Medical imaging; Interactive platform; Cardiovascular research
+
+Jérôme Degallaix,
+OSCAR: A MATLAB based package to simulate realistic optical cavities,
+SoftwareX,
+Volume 12,
+2020,
+100587,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100587.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303009)
+Keywords: Fabry–Perot cavities; Mirrors; Interferometry
+
+Sascha Bub, Thorsten Schad, Zhenglei Gao,
+XDrift—An R package to simulate spatially explicit pesticide spray-drift exposure of non-target-species habitats at landscape scales,
+SoftwareX,
+Volume 12,
+2020,
+100610,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100610.
+(https://www.sciencedirect.com/science/article/pii/S235271102030323X)
+Keywords: Landscape scale; Spray-drift exposure; Pesticide risk assessment; R package
+
+Oleksiy V. Penkov, Igor A. Kopylets, Mahdi Khadem, Tianzuo Qin,
+X-Ray Calc: A software for the simulation of X-ray reflectivity,
+SoftwareX,
+Volume 12,
+2020,
+100528,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100528.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303681)
+Keywords: X-ray reflectivity; Grazing incidence X-ray reflectometry; Coatings; Simulation; Fitting
+
+S. Bonduà, V. Bortolotti,
+TOUGH2Viewer 2.0: A multiplatform tool for fully 3D Voronoi TOUGH grids,
+SoftwareX,
+Volume 12,
+2020,
+100596,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100596.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303095)
+Keywords: 3D voronoi; TOUGH; Unstructured grid; Visualization; Java3D
+
+Jorge M. Cruz-Duarte, Ivan Amaya, José C. Ortiz-Bayliss, Hugo Terashima-Marín, Yong Shi,
+CUSTOMHyS: Customising Optimisation Metaheuristics via Hyper-heuristic Search,
+SoftwareX,
+Volume 12,
+2020,
+100628,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100628.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303411)
+Keywords: Metaheuristic; Hyper-heuristic; Search operators; Evolutionary computation
+
+João R. Almeida, Armando J. Pinho, José L. Oliveira, Olga Fajarda, Diogo Pratas,
+GTO: A toolkit to unify pipelines in genomic and proteomic research,
+SoftwareX,
+Volume 12,
+2020,
+100535,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100535.
+(https://www.sciencedirect.com/science/article/pii/S2352711020301473)
+Keywords: Genomic Toolkit; Proteomic Toolkit; Next-generation sequencing
+
+Jakob Lass, Henrik Jacobsen, Daniel G. Mazzone, Kim Lefmann,
+MJOLNIR: A software package for multiplexing neutron spectrometers,
+SoftwareX,
+Volume 12,
+2020,
+100600,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100600.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303137)
+Keywords: Inelastic neutron scattering; Three-axis spectroscopy; Visualisation tool
+
+Lia Morra, Francesco Manigrasso, Fabrizio Lamberti,
+SoccER: Computer graphics meets sports analytics for soccer event recognition,
+SoftwareX,
+Volume 12,
+2020,
+100612,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100612.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303253)
+Keywords: Sports analytics; Computer graphics; Event detection; Soccer event recognition; Game simulator
+
+Gregorio Mariggiò, Sebastiano Fichera, Mauro Corrado, Giulio Ventura,
+EQP - A 2D/3D library for integration of polynomials times step function,
+SoftwareX,
+Volume 12,
+2020,
+100636,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100636.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303496)
+Keywords: Numerical integration; Heaviside step function; Polynomial functions; Computer graphics; Library; Fortran; Mass properties; Subdomain quadrature
+
+Dominik Paprotny, Oswaldo Morales-Nápoles, Daniël T.H. Worm, Elisa Ragno,
+BANSHEE–A MATLAB toolbox for Non-Parametric Bayesian Networks,
+SoftwareX,
+Volume 12,
+2020,
+100588,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100588.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303010)
+Keywords: Copulas; Probabilistic models; Belief Nets
+
+Johannes Keller, Volker Rath, Johanna Bruckmann, Darius Mottaghy, Christoph Clauser, Andreas Wolf, Ralf Seidler, H. Martin Bücker, Norbert Klitzsch,
+SHEMAT-Suite: An open-source code for simulating flow, heat and species transport in porous media,
+SoftwareX,
+Volume 12,
+2020,
+100533,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100533.
+(https://www.sciencedirect.com/science/article/pii/S2352711020301357)
+Keywords: Flow; Heat and species transport in porous media; Geothermal energy; Parameter estimation; Uncertainty quantification
+
+Luca Ardito, Marco Torchiano, Riccardo Coppola, Giulio Antoniol,
+PowTrAn: An R Package for power trace analysis,
+SoftwareX,
+Volume 12,
+2020,
+100512,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100512.
+(https://www.sciencedirect.com/science/article/pii/S235271102030025X)
+Keywords: Energy consumption; Power trace analysis; R language
+
+Stefan Dähling, Lukas Razik, Antonello Monti,
+OWL2Go: Auto-generation of Go data models for OWL ontologies with integrated serialization and deserialization functionality,
+SoftwareX,
+Volume 12,
+2020,
+100571,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100571.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302843)
+Keywords: Ontology; OWL; Go; SAREF
+
+Yifei Zhang, Jia Cao,
+GSimPy: A Python package for measuring group similarity,
+SoftwareX,
+Volume 12,
+2020,
+100526,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100526.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303590)
+Keywords: Group similarity; Group–Item–Element Model; Python package
+
+Nathan Fox, Tom August, Francesca Mancini, Katherine E. Parks, Felix Eigenbrod, James M. Bullock, Louis Sutter, Laura J. Graham,
+“photosearcher” package in R: An accessible and reproducible method for harvesting large datasets from Flickr,
+SoftwareX,
+Volume 12,
+2020,
+100624,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100624.
+(https://www.sciencedirect.com/science/article/pii/S235271102030337X)
+Keywords: Biological datasets; Cultural ecosystem services; Flickr; R package; Social datasets; Social media
+
+R. Siddharth, G. Aghila,
+RandPro- A practical implementation of random projection-based feature extraction for high dimensional multivariate data analysis in R,
+SoftwareX,
+Volume 12,
+2020,
+100629,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100629.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303423)
+Keywords: Dimension reduction; Johnson–Lindenstrauss lemma; RandPro; R Programming; Software description
+
+Federico Tartarini, Stefano Schiavon, Toby Cheung, Tyler Hoyt,
+CBE Thermal Comfort Tool: Online tool for thermal comfort calculations and visualizations,
+SoftwareX,
+Volume 12,
+2020,
+100563,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100563.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302454)
+Keywords: Thermal comfort; Predicted Mean Vote; Adaptive comfort models; Local thermal discomfort
+
+Matthew P. Conlin, Peter N. Adams, Benjamin Wilkinson, Gregory Dusek, Margaret L. Palmsten, Jenna A. Brown,
+SurfRCaT: A tool for remote calibration of pre-existing coastal cameras to enable their use as quantitative coastal monitoring tools,
+SoftwareX,
+Volume 12,
+2020,
+100584,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100584.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302971)
+Keywords: Coastal monitoring; Surf-cameras; Camera calibration; Photogrammetry; Lidar
+
+Domenico Suriano,
+SentinAir system software: A flexible tool for data acquisition from heterogeneous sensors and devices,
+SoftwareX,
+Volume 12,
+2020,
+100589,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100589.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303022)
+Keywords: Air quality monitoring; Wireless sensors; Measurement software; Portable monitoring unit; Expandable software
+
+Daniel D. Brown, Philip Jones, Samuel Rowlinson, Sean Leavey, Anna C. Green, Daniel Töyrä, Andreas Freise,
+Pykat: Python package for modelling precision optical interferometers,
+SoftwareX,
+Volume 12,
+2020,
+100613,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100613.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303265)
+Keywords: Interferometry modelling; Gravitational wave detector modelling; Quantum optics; Quantum noise
+
+Dovydas Joksas, Adnan Mehonic,
+badcrossbar: A Python tool for computing and plotting currents and voltages in passive crossbar arrays,
+SoftwareX,
+Volume 12,
+2020,
+100617,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100617.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303307)
+Keywords: Python; Crossbar; Memristor
+
+Marco S. Rodrigues, Rui M.S. Pereira, Mikhail I. Vasilevskiy, Joel Borges, Filipe Vaz,
+NANOPTICS: In-depth analysis of NANomaterials for OPTICal localized surface plasmon resonance Sensing,
+SoftwareX,
+Volume 12,
+2020,
+100522,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100522.
+(https://www.sciencedirect.com/science/article/pii/S235271102030042X)
+Keywords: Nnanoplasmonic thin films; Optical sensing; LSPR band analysis
+
+S. Semper, M. Döbereiner, S. Pawar, M. Landmann, G. Del Galdo,
+eadf: Representation of far-field antenna responses in Python,
+SoftwareX,
+Volume 12,
+2020,
+100583,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100583.
+(https://www.sciencedirect.com/science/article/pii/S235271102030296X)
+Keywords: Antennas; Beam-pattern; Signal processing
+
+Azim Ahmadzadeh, Kankana Sinha, Berkay Aydin, Rafal A. Angryk,
+MVTS-Data Toolkit: A Python package for preprocessing multivariate time series data,
+SoftwareX,
+Volume 12,
+2020,
+100518,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100518.
+(https://www.sciencedirect.com/science/article/pii/S2352711020300157)
+Keywords: Feature extraction; Data analysis; Multivariate time series; Class imbalance; Multi-class; Sampling
+
+Paul Bartholomew, Georgios Deskos, Ricardo A.S. Frantz, Felipe N. Schuch, Eric Lamballais, Sylvain Laizet,
+Xcompact3D: An open-source framework for solving turbulence problems on a Cartesian mesh,
+SoftwareX,
+Volume 12,
+2020,
+100550,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100550.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303620)
+Keywords: High-order finite-difference; Turbulence; Cartesian mesh; High Performance Computing; Computational Fluid Dynamics
+
+A. Sclocco, S. Heldens, B. van Werkhoven,
+AMBER: A real-time pipeline for the detection of single pulse astronomical transients,
+SoftwareX,
+Volume 12,
+2020,
+100549,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100549.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302826)
+Keywords: Radio astronomy; Fast radio bursts; Transients
+
+Vasyl Skorych, Maksym Dosta, Stefan Heinrich,
+Dyssol—An open-source flowsheet simulation framework for particulate materials,
+SoftwareX,
+Volume 12,
+2020,
+100572,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100572.
+(https://www.sciencedirect.com/science/article/pii/S2352711020302855)
+Keywords: Flowsheet simulation; Dynamic modelling; Multidimensional distributed parameters; Granular materials; Solids processes
+
+Juan Martínez-Franco, Edgar Céspedes-Sabogal, David Álvarez-Martínez,
+PackageCargo: A decision support tool for the container loading problem with stability,
+SoftwareX,
+Volume 12,
+2020,
+100601,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100601.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303149)
+Keywords: Optimization; Cargo stability; Physics engine; Unity
+
+Julien Loiseau, Hyun Lim, Mark Alexander Kaltenborn, Oleg Korobkin, Christopher M. Mauney, Irina Sagert, Wesley P. Even, Benjamin K. Bergen,
+FleCSPH: The next generation FleCSIble parallel computational infrastructure for smoothed particle hydrodynamics,
+SoftwareX,
+Volume 12,
+2020,
+100602,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100602.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303150)
+Keywords: Smoothed particle hydrodynamics; Tree topology; High performance computing
+
+C. Meijer, M.W. Grootes, Z. Koma, Y. Dzigan, R. Gonçalves, B. Andela, G. van den Oord, E. Ranguelova, N. Renaud, W.D. Kissling,
+Laserchicken—A tool for distributed feature calculation from massive LiDAR point cloud datasets,
+SoftwareX,
+Volume 12,
+2020,
+100626,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2020.100626.
+(https://www.sciencedirect.com/science/article/pii/S2352711020303393)
+Keywords: LiDAR; Point cloud; Feature extraction; Airborne Laser Scanning (ALS); Biodiversity; Ecology; 3D vegetation structure

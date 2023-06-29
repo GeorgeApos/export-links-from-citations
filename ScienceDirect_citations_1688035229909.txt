@@ -1,0 +1,603 @@
+José A. Abell, Jorge G.F. Crempien, Matías Recabarren,
+ShakerMaker: A framework that simplifies the simulation of seismic ground-motions,
+SoftwareX,
+Volume 17,
+2022,
+100911,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100911.
+(https://www.sciencedirect.com/science/article/pii/S235271102100159X)
+Keywords: Seismic SSI; Domain reduction method; UCSB method
+
+Oscar Araque, J. Fernando Sánchez-Rada, Carlos A. Iglesias,
+GSITK: A sentiment analysis framework for agile replication and development,
+SoftwareX,
+Volume 17,
+2022,
+100921,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100921.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001643)
+Keywords: Sentiment analysis; Word embeddings; Machine learning; Natural language processing
+
+Juha Kiviluoma, Fabiano Pallonetto, Manuel Marin, Pekka T. Savolainen, Antti Soininen, Per Vennström, Erkka Rinne, Jiangyi Huang, Iasonas Kouveliotis-Lysikatos, Maren Ihlemann, Erik Delarue, Ciara O’Dwyer, Terence O’Donnel, Mikael Amelin, Lennart Söder, Joseph Dillon,
+Spine Toolbox: A flexible open-source workflow management system with scenario and data management,
+SoftwareX,
+Volume 17,
+2022,
+100967,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100967.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001886)
+Keywords: Workflow management; Data management; Modelling; Optimisation; Open source; Scenario
+
+Anton Raskovalov, Platon Surkov,
+azTotMD 2.0: Molecular dynamics with the radiative thermostat and temperature-dependent force field (CUDA version),
+SoftwareX,
+Volume 17,
+2022,
+100995,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100995.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000127)
+Keywords: Molecular dynamics; Radiative thermostat; Temperature-dependent force field; Non-constant force field
+
+Igor Krivenko,
+libcommute/pycommute: A quantum operator algebra domain-specific language and exact diagonalization toolkit,
+SoftwareX,
+Volume 17,
+2022,
+100937,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100937.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001722)
+Keywords: Quantum; Algebra; Many body physics; Exact diagonalization
+
+Roberto Posenato,
+CSTNU Tool: A Java library for checking temporal networks,
+SoftwareX,
+Volume 17,
+2022,
+100905,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100905.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001564)
+Keywords: Temporal constraint network; Consistency check; Dynamic controllability check; Constraint propagation algorithm
+
+Piotr Jurkiewicz,
+flow-models: A framework for analysis and modeling of IP network flows,
+SoftwareX,
+Volume 17,
+2022,
+100929,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100929.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001680)
+Keywords: Flow model; Distribution fitting; Traffic engineering; SDN
+
+Damian Frąszczak,
+RPaSDT—Rumor Propagation and Source Detection Toolkit,
+SoftwareX,
+Volume 17,
+2022,
+100988,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100988.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000085)
+Keywords: Python; Online social networks; Information propagation; Rumor source detection
+
+Mikkel S. Bødker, Collin J. Wilkinson, John C. Mauro, Morten M. Smedskjaer,
+StatMechGlass: Python based software for composition–structure prediction in oxide glasses using statistical mechanics,
+SoftwareX,
+Volume 17,
+2022,
+100913,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100913.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001606)
+Keywords: Statistical mechanics; Glass structure; Modelling; Python
+
+Alberto Gomez, Veronika A. Zimmer, Gavin Wheeler, Nicolas Toussaint, Shujie Deng, Robert Wright, Emily Skelton, Jackie Matthew, Bernhard Kainz, Jo Hajnal, Julia Schnabel,
+PRETUS: A plug-in based platform for real-time ultrasound imaging research,
+SoftwareX,
+Volume 17,
+2022,
+100959,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100959.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001849)
+Keywords: Real time; Ultrasound imaging; Plug-in based
+
+James Price, Marianne Zeyringer,
+highRES-Europe: The high spatial and temporal Resolution Electricity System model for Europe,
+SoftwareX,
+Volume 17,
+2022,
+101003,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101003.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000164)
+Keywords: Energy systems modelling; Renewable energy; Low carbon power systems
+
+Rémi Kogon, David Faux,
+3TM: Software for the 3-Tau Model,
+SoftwareX,
+Volume 17,
+2022,
+100979,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100979.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000048)
+Keywords: FFC-NMR dispersion curves; Least squares minimization; 3-Tau Model; T1/T2 ratio
+
+Luca Buoncompagni, Syed Yusha Kareem, Fulvio Mastrogiovanni,
+OWLOOP: A modular API to describe OWL axioms in OOP objects hierarchies,
+SoftwareX,
+Volume 17,
+2022,
+100952,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100952.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001801)
+Keywords: Object-Oriented Programming (OOP); Ontology Web Language (OWL); Application Programming Interface (API); Software architecture
+
+Andrea Giuffre’, Matteo Pini,
+NiceProp: An interactive Python-based educational tool for non-ideal compressible fluid dynamics,
+SoftwareX,
+Volume 17,
+2022,
+100897,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100897.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001527)
+Keywords: Fluids; Non-ideal flows; Learning
+
+Andrea Bragagnolo, Carlo Alberto Barbano,
+Simplify: A Python library for optimizing pruned neural networks,
+SoftwareX,
+Volume 17,
+2022,
+100907,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100907.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001576)
+Keywords: Deep learning; Simplification; Optimization; Pruning; PyTorch
+
+Takashi Takekawa,
+Fast parallel calculation of modified Bessel function of the second kind and its derivatives,
+SoftwareX,
+Volume 17,
+2022,
+100923,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100923.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001655)
+Keywords: Bessel functions; Numerical integration; Parallel execution
+
+Devyani Jivani, Jaroslaw Zola, Baskar Ganapathysubramanian, Olga Wodo,
+GraSPI: Extensible software for the graph-based quantification of morphology in organic electronics,
+SoftwareX,
+Volume 17,
+2022,
+100969,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100969.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001898)
+Keywords: Graph theory; Materials informatics; Microstructure descriptors; Organic photovoltaics
+
+Parichit Sharma, Hasan Kurban, Mehmet Dalkilic,
+DCEM: An R package for clustering big data via data-centric modification of Expectation Maximization,
+SoftwareX,
+Volume 17,
+2022,
+100944,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100944.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001771)
+Keywords: Data centric machine learning; Big data; Unsupervised clustering; Expectation Maximization; Open source software
+
+Ali Ahrari, Saber Elsayed, Ruhul Sarker, Daryl Essam, Carlos A. Coello Coello,
+PyDDRBG: A Python framework for benchmarking and evaluating static and dynamic multimodal optimization methods,
+SoftwareX,
+Volume 17,
+2022,
+100961,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100961.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001850)
+Keywords: Test problems; Benchmarking; Niching; Performance indicator
+
+Davide Marelli, Simone Bianco, Gianluigi Ciocca,
+SfM Flow: A comprehensive toolset for the evaluation of 3D reconstruction pipelines,
+SoftwareX,
+Volume 17,
+2022,
+100931,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100931.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001692)
+Keywords: Blender add-on; Structure from Motion (SfM); 3D reconstruction evaluation; Synthetic data generation
+
+Andrés Soto, Héctor Mora, Jaime A. Riascos,
+Web Generator: An open-source software for synthetic web-based user interface dataset generation,
+SoftwareX,
+Volume 17,
+2022,
+100985,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100985.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000073)
+Keywords: Synthetic dataset; Dataset generation; HTML; Bootstrap
+
+F.L.E. Usseglio-Viretta, P. Patel, E. Bernhardt, A. Mistry, P.P. Mukherjee, J. Allen, S.J. Cooper, J. Laurencin, K. Smith,
+MATBOX: An Open-source Microstructure Analysis Toolbox for microstructure generation, segmentation, characterization, visualization, correlation, and meshing,
+SoftwareX,
+Volume 17,
+2022,
+100915,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100915.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001618)
+Keywords: Microstructure generation; Microstructure segmentation; Microstructure characterization; Microstructure meshing
+
+Auralius Manurung, Lisa Kristiana, Nur Uddin,
+YADPF: A reusable deterministic dynamic programming implementation in MATLAB,
+SoftwareX,
+Volume 17,
+2022,
+101001,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101001.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000152)
+Keywords: Dynamic programming; Optimal control; Dynamic optimization; Reinforcement learning
+
+Mario Ocampo-Pineda, Roberto Posenato, Francesca Zerbato,
+TimeAwareBPMN-js: An editor and temporal verification tool for Time-Aware BPMN processes,
+SoftwareX,
+Volume 17,
+2022,
+100939,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100939.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001734)
+Keywords: BPMN; Temporal process modeling; Temporal constraint networks; Dynamic controllability
+
+Matthias Ertl, Carlo Prelz, Daniel C. Fitze, Gerda Wyssen, Fred W. Mast,
+PlatformCommander — An open source software for an easy integration of motion platforms in research laboratories,
+SoftwareX,
+Volume 17,
+2022,
+100945,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100945.
+(https://www.sciencedirect.com/science/article/pii/S235271102100176X)
+Keywords: Motion platform; Hexapod; Psychophysics; Perception research
+
+Ahmed Harmouche, Ferenc Kövér, Sándor Szukits, Tamás Dóczi, Péter Bogner, Arnold Tóth,
+XReport: An online structured reporting platform for radiologists,
+SoftwareX,
+Volume 17,
+2022,
+100993,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100993.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000115)
+Keywords: Structured reporting; Radiology; eHealth; JavaScript
+
+Hendrik Kayser, Tobias Herzke, Paul Maanen, Max Zimmermann, Giso Grimm, Volker Hohmann,
+Open community platform for hearing aid algorithm research: open Master Hearing Aid (openMHA),
+SoftwareX,
+Volume 17,
+2022,
+100953,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100953.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001813)
+Keywords: Hearing aids; Real-time audio signal processing; Audiological research
+
+Pier-Giovanni Taranti, Carlos Alberto Nunes Cosenza, Leonardo Antonio Monteiro Pessôa, Rodrigo Abrunhosa Collazo,
+coppeCosenzaR: A hierarchical decision model,
+SoftwareX,
+Volume 17,
+2022,
+100899,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100899.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001539)
+Keywords: R; Coppe-Cosenza; Decision support
+
+Anton Plietzsch, Raphael Kogler, Sabine Auer, Julia Merino, Asier Gil-de-Muro, Jan Liße, Christina Vogel, Frank Hellmann,
+PowerDynamics.jl—An experimentally validated open-source package for the dynamical analysis of power grids,
+SoftwareX,
+Volume 17,
+2022,
+100861,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100861.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001345)
+Keywords: Power systems; Dynamic simulation; Microgrids; Inverters; Julia
+
+Tristan Langer, Richard Meyes, Tobias Meisen,
+Gideon Replay: A library to replay interactions in web-applications,
+SoftwareX,
+Volume 17,
+2022,
+100964,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100964.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001862)
+Keywords: Human-centered computing; Visualization systems and tools; Analytic provenance; User studies
+
+Jacob Aubertine, Kenan Chen, Vidhyashree Nagaraju, Lance Fiondella,
+A covariate software tool to guide test activity allocation,
+SoftwareX,
+Volume 17,
+2022,
+100909,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100909.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001588)
+Keywords: Software reliability; Software reliability growth model; Covariates; Test activity allocation
+
+Stian Backe, Christian Skar, Pedro Crespo del Granado, Ozgu Turgut, Asgeir Tomasgard,
+EMPIRE: An open-source model based on multi-horizon programming for energy transition analyses,
+SoftwareX,
+Volume 17,
+2022,
+100877,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100877.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001424)
+Keywords: Power system planning software; Stochastic programming; Multi-horizon representation; Energy systems modelling
+
+
+Editorial Board,
+SoftwareX,
+Volume 17,
+2022,
+101027,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(22)00030-9.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000309)
+
+Deshana Desai, Etai Shuchatowitz, Zhongshi Jiang, Teseo Schneider, Daniele Panozzo,
+ACORNS: An easy-to-use code generator for gradients and Hessians,
+SoftwareX,
+Volume 17,
+2022,
+100901,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100901.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001540)
+Keywords: Code generation; Automatic differentiation
+
+Josef Spillner, Panagiotis Gkikopoulos, Pamela Delgado, Christine Choirat,
+Towards reproducible software studies with MAO and Renku,
+SoftwareX,
+Volume 17,
+2022,
+100947,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100947.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001783)
+Keywords: Software technology; Data science; Reproducibility
+
+Li Dong, Yufan Zhang, Lingling Zhao, Ting Zheng, Weidong Wang, Jianfu Li, Diankun Gong, Tiejun Liu, Dezhong Yao,
+DRT: A new toolbox for the Standard EEG Data Structure in large-scale EEG applications,
+SoftwareX,
+Volume 17,
+2022,
+100933,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100933.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001709)
+Keywords: EEG; Datafile Restructuring Toolbox; Standard EEG Data Structure (SEDS); Standardization
+
+Hongyan Xu, Ayten Yiğiter, Jie Chen,
+onlineBcp: An R package for online change point detection using a Bayesian approach,
+SoftwareX,
+Volume 17,
+2022,
+100999,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100999.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000140)
+Keywords: Change point model; Online change point detection; Posterior probability; Confidence interval
+
+Thomas Bueler-Faudree, Sam Delamere, Denys Dutykh, Alexei Rybkin, Alexander Suleimani,
+Fast shallow water-wave solver for plane inclined beaches,
+SoftwareX,
+Volume 17,
+2022,
+100983,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100983.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000061)
+Keywords: Tsunami run-up; Shallow water equations; Data projection
+
+Jonas Van Der Donckt, Jeroen Van Der Donckt, Emiel Deprost, Sofie Van Hoecke,
+tsflex: Flexible time series processing & feature extraction,
+SoftwareX,
+Volume 17,
+2022,
+100971,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100971.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001904)
+Keywords: Time series; Processing; Feature extraction; Machine learning; Python
+
+Lukas Bromig, David Leiter, Alexandru-Virgil Mardale, Nikolas von den Eichen, Emmeran Bieringer, Dirk Weuster-Botz,
+The SiLA 2 Manager for rapid device integration and workflow automation,
+SoftwareX,
+Volume 17,
+2022,
+100991,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100991.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000103)
+Keywords: Laboratory automation; Device integration; SiLA2; Data integrity; Biotechnology; Life sciences; Software framework; Web application; IoT
+
+Luca Caviglione, Andreas Schaffhauser, Marco Zuppelli, Wojciech Mazurczyk,
+IPv6CC: IPv6 covert channels for testing networks against stegomalware and data exfiltration,
+SoftwareX,
+Volume 17,
+2022,
+100975,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100975.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000024)
+Keywords: Covert channels; Exfiltration; Network security
+
+Michele Fraccaroli, Evelina Lamma, Fabrizio Riguzzi,
+Symbolic DNN-Tuner: A Python and ProbLog-based system for optimizing Deep Neural Networks hyperparameters,
+SoftwareX,
+Volume 17,
+2022,
+100957,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100957.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001825)
+Keywords: Deep learning; Probabilistic Logic Programming; Hyper-parameters tuning; Neural-symbolic integration
+
+Eric J. Ching, Brett Bornhoft, Ali Lasemi, Matthias Ihme,
+Quail: A lightweight open-source discontinuous Galerkin code in Python for teaching and prototyping,
+SoftwareX,
+Volume 17,
+2022,
+100982,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100982.
+(https://www.sciencedirect.com/science/article/pii/S235271102200005X)
+Keywords: Discontinuous Galerkin method; High-order methods; Python
+
+Moncef Garouani, Adeel Ahmad, Mourad Bouneffa, Mohamed Hamlich,
+AMLBID: An auto-explained Automated Machine Learning tool for Big Industrial Data,
+SoftwareX,
+Volume 17,
+2022,
+100919,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100919.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001631)
+Keywords: Machine learning; AutoML; Meta-learning; Decision-support systems; Explainable AI; Big industrial data
+
+Fangzhou Xie,
+rethnicity: An R package for predicting ethnicity from names,
+SoftwareX,
+Volume 17,
+2022,
+100965,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100965.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001874)
+Keywords: R; LSTM; Ethnicity prediction
+
+Christian A. Candela-Uribe, Luis E. Sepúlveda-Rodríguez, Julio C. Chavarro-Porras, John A. Sanabria-Ordoñez, José Luis Garrido, Carlos Rodríguez-Domínguez, Gabriel Guerrero-Contreras,
+SMS-Builder: An adaptive software tool for building systematic mapping studies,
+SoftwareX,
+Volume 17,
+2022,
+100935,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100935.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001710)
+Keywords: Systematic literature review; Systematic mapping study; Empirical software engineering
+
+Alexandru Mara, Jefrey Lijffijt, Tijl De Bie,
+EvalNE: A framework for network embedding evaluation,
+SoftwareX,
+Volume 17,
+2022,
+100997,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100997.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000139)
+Keywords: Representation learning; Evaluation; Reproducibility; Open-source tools
+
+Evangelos Syrmos, Dimitrios Bechtsis, Naoum Tsolakis,
+MIROR: A middleware software tool for interfacing mobile industrial robots with optimization routing algorithms,
+SoftwareX,
+Volume 17,
+2022,
+100903,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100903.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001552)
+Keywords: Routing algorithms; Logistics optimization; Mobile industrial robots; Traveling Salesman Problem; Middleware software tool; Industry 4.0
+
+Ivan Zubarev, Gavriela Vranou, Lauri Parkkonen,
+MNEflow: Neural networks for EEG/MEG decoding and interpretation,
+SoftwareX,
+Volume 17,
+2022,
+100951,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100951.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001795)
+Keywords: Neural networks; Electroencephalography; Magnetoencephalography; Tensorflow; Machine learning
+
+Muhammad M. Roomi, Wen Shei Ong, Daisuke Mashima, Suhail S.M. Hussain,
+OpenPLC61850: An IEC 61850 MMS compatible open source PLC for smart grid research,
+SoftwareX,
+Volume 17,
+2022,
+100917,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100917.
+(https://www.sciencedirect.com/science/article/pii/S235271102100162X)
+Keywords: OpenPLC61850; OpenPLC; IEC 61850; Programmable logic controllers; Cyber security
+
+Kirill Muravyev, Andrey Bokovoy, Konstantin Yakovlev,
+tx2_fcnn_node: An open-source ROS compatible tool for monocular depth reconstruction,
+SoftwareX,
+Volume 17,
+2022,
+100956,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100956.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001837)
+Keywords: Autonomous navigation; Robot operating system; Depth reconstruction; Vision-based simultaneous localization and mapping
+
+Zsolt T. Kosztyán,
+MFPP: Matrix-based flexible project planning,
+SoftwareX,
+Volume 17,
+2022,
+100973,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100973.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000012)
+Keywords: Flexible project planning; Agile; Extreme; Hybrid project management; Scheduling; Risk analysis
+
+Exneyder A. Montoya-Araque, A.J. Aparicio-Ortube, David G. Zapata-Medina, Luis G. Arboleda-Monsalve,
+An open-source application software to determine the preconsolidation pressure of soils in incremental loading oedometer testing: pySigmaP,
+SoftwareX,
+Volume 17,
+2022,
+100990,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.100990.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000097)
+Keywords: Open-source application software; Python 3; Preconsolidation pressure; Soil; Oedometer testing
+
+Ahmed Elkady,
+FM-2D - open-source platform for the 2-dimensional numerical modeling and seismic analysis of buildings,
+SoftwareX,
+Volume 17,
+2022,
+100927,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100927.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001679)
+Keywords: Computational platform; Software; Numerical modeling, nonlinear analysis; Modeling uncertainty; OpenSEES
+
+Fábio Pereira, Paul Crocker, Valderi R.Q. Leithardt,
+PADRES: Tool for PrivAcy, Data REgulation and Security,
+SoftwareX,
+Volume 17,
+2022,
+100895,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100895.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001515)
+Keywords: GDPR; Privacy; Security; Vulnerabilities

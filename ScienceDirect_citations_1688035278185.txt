@@ -1,0 +1,547 @@
+Douglas Kurrant, Nasim Abdollahi, Muhammad Omer, Pedram Mojabi, Elise Fear, Joe LoVetri,
+MWSegEval—An image analysis toolbox for microwave breast images,
+SoftwareX,
+Volume 15,
+2021,
+100728,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100728.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000674)
+Keywords: Microwave medical imaging; Image reconstruction; Segmentation; Unsupervised machine learning, Performance metrics
+
+Ali Haidar, Matthew Field, Jonathan Sykes, Martin Carolan, Lois Holloway,
+PSPSO: A package for parameters selection using particle swarm optimization,
+SoftwareX,
+Volume 15,
+2021,
+100706,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100706.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000510)
+Keywords: Machine learning; Parameters selection; Particle swarm optimization; Automation; AutoML
+
+Luis Cabañero-Gomez, Ramon Hervas, Ivan Gonzalez, Luis Rodriguez-Benitez,
+eeglib: A Python module for EEG feature extraction,
+SoftwareX,
+Volume 15,
+2021,
+100745,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100745.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000753)
+Keywords: EEG; Biosignals; Signal analysis; Python
+
+Nicola Capodieci, Roberto Cavicchioli,
+vkpolybench: A crossplatform Vulkan Compute port of the PolyBench/GPU benchmark suite,
+SoftwareX,
+Volume 15,
+2021,
+100793,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100793.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000996)
+Keywords: GP-GPU computing; Heterogeneous architectures; High performance computing
+
+
+Editorial Board,
+SoftwareX,
+Volume 15,
+2021,
+100802,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(21)00104-7.
+(https://www.sciencedirect.com/science/article/pii/S2352711021001047)
+
+Jens Fruhstorfer,
+ParSD — Tool to design and analyze particle size distributions,
+SoftwareX,
+Volume 15,
+2021,
+100753,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100753.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000790)
+Keywords: Particle packing; Concrete; Refractories; Coal briquetting; Powder metallurgy
+
+Joseph C. Ferguson, Federico Semeraro, John M. Thornton, Francesco Panerai, Arnaud Borner, Nagi N. Mansour,
+Update 3.0 to “PuMA: The Porous Microstructure Analysis software”, (PII:S2352711018300281),
+SoftwareX,
+Volume 15,
+2021,
+100775,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100775.
+(https://www.sciencedirect.com/science/article/pii/S235271102100090X)
+Keywords: Microtomography; Tortuosity; Permeability; Conductivity; Segmentation; Microscale modeling
+
+Matteo Zampieri, Andrea Toreti, Andrej Ceglar, Pierluca De Palma, Thomas Chatzopoulos, Melania Michetti,
+Analysing the resilience of agricultural production systems with ResiPy, the Python production resilience estimation package,
+SoftwareX,
+Volume 15,
+2021,
+100738,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100738.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000716)
+Keywords: Annual production resilience indicator; APRI; Climate resilience; Diversity; Agriculture; Commodity market; Python
+
+David S. Kammer, Gabriele Albertini, Chun-Yu Ke,
+UGUCA: A spectral-boundary-integral method for modeling fracture and friction,
+SoftwareX,
+Volume 15,
+2021,
+100785,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100785.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000959)
+Keywords: Boundary element method; Fracture; Friction; Decohesion
+
+Luan Vinícius Fiorio, Chrystian Lenon Remes, Yales Rômulo de Novaes,
+impulseest: A Python package for non-parametric impulse response estimation with input–output data,
+SoftwareX,
+Volume 15,
+2021,
+100761,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100761.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000832)
+Keywords: Impulse response; Estimation; Regularization
+
+Andreas P. Cuny, Fabian Rudolf, Aaron Ponti,
+pyPOCQuant — A tool to automatically quantify Point-Of-Care Tests from images,
+SoftwareX,
+Volume 15,
+2021,
+100710,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100710.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000558)
+Keywords: Lateral flow assay (LFA); Lateral flow immunoassay (LFIA); Point of care test (POCT); Test line quantification; Readout zone quantification; Diagnostics; Computer vision; QR code; Rapid testing; Rapid diagnostic tests (RTD)
+
+Artur André Almeida de Macedo Oliveira, Roberto Hirata,
+INACITY - INvestigate and Analyze a CITY,
+SoftwareX,
+Volume 15,
+2021,
+100777,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100777.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000911)
+Keywords: Geographical information system; Geoportal; Computer vision
+
+Jonas Lynge Vishart, Jaime Castillo-León, Winnie E. Svendsen,
+pyEIA: A Python-based framework for data analysis of electrochemical methods for immunoassays,
+SoftwareX,
+Volume 15,
+2021,
+100720,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100720.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000637)
+Keywords: Graphical user interface; Python; Impedance spectroscopy; Immunoassay
+
+Roxana Bujack, Karen Tsai, Steven K. Morley, Etienne Bresciani,
+Open source vector field topology,
+SoftwareX,
+Volume 15,
+2021,
+100787,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100787.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000960)
+Keywords: Vector field; Topology; Critical point; Separatrix
+
+Thomas McLean, Christian Málaga-Chuquitaype, Nicos Kalapodis, Georgios Kampas,
+OpenArch: An open-source package for determining the minimum-thickness of arches under seismic loads,
+SoftwareX,
+Volume 15,
+2021,
+100731,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100731.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000686)
+Keywords: Optimal arches; Minimum thickness; Seismic analysis; Limit thrust-line
+
+Anton Afanasyev, Mauro Bianco, Lukas Mosimann, Carlos Osuna, Felix Thaler, Hannes Vogt, Oliver Fuhrer, Joost VandeVondele, Thomas C. Schulthess,
+GridTools: A framework for portable weather and climate applications,
+SoftwareX,
+Volume 15,
+2021,
+100707,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100707.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000522)
+Keywords: C++; Weather; Climate; Library; Embedded DSL
+
+José Daniel Lara, Clayton Barrows, Daniel Thom, Dheepak Krishnamurthy, Duncan Callaway,
+PowerSystems.jl — A power system data management package for large scale modeling,
+SoftwareX,
+Volume 15,
+2021,
+100747,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100747.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000765)
+Keywords: Power Systems; Julia; Energy
+
+Kostas Cheliotis,
+ABMU: An Agent-Based Modelling Framework for Unity3D,
+SoftwareX,
+Volume 15,
+2021,
+100771,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100771.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000881)
+Keywords: Agent-Based Modelling; Framework; 3D; Unity3D
+
+Krzysztof Gajowniczek, Tomasz Ząbkowski,
+ImbTreeAUC: An R package for building classification trees using the area under the ROC curve (AUC) on imbalanced datasets,
+SoftwareX,
+Volume 15,
+2021,
+100755,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100755.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000807)
+Keywords: Decision trees; Area under the ROC curve; Cost-sensitive learning; Imbalanced data
+
+Marek Gagolewski,
+genieclust: Fast and robust hierarchical clustering,
+SoftwareX,
+Volume 15,
+2021,
+100722,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100722.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000649)
+Keywords: Hierarchical clustering; Robust methods; Noise points; Python; R
+
+Alessandro Sebastianelli, Maria Pia Del Rosso, Silvia Liberata Ullo,
+Automatic dataset builder for Machine Learning applications to satellite imagery,
+SoftwareX,
+Volume 15,
+2021,
+100739,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100739.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000728)
+Keywords: Dataset creation; Big Data; Machine Learning; Python task automation; Google Earth Engine; Sentinel-1; Sentinel-2; Git-Hub
+
+Peter Couvares, Kate Keahey, Frédérique Marion,
+Finding the Gravitational Wave: A History of Discovery Written in Software,
+SoftwareX,
+Volume 15,
+2021,
+100715,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100715.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000601)
+
+Sang-Kyu Jung,
+AniLength: GUI-based automatic worm length measurement software using image processing and deep neural network,
+SoftwareX,
+Volume 15,
+2021,
+100795,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100795.
+(https://www.sciencedirect.com/science/article/pii/S235271102100100X)
+Keywords: Body length; Deep learning; Image analysis; Worm
+
+Fridtjof Betz, Felix Binkowski, Sven Burger,
+RPExpand: Software for Riesz projection expansion of resonance phenomena,
+SoftwareX,
+Volume 15,
+2021,
+100763,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100763.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000844)
+Keywords: Resonances; Modal expansion; Contour integration; Riesz projection; Nanophotonics
+
+Giorgio Luciano, Serena Berretta, Kristian Hovde Liland, Gavin J. Donley, Simon A. Rogers,
+oreo: An R package for large amplitude oscillatory analysis,
+SoftwareX,
+Volume 15,
+2021,
+100769,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100769.
+(https://www.sciencedirect.com/science/article/pii/S235271102100087X)
+Keywords: LAOS (large amplitude oscillatory shear); Rheology; Viscoelastic materials; R
+
+William C. Schneck, Erik L. Frankforter, Elizabeth D. Gregory,
+PanNDE: A modular architecture for high-performance NDE simulation,
+SoftwareX,
+Volume 15,
+2021,
+100779,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100779.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000923)
+Keywords: Modular architecture; Elastodynamics; Nondestructive evaluation; Simulation; Modeling
+
+Taufeq Mohammed Razakh, Beibei Wang, Shane Jackson, Rajiv K. Kalia, Aiichiro Nakano, Ken-ichi Nomura, Priya Vashishta,
+PND: Physics-informed neural-network software for molecular dynamics applications,
+SoftwareX,
+Volume 15,
+2021,
+100789,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100789.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000972)
+Keywords: Molecular dynamics; Machine learning; Differential equation solver
+
+Łukasz Szeremeta, Dominik Tomaszuk,
+Generating molecular entities as structured data,
+SoftwareX,
+Volume 15,
+2021,
+100733,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100733.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000698)
+Keywords: Structured data; Cheminformatics; Molecular entity; Linked data
+
+Prince Henry Serrao, Stefan Sandfeld, Aruna Prakash,
+OptiMic: A tool to generate optimized polycrystalline microstructures for materials simulations,
+SoftwareX,
+Volume 15,
+2021,
+100708,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100708.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000534)
+Keywords: Optimized microstructure; Crystal plasticity; Custom cost function; Atomistic simulation; Finite element meshing; Finite element method (FEM)
+
+Carlos Melchor-Placencia, Christian Málaga-Chuquitaype,
+OpenMoist: A Python code for transient moisture transfer analysis,
+SoftwareX,
+Volume 15,
+2021,
+100712,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100712.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000571)
+Keywords: Moisture transfer; Finite difference; Timber structures; Python
+
+Abanti Shama Afroz, Francesco Inglese, Cesare Stefanini, Mario Milazzo,
+STL_Process: A .STL-based preprocessor for robot path planning in manufacturing and quality control processes,
+SoftwareX,
+Volume 15,
+2021,
+100725,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100725.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000650)
+Keywords: Computer-aided manufacturing; Trajectory planning; Feature extraction; Human–machine interface
+
+Riccardo Rossi, Andrea Murari, Luca Martellucci, Pasquale Gaudio,
+NetCausality: A time-delayed neural network tool for causality detection and analysis,
+SoftwareX,
+Volume 15,
+2021,
+100773,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100773.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000893)
+Keywords: Causality detection; Time-delayed neural network; Time-series
+
+Benjamin O’Driscoll,
+SCRAMBLE: Sweep Comparison Research Application for Multiple Back-Gated FieLd Effect measurements of graphene field effect transistors,
+SoftwareX,
+Volume 15,
+2021,
+100757,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100757.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000819)
+Keywords: Graphene field effect transistors (GFETs); Dirac points; Field effect mobility; Maximum transconductance
+
+Chainarong Amornbunchornvej,
+mFLICA: An R package for inferring leadership of coordination from time series,
+SoftwareX,
+Volume 15,
+2021,
+100781,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100781.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000935)
+Keywords: Time series; Pattern initiation; Coordination; Leadership
+
+Francisco Ortin, Javier Escalada,
+Cnerator: A Python application for the controlled stochastic generation of standard C source code,
+SoftwareX,
+Volume 15,
+2021,
+100711,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100711.
+(https://www.sciencedirect.com/science/article/pii/S235271102100056X)
+Keywords: Big code; Mining software repositories; Machine learning; C programming language; Stochastic program generation; Python
+
+Alexander G. Demidov, B. Lakshitha A. Perera, Michael E. Fortunato, Sibo Lin, Coray M. Colina,
+Update 1.1 to “pysimm: A python package for simulation of molecular systems”, (PII: S2352711016300395),
+SoftwareX,
+Volume 15,
+2021,
+100749,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100749.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000777)
+Keywords: Molecular simulations; Polymer models; Pysimm
+
+Marco Conoscenti, Antonio Vetrò, Juan Carlos De Martin,
+CLoTH: A Lightning Network Simulator,
+SoftwareX,
+Volume 15,
+2021,
+100717,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100717.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000613)
+Keywords: Lightning Network; Bitcoin; Blockchain; Payment-channel networks; Scalability; Simulator
+
+Charlie Hoy, Vivien Raymond,
+PESummary: The code agnostic Parameter Estimation Summary page builder,
+SoftwareX,
+Volume 15,
+2021,
+100765,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100765.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000856)
+Keywords: Parameter Estimation; Python; html; JavaScript; Software
+
+Christoph Kawan, Sigurdur Freyr Hafstein, Peter Giesl,
+ResEntSG: Restoration entropy estimation for dynamical systems via Riemannian metric optimization,
+SoftwareX,
+Volume 15,
+2021,
+100743,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100743.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000741)
+Keywords: Restoration entropy; Subgradient algorithm; Geodesic convexity; Riemannian metric; Dynamical systems; C++; Scientific computing
+
+Luca Carmignani,
+Flame Tracker: An image analysis program to measure flame characteristics,
+SoftwareX,
+Volume 15,
+2021,
+100791,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100791.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000984)
+Keywords: Combustion experiments; Flame spread; Image analysis; Video processing
+
+Brigitte Boden, Jan Flink, Niklas Först, Robert Mischke, Kathrin Schaffert, Alexander Weinert, Annika Wohlan, Andreas Schreiber,
+RCE: An Integration Environment for Engineering and Science,
+SoftwareX,
+Volume 15,
+2021,
+100759,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100759.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000820)
+Keywords: Multidisciplinary analysis; Tool integration; Workflow execution; Collaboration; Distributed execution
+
+James Le Houx, Denis Kramer,
+OpenImpala: OPEN source IMage based PArallisable Linear Algebra solver,
+SoftwareX,
+Volume 15,
+2021,
+100729,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100729.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000662)
+Keywords: Image-based modelling; Li-ion battery; High-performance computing
+
+Vasileios Angelidakis, Sadegh Nadimi, Masahide Otsubo, Stefano Utili,
+CLUMP: A Code Library to generate Universal Multi-sphere Particles,
+SoftwareX,
+Volume 15,
+2021,
+100735,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100735.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000704)
+Keywords: Clumps of spheres; Clusters; Irregular particles; Discrete Element Method; Particle morphology
+
+Oliver Melchert, Ayhan Demircan,
+pyGLLE: A Python toolkit for solving the generalized Lugiato–Lefever equation,
+SoftwareX,
+Volume 15,
+2021,
+100741,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100741.
+(https://www.sciencedirect.com/science/article/pii/S235271102100073X)
+Keywords: Nonlinear partial differential equations; Lugiato–Lefever equation; Dissipative solitons; Python
+
+Carlos Gaete-Morales, Martin Kittel, Alexander Roth, Wolf-Peter Schill,
+DIETERpy: A Python framework for the Dispatch and Investment Evaluation Tool with Endogenous Renewables,
+SoftwareX,
+Volume 15,
+2021,
+100784,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100784.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000947)
+Keywords: Power sector modeling; Open-source modeling; GAMS; Python; Energy storage; Flexibility options; Sector coupling; Renewable energy integration
+
+Felix Groß, Nick Träger, Joachim Gräfe,
+MIEP — A time-resolved X-ray image evaluation program,
+SoftwareX,
+Volume 15,
+2021,
+100705,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100705.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000509)
+Keywords: X-ray imaging; Time resolved microscopy; Fourier filtering; Reciprocal space
+
+Qimen Xu, Abhiraj Sharma, Benjamin Comer, Hua Huang, Edmond Chow, Andrew J. Medford, John E. Pask, Phanish Suryanarayana,
+SPARC: Simulation Package for Ab-initio Real-space Calculations,
+SoftwareX,
+Volume 15,
+2021,
+100709,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100709.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000546)
+Keywords: Kohn–Sham; Density functional theory; Electronic structure; Real-space; Finite-differences
+
+Md Motiur Rahman, Tahmina Tasnim Nahar, Dookie Kim,
+FeView: Finite element model (FEM) visualization and post-processing tool for OpenSees,
+SoftwareX,
+Volume 15,
+2021,
+100751,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100751.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000789)
+Keywords: FEM visualization; post-processing; OpenSees
+
+Jorge Barrasa-Fano, Apeksha Shapeti, Álvaro Jorge-Peñas, Mojtaba Barzegari, José Antonio Sanz-Herrera, Hans Van Oosterwyck,
+TFMLAB: A MATLAB toolbox for 4D traction force microscopy,
+SoftwareX,
+Volume 15,
+2021,
+100723,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100723.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000625)
+Keywords: Traction force microscopy; Cell mechanics; Image processing; Finite element method
+
+Néstor Rodríguez, David López, Alberto Fernández, Salvador García, Francisco Herrera,
+SOUL: Scala Oversampling and Undersampling Library for imbalance classification,
+SoftwareX,
+Volume 15,
+2021,
+100767,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2021.100767.
+(https://www.sciencedirect.com/science/article/pii/S2352711021000868)
+Keywords: Oversampling; Undersampling; Scala; Imbalanced classification

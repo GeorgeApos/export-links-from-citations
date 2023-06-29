@@ -1,0 +1,86 @@
+S. Youssefi, S. Denei, F. Mastrogiovanni, G. Cannata,
+Skinware 2.0: A real-time middleware for robot skin,
+SoftwareX,
+Volumes 3–4,
+2015,
+Pages 6-12,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.09.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000102)
+Keywords: Robot skin; Tactile; Middleware; Skinware; Software; Framework
+
+Spencer J. Ingley, Mohammad Rahmani Asl, Chengde Wu, Rongfeng Cui, Mahmoud Gadelhak, Wen Li, Ji Zhang, Jon Simpson, Chelsea Hash, Trisha Butkowski, Thor Veen, Jerald B. Johnson, Wei Yan, Gil G. Rosenthal,
+anyFish 2.0: An open-source software platform to generate and share animated fish models to study behavior,
+SoftwareX,
+Volumes 3–4,
+2015,
+Pages 13-21,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.10.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000114)
+Keywords: Animal communication; Animation; Video playback; Teleostei
+
+Greg R. Guerin, Andrew J. Lowe,
+Mapping phylogenetic endemism in R using georeferenced branch extents,
+SoftwareX,
+Volumes 3–4,
+2015,
+Pages 22-26,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.10.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000126)
+Keywords: Phylogenetic diversity; Phylogenetic endemism; Area of occupancy; Extent of occurrence; Minimum convex polygon; R function; Non-parametric statistics; Interquartile range
+
+Ru Zhu,
+Grace: A cross-platform micromagnetic simulator on graphics processing units,
+SoftwareX,
+Volumes 3–4,
+2015,
+Pages 27-31,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.11.001.
+(https://www.sciencedirect.com/science/article/pii/S235271101500014X)
+Keywords: Micromagnetism; Simulation; GPU; C++ AMP
+
+Yan-Xia Lin, Mark James Fielding,
+MaskDensity14: An R package for the density approximant of a univariate based on noise multiplied data,
+SoftwareX,
+Volumes 3–4,
+2015,
+Pages 37-43,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.11.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000163)
+Keywords: Confidential data; Data masking; Multiplicative noise; Sample-moment-based density approximant
+
+
+Editorial Board,
+SoftwareX,
+Volumes 3–4,
+2015,
+Page i,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(15)00018-7.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000187)
+
+Ahmed BenSaïda,
+A practical test for noisy chaotic dynamics,
+SoftwareX,
+Volumes 3–4,
+2015,
+Pages 1-5,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.08.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000096)
+Keywords: Lyapunov exponent; Noisy chaos; Matlab
+
+Rosa M. Badia, Javier Conejero, Carlos Diaz, Jorge Ejarque, Daniele Lezzi, Francesc Lordan, Cristian Ramon-Cortes, Raul Sirvent,
+COMP Superscalar, an interoperable programming framework,
+SoftwareX,
+Volumes 3–4,
+2015,
+Pages 32-36,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.10.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000151)
+Keywords: Parallel programming models; Interoperability; Scientific computing

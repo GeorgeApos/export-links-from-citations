@@ -1,0 +1,73 @@
+Marcus D. Hanwell, Kenneth M. Martin, Aashish Chaudhary, Lisa S. Avila,
+The Visualization Toolkit (VTK): Rewriting the rendering code for modern graphics cards,
+SoftwareX,
+Volumes 1–2,
+2015,
+Pages 9-12,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.04.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000035)
+Keywords: Visualization; Toolkit; Data analysis; Scientific data
+
+C. Loizides, J. Nagle, P. Steinberg,
+Improved version of the PHOBOS Glauber Monte Carlo,
+SoftwareX,
+Volumes 1–2,
+2015,
+Pages 13-18,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.05.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000047)
+Keywords: Glauber Monte Carlo model; Participant; Eccentricity; Centrality
+
+Mark James Abraham, Teemu Murtola, Roland Schulz, Szilárd Páll, Jeremy C. Smith, Berk Hess, Erik Lindahl,
+GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers,
+SoftwareX,
+Volumes 1–2,
+2015,
+Pages 19-25,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.06.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000059)
+Keywords: Molecular dynamics; GPU; SIMD; Free energy
+
+Andre Merzky, Ole Weidner, Shantenu Jha,
+SAGA: A standardized access layer to heterogeneous Distributed Computing Infrastructure,
+SoftwareX,
+Volumes 1–2,
+2015,
+Pages 3-8,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.03.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000023)
+
+Gianmarco Alberti,
+CAinterprTools: An R package to help interpreting Correspondence Analysis’ results,
+SoftwareX,
+Volumes 1–2,
+2015,
+Pages 26-31,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.07.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000060)
+Keywords: Correspondence analysis; Contingency tables; Interpretation; R; Package
+
+Frank Seinstra, David Wallom, Kate Keahey,
+Editorial,
+SoftwareX,
+Volumes 1–2,
+2015,
+Pages 1-2,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2015.08.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000072)
+
+
+Editorial Board,
+SoftwareX,
+Volumes 1–2,
+2015,
+Page i,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(15)00008-4.
+(https://www.sciencedirect.com/science/article/pii/S2352711015000084)

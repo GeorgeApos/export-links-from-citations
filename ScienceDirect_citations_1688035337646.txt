@@ -1,0 +1,722 @@
+José L. Soler-Domínguez, Manuel Contero, Mariano Alcañiz,
+Workflow and tools to track and visualize behavioural data from a Virtual Reality environment using a lightweight GIS,
+SoftwareX,
+Volume 10,
+2019,
+100269,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100269.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300931)
+Keywords: Virtual reality; User experience; Geographic information system; Human–computer interaction
+
+Josiah Johnston, Rodrigo Henriquez-Auba, Benjamín Maluenda, Matthias Fripp,
+Switch 2.0: A modern platform for planning high-renewable power systems,
+SoftwareX,
+Volume 10,
+2019,
+100251,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100251.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301547)
+Keywords: Power system planning; Capacity expansion planning; Power system economics; Renewable energy sources; Energy storage; Smart grids; Open-source software
+
+Andrea Bizzego, Alessandro Battisti, Giulio Gabrieli, Gianluca Esposito, Cesare Furlanello,
+pyphysio: A physiological signal processing library for data science approaches in physiology,
+SoftwareX,
+Volume 10,
+2019,
+100287,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100287.
+(https://www.sciencedirect.com/science/article/pii/S2352711019301839)
+Keywords: Physiological signal processing; Psychophysiology; Autonomic indicators; Data science; Python
+
+Anton A. Raskovalov,
+azTotMD: Software for non-constant force field molecular dynamics,
+SoftwareX,
+Volume 10,
+2019,
+100233,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.04.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301389)
+Keywords: Molecular dynamics; Non-constant force field; Electron transfer; Covalent bonds recombination
+
+Milan Batista,
+Elfun18 – A collection of MATLAB functions for the computation of elliptic integrals and Jacobian elliptic functions of real arguments,
+SoftwareX,
+Volume 10,
+2019,
+100245,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100245.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302796)
+Keywords: Special functions; Elliptic integrals; Jacobian elliptical functions; MATLAB
+
+T. Benkert, C. Hartmann, M. Eder, F. Speckmaier, W. Volk,
+MaterialModeler—From experimental raw data to a material model,
+SoftwareX,
+Volume 10,
+2019,
+100249,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100249.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300147)
+Keywords: Material model; Material characterization; Metal forming
+
+
+Editorial Board,
+SoftwareX,
+Volume 10,
+2019,
+100372,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(19)30373-5.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303735)
+
+L. Pistone, M. Onorato,
+nlchains: A fast and accurate time integration of 1-D nonlinear chains on GPUs,
+SoftwareX,
+Volume 10,
+2019,
+100255,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100255.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300585)
+Keywords: FPU; Nonlinear chain; GPU; CUDA
+
+Addi Ait-Mlouk, Tarik Agouti,
+DM-MCDA: A web-based platform for data mining and multiple criteria decision analysis: A case study on road accident,
+SoftwareX,
+Volume 10,
+2019,
+100323,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100323.
+(https://www.sciencedirect.com/science/article/pii/S2352711019301438)
+Keywords: Data mining; Association rules; Transport; Road accidents; Multiple criteria analysis; Time series; Visualization
+
+Austen Bernardi, Roland Faller, Dirk Reith, Karl N. Kirschner,
+ACPYPE update for nonuniform 1–4 scale factors: Conversion of the GLYCAM06 force field from AMBER to GROMACS,
+SoftwareX,
+Volume 10,
+2019,
+100241,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100241.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300736)
+Keywords: ACPYPE; Glycam06; Force field; Nonbonded scaling factor; Carbohydrate; Gromacs
+
+Allen Blackman, Leonard Goff, Jessica Chu, Juha Siikamäki,
+The Forest Conservation Targeting Tool: Accessible spatial prioritization for Latin America and the Dominican Republic,
+SoftwareX,
+Volume 10,
+2019,
+100293,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100293.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300226)
+Keywords: Systematic conservation planning; Forest conservation; Targeting; Software
+
+B. Perret, G. Chierchia, J. Cousty, S.J. F. Guimarães, Y. Kenmochi, L. Najman,
+Higra: Hierarchical Graph Analysis,
+SoftwareX,
+Volume 10,
+2019,
+100335,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100335.
+(https://www.sciencedirect.com/science/article/pii/S235271101930247X)
+Keywords: Graph; Hierarchical clustering; Component tree
+
+Claudio Leones Bazzi, Erminio Pita Jasse, Paulo S. Graziano Magalhães, Gabriela Karoline Michelon, Eduardo Godoy de Souza, Kelyn Schenatto, Ricardo Sobjak,
+AgDataBox API – Integration of data and software in precision agriculture,
+SoftwareX,
+Volume 10,
+2019,
+100327,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100327.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302838)
+Keywords: Web service API; Agricultural data; Agricultural management; Smart farming technologies
+
+Jonas de Abreu Resenes, Willingthon Pavan, Carlos Amaral Hölbig, José Maurício Cunha Fernandes, Vakhtang Shelia, Cheryl Porter, Gerrit Hoogenboom,
+jDSSAT: A JavaScript Module for DSSAT-CSM integration,
+SoftwareX,
+Volume 10,
+2019,
+100271,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100271.
+(https://www.sciencedirect.com/science/article/pii/S235271101930158X)
+Keywords: DSSAT; Crop simulation; JavaScript
+
+V. Bortolotti, L. Brizi, P. Fantazzini, G. Landi, F. Zama,
+Upen2DTool: A Uniform PENalty Matlab tool for inversion of 2D NMR relaxation data,
+SoftwareX,
+Volume 10,
+2019,
+100302,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100302.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302006)
+Keywords: 2D NMR data inversion; Uniform penalty; Adaptive regularization; SVD filtering
+
+Uwe Graichen, Roland Eichardt, Jens Haueisen,
+SpharaPy: A Python toolbox for spatial harmonic analysis of non-uniformly sampled data,
+SoftwareX,
+Volume 10,
+2019,
+100289,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100289.
+(https://www.sciencedirect.com/science/article/pii/S2352711019301670)
+Keywords: Spatial harmonic analysis; Eigenanalysis of the discrete Laplace–Beltrami operator; Generalized spatial Fourier analysis; Spatial filtering; Online filtering; EEG Data Processing
+
+T.G. Tranter, M.D.R. Kok, M. Lam, J.T. Gostick,
+pytrax: A simple and efficient random walk implementation for calculating the directional tortuosity of images,
+SoftwareX,
+Volume 10,
+2019,
+100277,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100277.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302286)
+Keywords: Random walk; Directional tortuosity; Python; Image analysis
+
+Loïc Besnard, Pedro Pinto, Imane Lasri, João Bispo, Erven Rohou, João M.P. Cardoso,
+A framework for automatic and parameterizable memoization,
+SoftwareX,
+Volume 10,
+2019,
+100322,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100322.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301559)
+Keywords: Memoization; Compiler optimizations; Source-to-source
+
+A. Shigarov, V. Khristyuk, A. Mikhailov,
+TabbyXL: Software platform for rule-based spreadsheet data extraction and transformation,
+SoftwareX,
+Volume 10,
+2019,
+100270,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100270.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302966)
+Keywords: Table understanding; Information extraction; Unstructured data management; Rule-based programming; Spreadsheet data; Software development
+
+Simon Behrendt, Thomas Dimpfl, Franziska J. Peter, David J. Zimmermann,
+RTransferEntropy — Quantifying information flow between different time series using effective transfer entropy,
+SoftwareX,
+Volume 10,
+2019,
+100265,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100265.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300779)
+Keywords: Shannon transfer entropy; Rényi transfer entropy; Effective transfer entropy; Bootstrap inference; R
+
+Issam Hammad, Kamal El-Sankary, Holly Hornibrook,
+RETSManager: Real-estate database builder and synchronizer,
+SoftwareX,
+Volume 10,
+2019,
+100351,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100351.
+(https://www.sciencedirect.com/science/article/pii/S235271101930250X)
+Keywords: Django; Real estate; RETS; Machine learning
+
+Giorgio Speranza, Roberto Canteri,
+RxpsG a new open project for Photoelectron and Electron Spectroscopy data processing,
+SoftwareX,
+Volume 10,
+2019,
+100282,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100282.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300378)
+Keywords: Spectral analysis; XPS; AES; R project
+
+Jacob L. Moore, Nathaniel R. Morgan, Mark F. Horstemeyer,
+ELEMENTS: A high-order finite element library in C++,
+SoftwareX,
+Volume 10,
+2019,
+100257,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100257.
+(https://www.sciencedirect.com/science/article/pii/S235271101930113X)
+Keywords: Element Library; C++; High-order elements; Spectral elements; Serendipity elements
+
+Luca Veltri, Luca Davoli, Riccardo Pecori, Armando Vannucci, Francesco Zanichelli,
+NEMO: A flexible and highly scalable network EMulatOr,
+SoftwareX,
+Volume 10,
+2019,
+100248,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100248.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300135)
+Keywords: Network emulation; Protocol stack; Java
+
+Bing Zhu, Zihan Gao, Junkai Zhao, Seppe K.L.M. vanden Broucke,
+IRIC: An R library for binary imbalanced classification,
+SoftwareX,
+Volume 10,
+2019,
+100341,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100341.
+(https://www.sciencedirect.com/science/article/pii/S2352711019301700)
+Keywords: Imbalanced classification; R language; Integrated library; Parallel implementation
+
+Sten Ternström, Dennis Johansson, Andreas Selamtzis,
+Update 2.0 to FonaDyn — A system for real-time analysis of the electroglottogram, over the voice range,
+SoftwareX,
+Volume 10,
+2019,
+100343,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100343.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302559)
+
+Michael E. Rose, John R. Kitchin,
+pybliometrics: Scriptable bibliometrics using a Python interface to Scopus,
+SoftwareX,
+Volume 10,
+2019,
+100263,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100263.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300573)
+Keywords: Scopus; Software; Python; Bibliometrics; Scientometrics
+
+Blair R. Drummond, Christian J.G. Tessier, Mathieu F. Dextraze, Corrie J.B. daCosta,
+scbursts: An R package for analysis and sorting of single-channel bursts,
+SoftwareX,
+Volume 10,
+2019,
+100285,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100285.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300810)
+Keywords: Single-molecule analysis; single-channel analysis; bursts; ion channel; kinetic fitting
+
+Camille El-Habr, Xavier Garcia, Pujana Paliyawan, Ruck Thawonmas,
+Runner: A 2D platform game for physical health promotion,
+SoftwareX,
+Volume 10,
+2019,
+100329,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100329.
+(https://www.sciencedirect.com/science/article/pii/S235271101930024X)
+Keywords: Video games; Physical health promotion; Procedural content generation; Motion gaming
+
+Adrien Cassagne, Olivier Hartmann, Mathieu Léonardon, Kun He, Camille Leroux, Romain Tajan, Olivier Aumage, Denis Barthou, Thibaud Tonnellier, Vincent Pignoly, Bertrand Le Gal, Christophe Jégo,
+AFF3CT: A Fast Forward Error Correction Toolbox!,
+SoftwareX,
+Volume 10,
+2019,
+100345,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100345.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300457)
+Keywords: Communication chain; Channel coding; Monte Carlo simulation; Forward error correction library; Digital modulation; Reproducible science; Multi-node; Multi-thread; Vectorization
+
+Giuseppe Carleo, Kenny Choo, Damian Hofmann, James E.T. Smith, Tom Westerhout, Fabien Alet, Emily J. Davis, Stavros Efthymiou, Ivan Glasser, Sheng-Hsuan Lin, Marta Mauri, Guglielmo Mazzola, Christian B. Mendl, Evert van Nieuwenburg, Ossian O’Reilly, Hugo Théveniaut, Giacomo Torlai, Filippo Vicentini, Alexander Wietek,
+NetKet: A machine learning toolkit for many-body quantum systems,
+SoftwareX,
+Volume 10,
+2019,
+100311,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100311.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300974)
+Keywords: Neural-network quantum states; Variational Monte Carlo; Quantum state tomography; Machine learning; Supervised learning
+
+Len Bos, Marco Vianello,
+CaTchDes: MATLAB codes for Caratheodory–Tchakaloff Near-Optimal Regression Designs,
+SoftwareX,
+Volume 10,
+2019,
+100349,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100349.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302274)
+Keywords: Near-Optimal Regression Designs; Tchakaloff theorem; Caratheodory–Tchakaloff measure concentration
+
+Zachary Patterson, Kyle Fitzsimmons, Stewart Jackson, Takeshi Mukai,
+Itinerum: The open smartphone travel survey platform,
+SoftwareX,
+Volume 10,
+2019,
+100230,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.04.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300980)
+Keywords: Smartphones; Travel surveys; Web platform
+
+Markus Mirz, Steffen Vogel, Georg Reinke, Antonello Monti,
+DPsim—A dynamic phasor real-time simulator for power systems,
+SoftwareX,
+Volume 10,
+2019,
+100253,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100253.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302760)
+Keywords: Real-time simulation; Dynamic phasors; Co-simulation
+
+Keyvan Zare-Rami, Yong-Rak Kim,
+MIDAS-VT-Pre: Software to generate 2D finite element model of particle/fiber embedded composites with cohesive zones,
+SoftwareX,
+Volume 10,
+2019,
+100292,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100292.
+(https://www.sciencedirect.com/science/article/pii/S2352711018303054)
+Keywords: Particle/fiber embedded composite; Microstructure; Cohesive zone; Virtual testing; Finite element modeling
+
+Vahid Morovati, Roozbeh Dargazany,
+NET v1.0: A framework to simulate permanent damage in elastomers under quasi-static deformations,
+SoftwareX,
+Volume 10,
+2019,
+100229,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.04.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300359)
+Keywords: Network evolution theory; Mullins effect; Permanent set; Deformation-induced anisotropy
+
+Uwe Köcher, Marius Paul Bruchhäuser, Markus Bause,
+Efficient and scalable data structures and algorithms for goal-oriented adaptivity of space–time FEM codes,
+SoftwareX,
+Volume 10,
+2019,
+100239,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100239.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302978)
+Keywords: Data structures; Goal-oriented adaptivity; Space–time finite elements; Dual weighted residual method
+
+Mauro Castelli, Luca Manzoni,
+GSGP-C++ 2.0: A geometric semantic genetic programming framework,
+SoftwareX,
+Volume 10,
+2019,
+100313,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100313.
+(https://www.sciencedirect.com/science/article/pii/S2352711019301736)
+Keywords: Genetic programming; Semantics; Machine learning
+
+Carlo Bianchi, Amanda D. Smith,
+Localized Actual Meteorological Year File Creator (LAF): A tool for using locally observed weather data in building energy simulations,
+SoftwareX,
+Volume 10,
+2019,
+100299,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100299.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300839)
+Keywords: Building energy modeling; EnergyPlus; Weather data; Microclimate; Meteorological year
+
+R.D. Martin, Q. Cai, T. Garrow, C. Kapahi,
+QExpy: A python-3 module to support undergraduate physics laboratories,
+SoftwareX,
+Volume 10,
+2019,
+100273,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100273.
+(https://www.sciencedirect.com/science/article/pii/S235271101930144X)
+Keywords: Physics; Uncertainties; Error; Plotting; Fitting; Data-analysis
+
+Celine Richard,
+Introducing article numbering to SoftwareX,
+SoftwareX,
+Volume 10,
+2019,
+100374,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(19)30375-9.
+(https://www.sciencedirect.com/science/article/pii/S2352711019303759)
+
+Carlos Argáez, Jean-Claude Berthet, Hjörtur Björnsson, Peter Giesl, Sigurdur Freyr Hafstein,
+LyapXool – a program to compute complete Lyapunov functions,
+SoftwareX,
+Volume 10,
+2019,
+100325,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100325.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302109)
+Keywords: Complete Lyapunov functions; C++; Scientific computing; Dynamical systems; Autonomous ordinary differential equations
+
+Mihiran Galagedarage Don, Faisal Khan,
+Auxiliary codes for fault prognosis of Tennessee Eastman process using a hybrid model (CPL1.0),
+SoftwareX,
+Volume 10,
+2019,
+100309,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100309.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301924)
+Keywords: Conditional probabilities; Prior probabilities; Likelihood evidence; Bayesian networks
+
+T.F. Flint, M.C. Smith,
+HEDSATS: High energy density semi-analytical thermal solutions,
+SoftwareX,
+Volume 10,
+2019,
+100243,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100243.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300688)
+Keywords: Analytical solution; Green’s function analysis; Heat transfer; 3D solution
+
+Alessio Perinelli, Leonardo Ricci,
+NetOnZeroDXC: A package for the identification of networks out of multivariate time series via zero-delay cross-correlation,
+SoftwareX,
+Volume 10,
+2019,
+100316,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100316.
+(https://www.sciencedirect.com/science/article/pii/S2352711019301335)
+Keywords: Cross correlation; Networks; Multivariate time series analysis
+
+Rahele Kafieh, Zahra Amini, Hossein Rabbani, Bahareh Kaviani Baghbaderani, Bahareh Salafian, Fatemeh Mazaheri, Marzieh Mokhtari,
+Automatic Multifaceted Matlab Package for Analysis of Ocular Images (AMPAO),
+SoftwareX,
+Volume 10,
+2019,
+100339,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100339.
+(https://www.sciencedirect.com/science/article/pii/S2352711019301852)
+Keywords: Ocular image; Optical Coherence Tomography (OCT); Image processing
+
+Gianmarco Alberti,
+movecost: An R package for calculating accumulated slope-dependent anisotropic cost-surfaces and least-cost paths,
+SoftwareX,
+Volume 10,
+2019,
+100331,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100331.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302341)
+Keywords: Geographic information system; Cost surface; Least-cost path; R Package
+
+Andrew Gloster, Lennon Ó Náraigh,
+cuSten — CUDA finite difference and stencil library,
+SoftwareX,
+Volume 10,
+2019,
+100337,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100337.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300561)
+Keywords: CUDA; Finite difference; Library; PDEs; Stencil; Benchmark
+
+Ricardo Nobre, João Bispo, Tiago Carvalho, João M.P. Cardoso,
+Nonio — modular automatic compiler phase selection and ordering specialization framework for modern compilers,
+SoftwareX,
+Volume 10,
+2019,
+100238,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100238.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301614)
+Keywords: Compiler optimizations; Design space exploration; Flag selection; Performance
+
+Cristian Pop, Alexandru Popa,
+NewsCompare - A novel application for detecting news influence in a country,
+SoftwareX,
+Volume 10,
+2019,
+100305,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100305.
+(https://www.sciencedirect.com/science/article/pii/S235271101930175X)
+Keywords: Web crawler; Web scraper; Text similarity; Social networks
+
+Cornelis Marcel Pieter ’t Hart, Georgios Leontaris, Oswaldo Morales-Nápoles,
+Update (1.1) to ANDURIL — A MATLAB toolbox for ANalysis and Decisions with UnceRtaInty: Learning from expert judgments: ANDURYL,
+SoftwareX,
+Volume 10,
+2019,
+100295,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100295.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302419)
+Keywords: Structured expert judgment; Cooke’s classical model; Expert opinion; Python toolbox; EXCALIBUR software; ANDURIL
+
+Daniel Rettenmaier, Daniel Deising, Yun Ouedraogo, Erion Gjonaj, Herbert De Gersem, Dieter Bothe, Cameron Tropea, Holger Marschall,
+Load balanced 2D and 3D adaptive mesh refinement in OpenFOAM,
+SoftwareX,
+Volume 10,
+2019,
+100317,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100317.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301699)
+Keywords: Dynamic load balancing; Adaptive mesh refinement; 2D; 3D; OpenFOAM
+
+Chiara Carminati, Markus Strobl, Anders Kaestner,
+KipTool, a general purpose processing tool for neutron imaging data,
+SoftwareX,
+Volume 10,
+2019,
+100279,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100279.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300718)
+Keywords: Image processing; Image enhancement; Neutron imaging
+
+Georgios Doulis, Jörg Frauendiener, Chris Stevens, Ben Whale,
+COFFEE—An MPI-parallelized Python package for the numerical evolution of differential equations,
+SoftwareX,
+Volume 10,
+2019,
+100283,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100283.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300950)
+Keywords: Python; Differential equation solver; Parallelized
+
+Richard C. Gerum, Sebastian Richter, Alexander Winterl, Christoph Mark, Ben Fabry, Céline Le Bohec, Daniel P. Zitterbart,
+CameraTransform: A Python package for perspective corrections and image mapping,
+SoftwareX,
+Volume 10,
+2019,
+100333,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100333.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302018)
+Keywords: Perspective projection; Quantitative image analysis; Geo-referencing; Camera lens distortions
+
+Jeremiah W. Sanders, Justin R. Fletcher, Steven J. Frank, Ho-Ling Liu, Jason M. Johnson, Zijian Zhou, Henry Szu-Meng Chen, Aradhana M. Venkatesan, Rajat J. Kudchadker, Mark D. Pagel, Jingfei Ma,
+Deep learning application engine (DLAE): Development and integration of deep learning algorithms in medical imaging,
+SoftwareX,
+Volume 10,
+2019,
+100347,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100347.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302535)
+Keywords: Medical imaging; Software; Deep learning; Algorithm development
+
+Ioannis G. Tsoulos, Alexandros Tzallas, Dimitris Tsalikakis,
+NNC: A tool based on Grammatical Evolution for data classification and differential equation solving,
+SoftwareX,
+Volume 10,
+2019,
+100297,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100297.
+(https://www.sciencedirect.com/science/article/pii/S2352711019301128)
+Keywords: Genetic algorithm; Neural networks; Grammatical evolution; Stochastic methods
+
+Andreas P. Cuny, David Martínez-Martín, Gotthold Fläschner,
+pyIMD: Automated analysis of inertial mass measurements of single cells,
+SoftwareX,
+Volume 10,
+2019,
+100303,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100303.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300871)
+Keywords: Single cell; Mass; Picobalance; Oscillators
+
+Fuyuki Shimojo, Shogo Fukushima, Hiroyuki Kumazoe, Masaaki Misawa, Satoshi Ohmura, Pankaj Rajak, Kohei Shimamura, Lindsay Bassman Oftelie, Subodh Tiwari, Rajiv K. Kalia, Aiichiro Nakano, Priya Vashishta,
+QXMD: An open-source program for nonadiabatic quantum molecular dynamics,
+SoftwareX,
+Volume 10,
+2019,
+100307,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100307.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300512)
+Keywords: Nonadiabatic quantum molecular dynamics; Parallel computing; Hands-on training
+
+O. Melchert, B. Roth, U. Morgner, A. Demircan,
+OptFROG — Analytic signal spectrograms with optimized time–frequency resolution,
+SoftwareX,
+Volume 10,
+2019,
+100275,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100275.
+(https://www.sciencedirect.com/science/article/pii/S2352711019301323)
+Keywords: Spectrogram; Short-time Fourier analysis; Analytic signal; Optics; Ultrashort pulse propagation
+
+Tony Saad, Giovanna Ruai,
+PyMaxEnt: A Python software for maximum entropy moment reconstruction,
+SoftwareX,
+Volume 10,
+2019,
+100353,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100353.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302456)
+Keywords: Maximum entropy reconstruction; Inverse moment problem; Particle size distribution
+
+Christopher Hahne, Amar Aggoun,
+PlenoptiSign: An optical design tool for plenoptic imaging,
+SoftwareX,
+Volume 10,
+2019,
+100259,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100259.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300159)
+Keywords: Plenoptic; Light-field; Optics; Tool
+
+Danny Petschke, Torsten E.M. Staab,
+DDRS4PALS: A software for the acquisition and simulation of lifetime spectra using the DRS4 evaluation board,
+SoftwareX,
+Volume 10,
+2019,
+100261,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100261.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300676)
+Keywords: Lifetime spectroscopy; Positron annihilation spectroscopy; Simulation; Time resolved measurements
+
+Vidhyashree Nagaraju, Venkateswaran Shekar, Joshua Steakelum, Melanie Luperon, Ying Shi, Lance Fiondella,
+Practical software reliability engineering with the Software Failure and Reliability Assessment Tool (SFRAT),
+SoftwareX,
+Volume 10,
+2019,
+100357,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100357.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302134)
+Keywords: Software reliability engineering; Software reliability growth model; Software Failure and Reliability Assessment Tool; Open source; R programming language; GitHub
+
+Gabriela Karoline Michelon, Claudio Leones Bazzi, Shrinivasa Upadhyaya, Eduardo Godoy de Souza, Paulo Sérgio Graziano Magalhães, Ligia Francielle Borges, Kelyn Schenatto, Ricardo Sobjak, Alan Gavioli, Nelson Miguel Betzek,
+Software AgDataBox-Map to precision agriculture management,
+SoftwareX,
+Volume 10,
+2019,
+100320,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100320.
+(https://www.sciencedirect.com/science/article/pii/S2352711019300275)
+Keywords: Web application; PostgreSQL; OpenLayers; Sustainable development
+
+Ioannis G. Tsoulos, Vasileios Stavrou, Nikolaos E. Mastorakis, Dimitrios Tsalikakis,
+GenConstraint: A programming tool for constraint optimization problems,
+SoftwareX,
+Volume 10,
+2019,
+100355,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2019.100355.
+(https://www.sciencedirect.com/science/article/pii/S2352711019302250)
+Keywords: Genetic algorithm; Constrained optimization; Stochastic methods

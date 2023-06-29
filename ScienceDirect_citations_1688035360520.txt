@@ -1,0 +1,711 @@
+Jay Jay Billings, Andrew R. Bennett, Jordan Deyton, Kasper Gammeltoft, Jonah Graham, Dasha Gorin, Hari Krishnan, Menghan Li, Alexander J. McCaskey, Taylor Patterson, Robert Smith, Gregory R. Watson, Anna Wojtowicz,
+The eclipse integrated computational environment,
+SoftwareX,
+Volume 7,
+2018,
+Pages 234-244,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.07.004.
+(https://www.sciencedirect.com/science/article/pii/S235271101830133X)
+Keywords: Workflows; Workflow management; Supercomputing; Usability; Eclipse
+
+Andreas Henelius, Jari Torniainen,
+MIDAS: Open-source framework for distributed online analysis of data streams,
+SoftwareX,
+Volume 7,
+2018,
+Pages 156-161,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.04.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300578)
+Keywords: Data streams; Online analysis; Distributed systems; Machine learning
+
+M. Doucet, R.M. Ferraz Leal, T.C. Hobson,
+Web interface for reflectivity fitting,
+SoftwareX,
+Volume 7,
+2018,
+Pages 287-293,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.09.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300657)
+Keywords: Neutron scattering; Reflectometry; User interface
+
+Danny Petschke, Torsten E.M. Staab,
+DLTPulseGenerator: A library for the simulation of lifetime spectra based on detector-output pulses,
+SoftwareX,
+Volume 7,
+2018,
+Pages 122-128,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.04.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300530)
+Keywords: Lifetime spectroscopy; Signal processing; Pulse simulation
+
+Collin J. Wilkinson, Yihong Z. Mauro, John C. Mauro,
+RelaxPy: Python code for modeling of glass relaxation behavior,
+SoftwareX,
+Volume 7,
+2018,
+Pages 255-258,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.07.008.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301146)
+Keywords: Glass; Thermodynamics; Viscosity; Relaxation; Fictive temperature; Kinetics
+
+Daniil Kazantsev, Valery Pickalov, Srikanth Nagella, Edoardo Pasca, Philip J. Withers,
+TomoPhantom, a software package to generate 2D–4D analytical phantoms for CT image reconstruction algorithm benchmarks,
+SoftwareX,
+Volume 7,
+2018,
+Pages 150-155,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.05.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300335)
+Keywords: Phantoms; Tomography; Image reconstruction; Iterative methods; Open-source
+
+Duc T. Nguyen, Blair Kaneshiro,
+AudExpCreator: A GUI-based Matlab tool for designing and creating auditory experiments with the Psychophysics Toolbox,
+SoftwareX,
+Volume 7,
+2018,
+Pages 328-334,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.09.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301985)
+Keywords: Matlab; Psychophysics Toolbox; Graphical User Interface (GUI); Experimental design; Auditory research; Electroencephalography (EEG)
+
+Maxime Baudette, Seyed Reza Firouzi, Luigi Vanfretti,
+The STRONgrid library: A modular and extensible software library for IEEE C37.118.2 compliant synchrophasor data mediation,
+SoftwareX,
+Volume 7,
+2018,
+Pages 281-286,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.08.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301705)
+Keywords: IEEE C37.118.2; PMU; PDC; Synchrophasors; WAMPAC
+
+Adrian R.G. Harwood, Joseph O’Connor, Jonathan Sanchez Muñoz, Marta Camps Santasmasas, Alistair J. Revell,
+LUMA: A many-core, Fluid–Structure Interaction solver based on the Lattice-Boltzmann Method,
+SoftwareX,
+Volume 7,
+2018,
+Pages 88-94,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.02.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300219)
+Keywords: Lattice-Boltzmann Method; Finite-Element Method; Flow simulation; Fluid–structure interaction
+
+Rakib Hassan, Michael Gurnis, Simon E. Williams, R. Dietmar Müller,
+SPGM: A Scalable PaleoGeomorphology Model,
+SoftwareX,
+Volume 7,
+2018,
+Pages 263-272,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.07.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301341)
+Keywords: Surface processes; Geomorphology; Paleogeomorphology; Morphodynamics; Landscape evolution model
+
+Susi Lehtola, Conrad Steigemann, Micael J.T. Oliveira, Miguel A.L. Marques,
+Recent developments in libxc — A comprehensive library of functionals for density functional theory,
+SoftwareX,
+Volume 7,
+2018,
+Pages 1-5,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.11.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300602)
+Keywords: Density functional theory; Exchange–correlation; Local density approximations; Generalized gradient approximations; meta-GGA approximations
+
+Danny Petschke, Torsten E.M. Staab,
+Update (v1.1) to DLTPulseGenerator: A library for the simulation of lifetime spectra based on detector-output pulses,
+SoftwareX,
+Volume 7,
+2018,
+Pages 171-173,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.05.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300694)
+
+Ronald R. Gutierrez, Jose A. Mallma, Francisco Núñez-González, Oscar Link, Jorge D. Abad,
+Bedforms-ATM, an open source software to analyze the scale-based hierarchies and dimensionality of natural bed forms,
+SoftwareX,
+Volume 7,
+2018,
+Pages 184-189,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.06.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300451)
+Keywords: Bed forms; Hierarchization; Dimensionality
+
+Maxime Baudette, Marcelo Castro, Tin Rabuzin, Jan Lavenius, Tetiana Bogodorova, Luigi Vanfretti,
+OpenIPSL: Open-Instance Power System Library — Update 1.5 to “iTesla Power Systems Library (iPSL): A Modelica library for phasor time-domain simulations”,
+SoftwareX,
+Volume 7,
+2018,
+Pages 34-36,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.01.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300050)
+Keywords: Modelica; Power systems; Simulation; Power system dynamics; Power system modeling
+
+Claudio Bustos Navarrete, María Gabriela Morales Malverde, Pedro Salcedo Lagos, Alejandro Díaz Mujica,
+Buhos: A web-based systematic literature review management software,
+SoftwareX,
+Volume 7,
+2018,
+Pages 360-372,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.10.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300293)
+Keywords: Systematic literature review; Web-based software; Collaborative work; Ruby
+
+A.J. McCaskey, E.F. Dumitrescu, D. Liakh, M. Chen, W. Feng, T.S. Humble,
+A language and hardware independent approach to quantum–classical computing,
+SoftwareX,
+Volume 7,
+2018,
+Pages 245-254,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.07.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300700)
+Keywords: Quantum computing; Quantum software
+
+Jason Laura, Kelvin Rodriguez, Adam C. Paquette, Evin Dunn,
+AutoCNet: A Python library for sparse multi-image correspondence identification for planetary data,
+SoftwareX,
+Volume 7,
+2018,
+Pages 37-40,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.02.001.
+(https://www.sciencedirect.com/science/article/pii/S235271101830013X)
+Keywords: Computer vision; Planetary science; Photogrammetry; Image mosaics
+
+Luis R. Izquierdo, Segismundo S. Izquierdo, William H. Sandholm,
+EvoDyn-3s: A Mathematica computable document to analyze evolutionary dynamics in 3-strategy games,
+SoftwareX,
+Volume 7,
+2018,
+Pages 226-233,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.07.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300864)
+Keywords: Evolutionary dynamics; Game theory; Mathematica; Phase portrait; Stability
+
+Oleg Karaduta, Loutfouz Zaman,
+Shk-9: A new tool in approach of glycoprotein annotation,
+SoftwareX,
+Volume 7,
+2018,
+Pages 302-303,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.08.004.
+(https://www.sciencedirect.com/science/article/pii/S235271101830178X)
+Keywords: Glycoprotein; Database; Linear search
+
+Christiaan H. Righolt, Barret A. Monchka, Salaheddin M. Mahmud,
+From source code to publication: Code Diary, an automatic documentation parser for SAS,
+SoftwareX,
+Volume 7,
+2018,
+Pages 222-225,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.07.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300669)
+Keywords: Documentation; Up-to-date; Parser; Comments; SAS; Code-publication match
+
+S. Cherubin, G. Agosta,
+libVersioningCompiler: An easy-to-use library for dynamic generation and invocation of multiple code versions,
+SoftwareX,
+Volume 7,
+2018,
+Pages 95-100,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.03.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300426)
+Keywords: Dynamic compilation; Versioning compiler; Continuous optimization
+
+Luigi Palatella, Fabio Grasso,
+The EKF-AUS-NL algorithm implemented without the linear tangent model and in presence of parametric model error,
+SoftwareX,
+Volume 7,
+2018,
+Pages 28-33,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.01.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300025)
+Keywords: Kalman-Filter; AUS; Lorenz96; SLAM
+
+Kamyar Hasanzadeh,
+IASM: Individualized activity space modeler,
+SoftwareX,
+Volume 7,
+2018,
+Pages 138-142,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.04.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300542)
+Keywords: Activity space; Neighborhood; GIS; Place exposure
+
+Alberto Sartori, Nicola Giuliani, Mauro Bardelloni, Luca Heltai,
+deal2lkit: A toolkit library for high performance programming in deal.II,
+SoftwareX,
+Volume 7,
+2018,
+Pages 318-327,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.09.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302048)
+Keywords: Object-orientation; Software design; Finite element methods; C++
+
+F. Gerber, K. Mösinger, R. Furrer,
+dotCall64: An R package providing an efficient interface to compiled C, C++, and Fortran code supporting long vectors,
+SoftwareX,
+Volume 7,
+2018,
+Pages 217-221,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.06.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300785)
+Keywords: Foreign function interface; 64-bit; Large datasets
+
+Exneyder A. Montoya-Araque, Ludger O. Suarez-Burgoa,
+pyBIMstab: Application software for 2D slope stability analysis of block-in-matrix and homogeneous materials,
+SoftwareX,
+Volume 7,
+2018,
+Pages 383-387,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.11.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301638)
+Keywords: Tortuous failure surface; Bimrock; Bimsoil; Slope stability; A∗algorithm
+
+Gabriel Stockdale, Simone Tiberti, Daniela Camilletti, Gessica Sferrazza Papa, Ahmad Basshofi Habieb, Elisa Bertolesi, Gabriele Milani, Siro Casolo,
+Kinematic collapse load calculator: Circular arches,
+SoftwareX,
+Volume 7,
+2018,
+Pages 174-179,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.05.006.
+(https://www.sciencedirect.com/science/article/pii/S235271101830061X)
+Keywords: Masonry arch; Limit analysis; Kinematic approach; MATLAB®; Interactive analysis
+
+Deokjae Lee, S. Hwang, S. Choi, B. Kahng,
+Decremental dynamic algorithm to trace mutually connected clusters,
+SoftwareX,
+Volume 7,
+2018,
+Pages 273-280,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.08.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301717)
+Keywords: Interdependent networks; Mutually connected clusters; Percolation; Hybrid phase transition; Euler tour tree
+
+Alexander G. Demidov, Michael E. Fortunato, Coray M. Colina,
+Update 0.2 to “pysimm: A python package for simulation of molecular systems”,
+SoftwareX,
+Volume 7,
+2018,
+Pages 70-73,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.02.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300141)
+Keywords: Amorphous polymers; Molecular dynamics simulations; Monte Carlo simulations
+
+Martin Masek, Chiou Peng Lam, Cameron Tranthim-Fryer, Bas Jansen, Kevin Baptist,
+Sleep monitor: A tool for monitoring and categorical scoring of lying position using 3D camera data,
+SoftwareX,
+Volume 7,
+2018,
+Pages 341-346,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.10.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301079)
+Keywords: Lying position; Body position; Automated analysis
+
+Paul Bauer, Alexandre Barrozo, Miha Purg, Beat Anton Amrein, Mauricio Esguerra, Philippe Barrie Wilson, Dan Thomas Major, Johan Åqvist, Shina Caroline Lynn Kamerlin,
+Q6: A comprehensive toolkit for empirical valence bond and related free energy calculations,
+SoftwareX,
+Volume 7,
+2018,
+Pages 388-395,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.12.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300675)
+Keywords: Free energy perturbation; Empirical valence bond; Molecular dynamics simulations; Path integral calculations
+
+Jan Scheffel, Kristoffer Lindvall,
+SIR—An efficient solver for systems of equations,
+SoftwareX,
+Volume 7,
+2018,
+Pages 59-62,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.01.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300062)
+Keywords: Newton method; Root solver; Equation solver; MATLAB
+
+Minjie Zhu, Frank McKenna, Michael H. Scott,
+OpenSeesPy: Python library for the OpenSees finite element framework,
+SoftwareX,
+Volume 7,
+2018,
+Pages 6-11,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.10.009.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300584)
+Keywords: Interpreter; Scripting language; Structural analysis; Finite element analysis
+
+Michael von Domaros, Eva Perlt, Johannes Ingenmey, Gwydyon Marchelli, Barbara Kirchner,
+Peacemaker2: Making clusters talk about binary mixtures and neat liquids,
+SoftwareX,
+Volume 7,
+2018,
+Pages 356-359,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.11.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301845)
+Keywords: Molecular clusters; Binary mixtures; Liquids; Quantum chemistry; Statistical thermodynamics
+
+Md Mushfiqur Rahman, Yu Lei, Georgios Kalantzis,
+QALMA: A computational toolkit for the analysis of quality protocols for medical linear accelerators in radiation therapy,
+SoftwareX,
+Volume 7,
+2018,
+Pages 101-106,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.03.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300311)
+Keywords: Star shot; Picket fence; Winston–Lutz; Light radiation coincidence; Log file analysis; Quality assurance
+
+Yakubu Abdul-Salam,
+A Stochastic Anaerobic Digestion Economic Assessment Tool (SADEAT),
+SoftwareX,
+Volume 7,
+2018,
+Pages 190-197,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.05.004.
+(https://www.sciencedirect.com/science/article/pii/S235271101830058X)
+Keywords: Stochastic; Anaerobic digestion; Decision support; Economics
+
+Timothy J. Truster,
+DEIP, discontinuous element insertion Program — Mesh generation for interfacial finite element modeling,
+SoftwareX,
+Volume 7,
+2018,
+Pages 162-170,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.05.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300797)
+Keywords: Interface elements; Cohesive zone models; Discontinuous Galerkin method; Mesh topology
+
+Sten Ternström, Dennis Johansson, Andreas Selamtzis,
+FonaDyn — A system for real-time analysis of the electroglottogram, over the voice range,
+SoftwareX,
+Volume 7,
+2018,
+Pages 74-80,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.03.002.
+(https://www.sciencedirect.com/science/article/pii/S235271101830030X)
+Keywords: Electroglottography; Voice analysis; Clustering; Sample entropy; Voice range profile; SuperCollider
+
+Benyuan Liu, Bin Yang, Canhua Xu, Junying Xia, Meng Dai, Zhenyu Ji, Fusheng You, Xiuzhen Dong, Xuetao Shi, Feng Fu,
+pyEIT: A python based framework for Electrical Impedance Tomography,
+SoftwareX,
+Volume 7,
+2018,
+Pages 304-308,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.09.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301407)
+Keywords: Electrical Impedance Tomography; Inverse problems; Finite element method; Unstructrual mesh
+
+Martin Mann, Hans-Peter Kahle, Matthias Beck, Bela Johannes Bender, Heinrich Spiecker, Rolf Backofen,
+MICA: Multiple interval-based curve alignment,
+SoftwareX,
+Volume 7,
+2018,
+Pages 53-58,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.02.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300190)
+Keywords: Curve alignment; Landmark registration; Global alignment; Progressive alignment
+
+Garrett W. Melenka, Jason P. Carey,
+Braid CAM: Braided composite analytical model,
+SoftwareX,
+Volume 7,
+2018,
+Pages 23-27,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.12.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300705)
+Keywords: Braided composites; Analytical model; Elastic properties; Composite materials
+
+Brian Ballsun-Stanton, Shawn A. Ross, Adela Sobotkova, Penny Crook,
+FAIMS Mobile: Flexible, open-source software for field research,
+SoftwareX,
+Volume 7,
+2018,
+Pages 47-52,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.12.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300869)
+Keywords: Android; Mobile software; Field research; Field science
+
+Nelson B. Villoria, Joshua Elliott, Christoph Müller, Jaewoo Shin, Lan Zhao, Carol Song,
+Web-based access, aggregation, and visualization of future climate projections with emphasis on agricultural assessments,
+SoftwareX,
+Volume 7,
+2018,
+Pages 15-22,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.11.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300626)
+Keywords: Climate data; CMIP5; Climate models; HUBzero; Growing season temperature; Growing season precipitation; Climate change and agriculture
+
+Suleiman Y. Yerima, Michael Loughlin, Sakir Sezer, John Moriarty, Mark McCann, Helen McAneney, Leeanne O’Hara, Mark A. Tully, Paul S. Ell, Robert Miller, Geraldine Macdonald,
+MobiQ: A modular Android application for collecting social interaction, repeated survey, GPS and photographic data,
+SoftwareX,
+Volume 7,
+2018,
+Pages 143-149,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.04.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300670)
+Keywords: Longitudinal surveys; Android; Social interaction; GPS; Behaviour research; Social research; Smartphone-based data collection; GIS; e-research
+
+
+Editorial Board,
+SoftwareX,
+Volume 7,
+2018,
+Page i,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(18)30277-2.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302772)
+
+A.G. Basden, N.A. Bharmal, D. Jenkins, T.J. Morris, J. Osborn, J. Peng, L. Staykov,
+The Durham Adaptive Optics Simulation Platform (DASP): Current status,
+SoftwareX,
+Volume 7,
+2018,
+Pages 63-69,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.02.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300232)
+Keywords: Adaptive optics; Monte-Carlo; Simulation; Modelling
+
+Mattia Montanari, Nik Petrinic,
+OpenGJK for C, C# and Matlab: Reliable solutions to distance queries between convex bodies in three-dimensional space,
+SoftwareX,
+Volume 7,
+2018,
+Pages 352-355,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.10.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300591)
+Keywords: Minimum distance; Collision detection; GJK algorithm
+
+Elias Rudberg, Emanuel H. Rubensson, Paweł Sałek, Anastasia Kruchinina,
+Ergo: An open-source program for linear-scaling electronic structure calculations,
+SoftwareX,
+Volume 7,
+2018,
+Pages 107-111,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.03.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300402)
+Keywords: Electronic structure; Quantum chemistry; Hartree–Fock; Kohn–Sham density functional theory
+
+K. Kraljić, L. Strüngmann, E. Fimmel, M. Gumbel,
+Genetic Code Analysis Toolkit: A novel tool to explore the coding properties of the genetic code and DNA sequences,
+SoftwareX,
+Volume 7,
+2018,
+Pages 12-14,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2017.10.008.
+(https://www.sciencedirect.com/science/article/pii/S2352711017300572)
+Keywords: Genetic code; Analysis; Comma free; Binary dichotomic algorithm
+
+Samantha Zambo, Todd Holland, Nathaniel Plant, Kevin Duvieilh, Paul Elmore, Will Avera, Brian Bourgeois, A. Louise Perkins, David Lalejini,
+MergeBathy (2015),
+SoftwareX,
+Volume 7,
+2018,
+Pages 180-183,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.05.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300888)
+Keywords: MergeBathy; Bathymetry; Digital elevation models; Software; Tool; Modeling
+
+Timofey Mukha, Mattias Liefvendahl,
+Eddylicious: A Python package for turbulent inflow generation,
+SoftwareX,
+Volume 7,
+2018,
+Pages 112-114,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.04.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300487)
+Keywords: Inflow generation; Turbulence; CFD; Boundary conditions
+
+Ariella L. Gladstein, Consuelo D. Quinto-Cortés, Julian L. Pistorius, David Christy, Logan Gantner, Blake L. Joyce,
+SimPrily: A Python framework to simplify high-throughput genomic simulations,
+SoftwareX,
+Volume 7,
+2018,
+Pages 335-340,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.09.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301213)
+Keywords: Genomics; Coalescent simulation; High-throughput computing; Demographic history
+
+L. Vanfretti, G.M. Jónsdóttir, M.S. Almas, E. Rebello, S.R. Firouzi, M. Baudette,
+Audur—A platform for synchrophasor-based power system wide-area control system implementation,
+SoftwareX,
+Volume 7,
+2018,
+Pages 294-301,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.08.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301730)
+Keywords: Power systems; Wide-area control systems; Oscillation damping; Inter-area oscillations; Synchrophasors
+
+Jack McCubbine, Fabio Caratori Tontini, Vaughan Stagpoole, Euan Smith, Grant O’Brien,
+Gsolve, a Python computer program with a graphical user interface to transform relative gravity survey measurements to absolute gravity values and gravity anomalies,
+SoftwareX,
+Volume 7,
+2018,
+Pages 129-137,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.04.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300566)
+Keywords: Relative gravity; Python; Least squares; Free air anomalies; Terrain corrections
+
+Sasha D. Hafner, Konrad Koch, Hélène Carrere, Sergi Astals, Sören Weinrich, Charlotte Rennuit,
+Software for biogas research: Tools for measurement and prediction of methane production,
+SoftwareX,
+Volume 7,
+2018,
+Pages 205-210,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.06.005.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300840)
+Keywords: Anaerobic digestion; Biochemical methane potential; Data processing; Microbial stoichiometry
+
+Georgios Leontaris, Oswaldo Morales-Nápoles,
+ANDURIL — A MATLAB toolbox for ANalysis and Decisions with UnceRtaInty: Learning from expert judgments,
+SoftwareX,
+Volume 7,
+2018,
+Pages 313-317,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.07.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300608)
+Keywords: Structured expert judgment; Cooke’s classical model; MATLAB toolbox; EXCALIBUR software
+
+Jeroen Steenbeek, Xavier Corrales, Mark Platts, Marta Coll,
+Ecosampler: A new approach to assessing parameter uncertainty in Ecopath with Ecosim,
+SoftwareX,
+Volume 7,
+2018,
+Pages 198-204,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.06.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300803)
+Keywords: Ecopath with Ecosim; Ecological modelling; Input parameter sensitivity; Ecosampler
+
+Wilko Rohlfs, Manuel Rietz, Benoit Scheid,
+WaveMaker: The three-dimensional wave simulation tool for falling liquid films,
+SoftwareX,
+Volume 7,
+2018,
+Pages 211-216,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.07.003.
+(https://www.sciencedirect.com/science/article/pii/S235271101830075X)
+Keywords: Falling films; Integral boundary layer model; Spectral code
+
+Danny Petschke, Torsten E.M. Staab,
+Update (v1.2) to DLTPulseGenerator: A library for the simulation of lifetime spectra based on detector-output pulses,
+SoftwareX,
+Volume 7,
+2018,
+Pages 259-262,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.06.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301092)
+
+Siqin Meng, Rasmus Toft-Petersen, Lijie Hao, Klaus Habicht,
+multiflexxlib: A Python package for data reduction and visualization for the cold-neutron multi energy wide angle analyzer MultiFLEXX,
+SoftwareX,
+Volume 7,
+2018,
+Pages 309-312,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.09.006.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301055)
+Keywords: Inelastic neutron scattering; Three-axis spectroscopy; Visualization tool
+
+Peter G. Lelièvre, Angela E. Carter-McAuslan, Michael W. Dunham, Drew J. Jones, Mariella Nalepa, Chelsea L. Squires, Cassandra J. Tycholiz, Marc A. Vallée, Colin G. Farquharson,
+FacetModeller: Software for manual creation, manipulation and analysis of 3D surface-based models,
+SoftwareX,
+Volume 7,
+2018,
+Pages 41-46,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.02.002.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300165)
+Keywords: 3D model; Geological model; Meshing; Manual model building; Numerical methods; Java
+
+D.J. Silva, J.S. Amaral, V.S. Amaral,
+Heatrapy: A flexible Python framework for computing dynamic heat transfer processes involving caloric effects in 1.5D systems,
+SoftwareX,
+Volume 7,
+2018,
+Pages 373-382,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.09.007.
+(https://www.sciencedirect.com/science/article/pii/S2352711018301298)
+Keywords: Heat transfer; Thermodynamics; Caloric effect; Python
+
+Joseph C. Ferguson, Francesco Panerai, Arnaud Borner, Nagi N. Mansour,
+PuMA: the Porous Microstructure Analysis software,
+SoftwareX,
+Volume 7,
+2018,
+Pages 81-87,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.03.001.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300281)
+Keywords: Microtomography; Oxidation; Conductivity; Tortuosity factor; Porous media
+
+R. Vidmar, N. Creati,
+QCOBJ a Python package to handle quantity-aware configuration files,
+SoftwareX,
+Volume 7,
+2018,
+Pages 347-351,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.10.003.
+(https://www.sciencedirect.com/science/article/pii/S2352711018302383)
+Keywords: Python; Units; Configuration file
+
+M.J. Pankhurst, R. Fowler, L. Courtois, S. Nonni, F. Zuddas, R.C. Atwood, G.R. Davis, P.D. Lee,
+Enabling three-dimensional densitometric measurements using laboratory source X-ray micro-computed tomography,
+SoftwareX,
+Volume 7,
+2018,
+Pages 115-121,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2018.03.004.
+(https://www.sciencedirect.com/science/article/pii/S2352711018300360)
+Keywords: Laboratory X-ray micro-computed tomography; Beam characterisation; Python; Beam hardening; Three-dimensional densitometry

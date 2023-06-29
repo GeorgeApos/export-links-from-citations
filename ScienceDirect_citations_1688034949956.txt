@@ -1,0 +1,591 @@
+David Brown, Kauê de Sousa, Jacob van Etten,
+ag5Tools: An R package for downloading and extracting agrometeorological data from the AgERA5 database,
+SoftwareX,
+Volume 21,
+2023,
+101267,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101267.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001856)
+Keywords: Agriculture; Climate; Crop variety evaluation; Field trials
+
+Linmin Li, Weisen Xu, Bowen Jiang, Xiaojun Li, Zuchao Zhu,
+A multiscale Eulerian–Lagrangian cavitating flow solver in OpenFOAM,
+SoftwareX,
+Volume 21,
+2023,
+101304,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101304.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002229)
+Keywords: Multiscale cavitation model; Volume of fluid; Discrete bubble model; OpenFOAM
+
+Adrian A. Correndo, Austin Pearce, Carl H. Bolster, John T. Spargo, Deanna Osmond, Ignacio A. Ciampitti,
+The soiltestcorr R package: An accessible framework for reproducible correlation analysis of crop yield and soil test data,
+SoftwareX,
+Volume 21,
+2023,
+101275,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101275.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001935)
+Keywords: Programming; Agriculture; Soil fertility; Crop nutrition
+
+Hiroko Kato Solvang, Mineaki Ohishi,
+trec: An R package for trend estimation and classification to support integrated ecosystem assessment of the marine ecosystem and environmental factors,
+SoftwareX,
+Volume 21,
+2023,
+101309,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101309.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000055)
+Keywords: Integrated trend assessment; Common trend; Stakeholders; Multinomial logistic discriminator
+
+Jinfeng Ma, Hua Zheng, Ruonan Li, Kaifeng Rao, Yanzheng Yang, Weifeng Li,
+PyVecContour: A Python toolkit for vectorized isosurface mapping,
+SoftwareX,
+Volume 21,
+2023,
+101317,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101317.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000134)
+Keywords: Vectorized isosurface mapping; Contour; Spatial analysis; Geobuf
+
+Giovanni Nardini, Alessandro Noferi, Pietro Ducange, Giovanni Stea,
+Exploiting Simu5G for generating datasets for training and testing AI models for 5G/6G network applications,
+SoftwareX,
+Volume 21,
+2023,
+101320,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101320.
+(https://www.sciencedirect.com/science/article/pii/S235271102300016X)
+Keywords: simu5G; Artificial intelligence; Network simulation; Dataset
+
+Monica Palaseanu-Lovejoy,
+iBluff: An open-source R package for geomorphic analysis of coastal bluffs/cliffs,
+SoftwareX,
+Volume 21,
+2023,
+101325,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101325.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000213)
+Keywords: R; Coastal; Bluffs/cliffs; Morphology
+
+Marie Roald,
+MatCoupLy: Learning coupled matrix factorizations with Python,
+SoftwareX,
+Volume 21,
+2023,
+101292,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101292.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002102)
+Keywords: Coupled matrix factorization; PARAFAC2; Constraints; AO-ADMM
+
+George S. Evans, Joseph M. Watkins, Thomas F. Fuerst, Chase N. Taylor, Masashi Shimada,
+HyPAT: A GUI for high-throughput gas-driven hydrogen permeation data analysis,
+SoftwareX,
+Volume 21,
+2023,
+101284,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101284.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002023)
+Keywords: Hydrogen; Data analysis; Gas-driven permeation; Solubility; Diffusivity; Permeability
+
+Danilo S. Kusanovic, Elnaz Seylabi, Domniki Asimaki,
+Seismo-VLAB: An open-source finite element software for seismic meso-scale simulations,
+SoftwareX,
+Volume 21,
+2023,
+101300,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101300.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002187)
+Keywords: Finite element software; Soil–structure interaction; Wave propagation; Meso-scale simulation; Perfectly matched layer; Domain reduction method; Domain decomposition; High-performance computing; Parallel computing; Object-oriented programming
+
+Nicholas Arnold-Medabalimi, Christopher R. Wentland, Cheng Huang, Karthik Duraisamy,
+PLATFORM: Parallel Linear Algebra Tool FOr Reduced Modeling,
+SoftwareX,
+Volume 21,
+2023,
+101313,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101313.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000092)
+Keywords: Model reduction; Modal decomposition; Distributed linear algebra
+
+Paul Koot, Miguel Angel Mendoza-Lugo, Dominik Paprotny, Oswaldo Morales-Nápoles, Elisa Ragno, Daniël T.H. Worm,
+PyBanshee version (1.0): A Python implementation of the MATLAB toolbox BANSHEE for Non-Parametric Bayesian Networks with updated features,
+SoftwareX,
+Volume 21,
+2023,
+101279,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101279.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001972)
+Keywords: Non-Parametric Bayesian Networks; BANSHEE; Python library; Copulas
+
+Oscar J. Cacho, Susan M. Hester,
+Modelling biocontrol of invasive insects using WaspSim: A MATLAB simulation model,
+SoftwareX,
+Volume 21,
+2023,
+101321,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101321.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000171)
+Keywords: Invasive species; Classical biological control; Vespula germanica; Control feasibility; Simulation model
+
+Thomas J. Hoffmann, Christine Miaskowski, Kord M. Kober,
+ShinyGAStool: A user-friendly tool for candidate gene association studies,
+SoftwareX,
+Volume 21,
+2023,
+101274,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101274.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001923)
+Keywords: Genetic association; Regression analysis; Single nucleotide polymorphism; R shiny
+
+Karl D. Briegel, Felix Riccius, Jakob Filser, Alexander Bourgund, Robert Spitzenpfeil, Mirco Panighel, Carlo Dri, Barbara A.J. Lechner, Friedrich Esch,
+PyfastSPM: A Python package to convert 1D FastSPM data streams into publication quality movies,
+SoftwareX,
+Volume 21,
+2023,
+101269,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101269.
+(https://www.sciencedirect.com/science/article/pii/S235271102200187X)
+Keywords: Movie-rate scanning probe microscopy; Creep correction; Drift correction
+
+Markus Wallerberger, Samuel Badr, Shintaro Hoshino, Sebastian Huber, Fumiya Kakizawa, Takashi Koretsune, Yuki Nagai, Kosuke Nogaki, Takuya Nomoto, Hitoshi Mori, Junya Otsuki, Soshun Ozaki, Thomas Plaikner, Rihito Sakurai, Constanze Vogel, Niklas Witt, Kazuyoshi Yoshimi, Hiroshi Shinaoka,
+sparse-ir: Optimal compression and sparse sampling of many-body propagators,
+SoftwareX,
+Volume 21,
+2023,
+101266,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101266.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001844)
+Keywords: Intermediate representation; Sparse sampling; Python; Julia; Fortran
+
+Emmanuel Jordy Menvouta, Sven Serneels, Tim Verdonck,
+direpack: A Python 3 package for state-of-the-art statistical dimensionality reduction methods,
+SoftwareX,
+Volume 21,
+2023,
+101282,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101282.
+(https://www.sciencedirect.com/science/article/pii/S235271102200200X)
+Keywords: Dimensionality reduction; Projection pursuit; Sufficient dimension reduction; Robust statistics; Energy statistics; Statistical learning
+
+Ming Huang, Cameron F. Abrams,
+HTPolyNet: A general system generator for all-atom molecular simulations of amorphous crosslinked polymers,
+SoftwareX,
+Volume 21,
+2023,
+101303,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101303.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002217)
+Keywords: Network polymers; Molecular simulations; Topology generation
+
+Robert Gaugl, Sonja Wogrin, Udo Bachhiesl, Lukas Frauenlob,
+GridTool: An open-source tool to convert electricity grid data,
+SoftwareX,
+Volume 21,
+2023,
+101314,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101314.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000109)
+Keywords: Open-source; Power grids; Transmission grid
+
+Thomas F. Flint, Joseph D. Robson, Gowthaman Parivendhan, Philip Cardiff,
+laserbeamFoam: Laser ray-tracing and thermally induced state transition simulation toolkit,
+SoftwareX,
+Volume 21,
+2023,
+101299,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101299.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002175)
+Keywords: Advanced manufacturing; Volume of fluid; Heat transfer; OpenFOAM; State Transition
+
+Nikolaos Mittas, Fani Chatzopoulou, Efstratios Karagiannidis, Dimitrios Chatzidimitriou, Georgios Sianos, Lefteris Angelis, Ioannis S. Vizirianakis,
+CRISSPAC: A web-based platform for predicting the SYNTAX Score and severity of coronary artery disease,
+SoftwareX,
+Volume 21,
+2023,
+101310,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101310.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000067)
+Keywords: Coronary artery disease (CAD); Personalized (precision) medicine; Prediction algorithm; Decision support tool
+
+Binbin Lu, Yigong Hu, Dongyang Yang, Yong Liu, Liuqi Liao, Zuoyao Yin, Tianyang Xia, Zheyi Dong, Paul Harris, Chris Brunsdon, Lex Comber, Guanpeng Dong,
+GWmodelS: A software for geographically weighted models,
+SoftwareX,
+Volume 21,
+2023,
+101291,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101291.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002096)
+Keywords: Spatial heterogeneity; Spatio-temporal models; Visualization; High-performance; Local techniques
+
+Hongseok Oh, Hyunsoo Kim, Hyerin Jo,
+MeaSSUre:I-V: Open software for transistor characterization using source-meter units,
+SoftwareX,
+Volume 21,
+2023,
+101318,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101318.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000146)
+Keywords: Transistor; I-V; SMU; GUI; FET; BJT
+
+Shaji M Jamal, Neelakantan T.R., Meyyappan Palaniappan,
+MesoGen—Development of an Android application for the Mesoscopic modeling of concrete,
+SoftwareX,
+Volume 21,
+2023,
+101283,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101283.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002011)
+Keywords: Mesoscopic modeling; Heterogeneous material; Random aggregate; Concrete
+
+Sergio A. Dorado-Rojas, Fernando Fachini, Tetiana Bogodorova, Giuseppe Laera, Marcelo de Castro Fernandes, Luigi Vanfretti,
+ModelicaGridData: Massive power system simulation data generation and labeling tool using Modelica and Python,
+SoftwareX,
+Volume 21,
+2023,
+101258,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101258.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001765)
+Keywords: Big data generation; OpenIPSL; Modelica; Power systems; Small-signal stability; Power flow
+
+Boqin Zhang, Xin Jing, Shashikant Kumar, Phanish Suryanarayana,
+Version 2.0.0 - M-SPARC: Matlab-Simulation Package for Ab-initio Real-space Calculations,
+SoftwareX,
+Volume 21,
+2023,
+101295,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101295.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002138)
+Keywords: Kohn–Sham Density Functional Theory; Electronic structure; Relativistic effects; Dispersion interactions; Meta-GGA functionals; Hybrid functionals
+
+Junjun Guo, Aijun Ye, Xiaowei Wang, Zhongguo Guan,
+OpenSeesPyView: Python programming-based visualization and post-processing tool for OpenSeesPy,
+SoftwareX,
+Volume 21,
+2023,
+101278,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101278.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001960)
+Keywords: Python programming; Model visualization; Post-process; OpenSeesPy
+
+Christian Willberg, Jan-Timo Hesse, Marc Garbade, Martin Rädel, Falk Heinecke, Andreas Schuster, Anna Pernatii,
+A user material interface for the Peridynamic Peridigm framework,
+SoftwareX,
+Volume 21,
+2023,
+101322,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101322.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000183)
+Keywords: Peridynamics; User material; UMAT; Interface; Material modeling; Damage model
+
+Joe Sgarrella, Farshad Ghanbari, Christian Peco,
+I-STL2MOOSE: From STL data to integrated volumetrical meshes for MOOSE,
+SoftwareX,
+Volume 21,
+2023,
+101273,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101273.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001911)
+Keywords: .msh file; Finite elements; Combined mesh; Open-source
+
+Marcelo de Castro, Dietmar Winkler, Giuseppe Laera, Luigi Vanfretti, Sergio A. Dorado-Rojas, Tin Rabuzin, Biswarup Mukherjee, Manuel Navarro,
+Version [OpenIPSL 2.0.0] - [iTesla Power Systems Library (iPSL): A Modelica library for phasor time-domain simulations],
+SoftwareX,
+Volume 21,
+2023,
+101277,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101277.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001959)
+Keywords: Modelica; Power systems; Simulation; Power system modeling; Power system dynamics
+
+Ioannis Kontopoulos, Antonios Makris, Konstantinos Tserpes,
+TraClets: A trajectory representation and classification library,
+SoftwareX,
+Volume 21,
+2023,
+101306,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101306.
+(https://www.sciencedirect.com/science/article/pii/S235271102300002X)
+Keywords: Trajectory classification; Deep learning; Convolutional neural networks; Computer vision
+
+
+Editorial Board,
+SoftwareX,
+Volume 21,
+2023,
+101335,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(23)00031-6.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000316)
+
+Danilo S. Bomfim, Rodrigo L. Soares, Luiz F. Bez, Pedro C.F. Lopes, André M.B. Pereira, Luiz F. Martha,
+HETOOL: A Half-Edge Topological Object-Oriented Library for generic 2-D geometric modeling,
+SoftwareX,
+Volume 21,
+2023,
+101307,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101307.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000031)
+Keywords: Solid modeling; Topological data structure; Half-edge; Python application; User configuration
+
+Winda Wijayasari, Faizal Immaddudin Wira Rohmat, Sparisoma Viridi,
+Malaccha: An R-based end-to-end Markov transition matrix extraction for land cover datasets,
+SoftwareX,
+Volume 21,
+2023,
+101315,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101315.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000110)
+Keywords: Markov transition matrix; MODIS; Land cover; Remote sensing; R programming
+
+Hakan Temiz,
+DeepSR: A deep learning tool for image super resolution,
+SoftwareX,
+Volume 21,
+2023,
+101261,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101261.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001790)
+Keywords: Software; Tool; Deep learning; Super-resolution; Image
+
+Matti Niskanen, Timo Lähivaara,
+COMPOSTI: A Python-based program for seismic trans-dimensional inversion,
+SoftwareX,
+Volume 21,
+2023,
+101298,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101298.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002163)
+Keywords: Seismic inversion; Trans-dimensional Markov chain Monte Carlo; Reflectivity method
+
+Marta Caro-Martinez, Jesus M. Darias, Belen Diaz-Agudo, Juan A. Recio-Garcia,
+iSeeE3 — The Explanation Experiences Editor,
+SoftwareX,
+Volume 21,
+2023,
+101311,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101311.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000079)
+Keywords: Explainable Artificial Intelligence; Machine Learning interpretability; Restful API; Flask; Behaviour trees
+
+Gabriele Proietti Mattia, Roberto Beraldi,
+P2PFaaS: A framework for FaaS peer-to-peer scheduling and load balancing in Fog and Edge computing,
+SoftwareX,
+Volume 21,
+2023,
+101290,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101290.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002084)
+Keywords: Edge Computing; Fog Computing; FaaS
+
+Leonidas Akritidis, Miltiadis Alamaniotis, Panayiotis Bozanis,
+FLAGR: A flexible high-performance library for rank aggregation,
+SoftwareX,
+Volume 21,
+2023,
+101319,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101319.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000158)
+Keywords: Rank aggregation; Library; FLAGR; PyFLAGR; Python; C++
+
+Jiaqi Zou, Zonghao Li, Xuanying Liu, Haonan Tong,
+MSCPDPLab: A MATLAB toolbox for transfer learning based multi-source cross-project defect prediction,
+SoftwareX,
+Volume 21,
+2023,
+101286,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101286.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002047)
+Keywords: Multiple source datasets; Cross-project defect prediction; Mining software repository; Transfer learning
+
+DaJiang Wu, Zhiyuan Mei, Yi Zhu, Haozhong Hu,
+Development of an ABAQUS™ plug-in for predicting composite plates stiffness with in-plane periodicity,
+SoftwareX,
+Volume 21,
+2023,
+101281,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101281.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001996)
+Keywords: Plug-in; Periodic plate; Homogenization; Finite element method
+
+Pranab J. Deka, Lukas Einkemmer, Mayya Tokman,
+LeXInt: Package for exponential integrators employing Leja interpolation,
+SoftwareX,
+Volume 21,
+2023,
+101302,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101302.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002205)
+Keywords: Time integration; Numerical methods; Exponential integrators; Leja points; Polynomial interpolation
+
+Yang Zhao, Qing Liu,
+Causal ML: Python package for causal inference machine learning,
+SoftwareX,
+Volume 21,
+2023,
+101294,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101294.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002126)
+Keywords: Causal ML; Causal inference; Machine learning
+
+Janine Egert, Clemens Kreutz,
+Rcall: An R interface for MATLAB,
+SoftwareX,
+Volume 21,
+2023,
+101276,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101276.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001947)
+Keywords: R; MATLAB; Programming language interface
+
+Nithin Kumar Goona, Shraddha M. Naik, Saidi Reddy Parne, Anand Paul,
+DssPyLib: An open-source python FEM software to solve Poisson equation in 2-D using distributed source scheme,
+SoftwareX,
+Volume 21,
+2023,
+101308,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101308.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000043)
+Keywords: Finite element method; Integral method; Poisson equation; Python; Numerical solution; Dirichlet boundary condition
+
+Ye Li, Hongxiang Ren, Haijiang Li,
+PyVT: A toolkit for preprocessing and analysis of vessel spatio-temporal trajectories,
+SoftwareX,
+Volume 21,
+2023,
+101316,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101316.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000122)
+Keywords: Vessel spatio-temporal trajectory; Preprocessing; Analytics; Python
+
+Marcell T. Kurbucz,
+hdData360r: A high-dimensional panel data compiler for governance, trade, and competitiveness indicators of World Bank Group platforms,
+SoftwareX,
+Volume 21,
+2023,
+101297,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101297.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002151)
+Keywords: Data compiler; Panel data; Spatial data; Governance; Trade; Competitiveness
+
+Maximilian Reininghaus,
+cnpy++: A C++17 library for reading and writing .npy/.npz files,
+SoftwareX,
+Volume 21,
+2023,
+101324,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101324.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000201)
+Keywords: NumPy file; Data format; C++ iterator; Serialization
+
+Yang Liu,
+rwl_read: A MATLAB program to identify and correct formatting errors in tree-ring measurement files,
+SoftwareX,
+Volume 21,
+2023,
+101285,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101285.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002035)
+Keywords: Tree-ring measurement file; Formatting error; MATLAB
+
+Arash Badie-Modiri, Mikko Kivelä,
+Reticula: A temporal network and hypergraph analysis software package,
+SoftwareX,
+Volume 21,
+2023,
+101301,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101301.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002199)
+Keywords: Graphs; Networks; Temporal networks; Hypergraphs
+
+Abdur Rehman Khan, Umer Rashid, Naveed Ahmed,
+AMED: Aggregated multimedia exploratory and discovery search software,
+SoftwareX,
+Volume 21,
+2023,
+101312,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101312.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000080)
+Keywords: Information discovery; Multimedia documents; Search engine; Exploratory search
+
+Pieter D. Boom, Andrey P. Jivkov, Lee Margetts,
+ParaGEMS: Integrating discrete exterior calculus (DEC) into ParaFEM for geometric analysis of solid mechanics,
+SoftwareX,
+Volume 21,
+2023,
+101280,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101280.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001984)
+Keywords: Discrete exterior calculus; Scalar diffusion; Linear elasticity
+
+Kulbhushan Chand, Arun Khosla,
+Corrigendum to “BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback” [SoftwareX 19 (2022) 101184],
+SoftwareX,
+Volume 21,
+2023,
+101296,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101296.
+(https://www.sciencedirect.com/science/article/pii/S235271102200214X)
+
+Patrick Pho, Alexander V. Mantzaris,
+reg-sgc: An open-source software for regularized Simple Graph Convolution,
+SoftwareX,
+Volume 21,
+2023,
+101293,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101293.
+(https://www.sciencedirect.com/science/article/pii/S2352711022002114)
+Keywords: Machine learning; Network science; Graph Neural Networks

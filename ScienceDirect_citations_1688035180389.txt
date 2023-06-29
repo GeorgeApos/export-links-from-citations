@@ -1,0 +1,581 @@
+Ignacy Kaliszewski, Olga Karelkina,
+IDOL: A web application for mixed integer linear multiobjective optimization,
+SoftwareX,
+Volume 19,
+2022,
+101109,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101109.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000723)
+Keywords: Multiobjective optimization; Mixed integer linear optimization; Chebyshev scalarization; Web application
+
+Yu Yuan, Gabriel Stockdale, Gabriele Milani,
+Interactive software for mapping concentrated displacements in masonry arches,
+SoftwareX,
+Volume 19,
+2022,
+101154,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101154.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000966)
+Keywords: Masonry arch; Homography; Cheap and fast monitoring system; MATLAB GUI
+
+Sonja Wogrin, Diego Alejandro Tejada-Arango, Robert Gaugl, Thomas Klatzer, Udo Bachhiesl,
+LEGO: The open-source Low-carbon Expansion Generation Optimization model,
+SoftwareX,
+Volume 19,
+2022,
+101141,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101141.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000887)
+Keywords: Energy system planning software; Open-source; Power system optimization; GitHub
+
+Alina Petukhova, Nuno Fachada,
+TextCL: A Python package for NLP preprocessing tasks,
+SoftwareX,
+Volume 19,
+2022,
+101122,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101122.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000802)
+Keywords: Natural language processing; Text filtering; Outlier detection
+
+
+Editorial Board,
+SoftwareX,
+Volume 19,
+2022,
+101223,
+ISSN 2352-7110,
+https://doi.org/10.1016/S2352-7110(22)00141-8.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001418)
+
+Lam M. Lay, Kai-Cheng Chuang, Will Giles, Justus Adamson,
+TARDIS: An updated artificial intelligence model to predict linear accelerator machine parameters at treatment delivery,
+SoftwareX,
+Volume 19,
+2022,
+101146,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101146.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000929)
+Keywords: Artificial intelligence (AI); Online adaptive therapy; IMRT quality assurance (IMRT QA), Python
+
+Jarosław Wątróbski, Aleksandra Bączkiewicz, Wojciech Sałabun,
+Version [1.1]–[pyrepo-mcda — Reference Objects based MCDA Software Package],
+SoftwareX,
+Volume 19,
+2022,
+101197,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101197.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001170)
+Keywords: MCDA; Criteria weighting; pyrepo-mcda; Crispyn; Python; Multi-criteria assessment
+
+Konstantinos Panayiotou, Emmanouil Tsardoulias, Andreas L. Symeonidis,
+Commlib: An easy-to-use communication library for Cyber–Physical Systems,
+SoftwareX,
+Volume 19,
+2022,
+101180,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101180.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001091)
+Keywords: Cyber–Physical Systems; Internet-of-things; Distributed systems; Python; Rapid development; Communication middleware
+
+Petri Kannisto, Ville Heikkilä, Otto Hylli, Mehdi Attar, Sami Repo, Kari Systä,
+SimCES platform for modular simulation: Featuring platform independence, container ecosystem, and development toolkit,
+SoftwareX,
+Volume 19,
+2022,
+101189,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101189.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001133)
+Keywords: Co-simulation; Microservices; Message broker; Docker
+
+Raffaele Zippo, Giovanni Stea,
+Nancy: An efficient parallel Network Calculus library,
+SoftwareX,
+Volume 19,
+2022,
+101178,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101178.
+(https://www.sciencedirect.com/science/article/pii/S235271102200108X)
+Keywords: Network Calculus; Min-plus algebra; Worst-case analysis
+
+William T. Heller, John Hetrick, Jean Bilheux, Jose M. Borreguero Calvo, Wei-Ren Chen, Lisa DeBeer-Schmitt, Changwoo Do, Mathieu Doucet, Michael R. Fitzsimmons, William F. Godoy, Garrett E. Granroth, Steven Hahn, Lilin He, Fahima Islam, Jiao Lin, Kenneth C. Littrell, Marshall McDonnell, Jesse McGaha, Peter F. Peterson, Sai Venkatesh Pingali, Shuo Qian, Andrei T. Savici, Yingrui Shang, Christopher B. Stanley, Volker S. Urban, Ross E. Whitfield, Chen Zhang, Wenduo Zhou, Jay Jay Billings, Matthew J. Cuneo, Ricardo M. Ferraz Leal, Tianhao Wang, Bin Wu,
+drtsans: The data reduction toolkit for small-angle neutron scattering at Oak Ridge National Laboratory,
+SoftwareX,
+Volume 19,
+2022,
+101101,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101101.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000681)
+Keywords: Small-angle neutron scattering; Data reduction; Large-scale user facility
+
+Alonso Pizarro, Silvano F. Dal Sasso, Salvatore Manfreda,
+VISION: VIdeo StabilisatION using automatic features selection for image velocimetry analysis in rivers,
+SoftwareX,
+Volume 19,
+2022,
+101173,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101173.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001054)
+Keywords: Video stabilisation; River monitoring; Image velocimetry; UAS; LSPIV
+
+Damian Frąszczak,
+NEFBDAA — .NET Environment for Building Dynamic Angular Applications,
+SoftwareX,
+Volume 19,
+2022,
+101163,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101163.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001017)
+Keywords: C#; .NET Core; Angular; Dynamic GUI; Clean architecture; SPA; Science gateways
+
+Mauricio Ivan Tenorio-Suárez, Arturo Gómez-Ortega, Horacio Canales, Saul Piedra, James Pérez-Barrera,
+MaSMaker: An open-source, portable software to create and integrate maze-like surfaces into arbitrary geometries,
+SoftwareX,
+Volume 19,
+2022,
+101203,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101203.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001212)
+Keywords: TPMS; Python; Gyroid; Additive manufacturing
+
+Mimi Luo, Jiayu Qin, Gang Mei,
+juSPH: A Julia-based open-source package of parallel Smoothed Particle Hydrodynamics (SPH) for dam break problems,
+SoftwareX,
+Volume 19,
+2022,
+101151,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101151.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000954)
+Keywords: Smoothed Particle Hydrodynamics; CPU parallelization; Julia language; Dam break problems
+
+Todd A. Duncombe, Aaron Ponti, Petra S. Dittrich,
+SpectraSorter: Ocean Insight spectrometer software application for high-throughput full-spectrum UV–VIS analysis and triggered sorting,
+SoftwareX,
+Volume 19,
+2022,
+101160,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101160.
+(https://www.sciencedirect.com/science/article/pii/S235271102200098X)
+Keywords: C#; Arduino; High-throughput screening; UV–VIS spectroscopy; Droplet microfluidics; Label-free measurements; Ocean Insight
+
+Ivan Jericevich, Dharmesh Sing, Tim Gebbie,
+CoinTossX: An open-source low-latency high-throughput matching engine,
+SoftwareX,
+Volume 19,
+2022,
+101136,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101136.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000875)
+Keywords: Market matching-engine; Open-source application; Microsoft Azure deployment; Java web application; Julia; Python; Agent-based modeling; JSE
+
+Kulbhushan Chand, Arun Khosla,
+BioNES: A plug-and-play MATLAB-based tool to use NES games for multimodal biofeedback,
+SoftwareX,
+Volume 19,
+2022,
+101184,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101184.
+(https://www.sciencedirect.com/science/article/pii/S235271102200111X)
+Keywords: Biofeedback system; Heart rate variability (HRV); Graphical user interface (GUI); MATLAB; Nintendo Entertainment System; Arduino
+
+Jarosław Wątróbski, Aleksandra Bączkiewicz, Wojciech Sałabun,
+pyrepo-mcda — Reference objects based MCDA software package,
+SoftwareX,
+Volume 19,
+2022,
+101107,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101107.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000711)
+Keywords: MCDA; Distance metrics; Reference objects; Compromise ranking; Sensitivity analysis; Python
+
+Pham Ngoc Kien, Sang-Mook Lee,
+1DCSEMQWE: 1D Controlled Source Electromagnetic Method in Geophysics Using Quadrature With Extrapolation,
+SoftwareX,
+Volume 19,
+2022,
+101128,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101128.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000838)
+Keywords: Numerical solution; Electromagnetics; One-dimensional; Arbitrarily oriented dipole; Integral equation
+
+Ammar Elhassan, Mohammad Al-Fawa'reh, Mousa Tayseer Jafar, Mohammad Ababneh, Shifaa Tayseer Jafar,
+DFT-MF: Enhanced deepfake detection using mouth movement and transfer learning,
+SoftwareX,
+Volume 19,
+2022,
+101115,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101115.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000759)
+Keywords: Fake videos; Detection; Deep learning; Transfer learning; Deepfake; Manipulation
+
+Luo Chen, Zebang Liu, Mengyu Ma,
+HiVecMap: A parallel tool for real-time geovisualization of massive geographic vector data,
+SoftwareX,
+Volume 19,
+2022,
+101144,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101144.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000917)
+Keywords: Geographic vector mapping; Geospatial big data; Parallel mapping
+
+Diego Candia-Rivera, Gaetano Valenza,
+Cluster permutation analysis for EEG series based on non-parametric Wilcoxon–Mann–Whitney statistical tests,
+SoftwareX,
+Volume 19,
+2022,
+101170,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101170.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001042)
+Keywords: Cluster-based permutation; EEG; Statistical inference; Wilcoxon; Mann–Whitney; t-test
+
+Emanuel H. Rubensson, Elias Rudberg, Anastasia Kruchinina, Anton G. Artemov,
+The Chunks and Tasks Matrix Library,
+SoftwareX,
+Volume 19,
+2022,
+101159,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101159.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000991)
+Keywords: Chunks and Tasks programming model; Block-sparse; Parallelization; Quadtree; Sparse matrices; Task-based programming
+
+Juan D. Gutiérrez, Antonio R. Jiménez, Fernando Seco, Fernando J. Álvarez, Teodoro Aguilera, Joaquín Torres-Sospedra, Fran Melchor,
+GetSensorData: An extensible Android-based application for multi-sensor data registration,
+SoftwareX,
+Volume 19,
+2022,
+101186,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101186.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001121)
+Keywords: Sensing technologies; Mobile applications; Android
+
+Valeria Cardellini, Emiliano Casalicchio, Stefano Iannucci, Matteo Lucantonio, Sudip Mittal, Damodar Panigrahi, Andrea Silvi,
+irs-partition: An Intrusion Response System utilizing Deep Q-Networks and system partitions,
+SoftwareX,
+Volume 19,
+2022,
+101120,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101120.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000796)
+Keywords: Intrusion Response System; Self-protection; Self-adaptation
+
+Yung Po Tsang, Chun Ho Wu, Carman Ka Man Lee,
+BlockTrainHK: An online learning game for experiencing blockchain concepts,
+SoftwareX,
+Volume 19,
+2022,
+101167,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101167.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001005)
+Keywords: Blockchain; Game; Teaching; Learning
+
+Luca Baldini, Niccolò Bucciantini, Niccolò Di Lalla, Steven Ehlert, Alberto Manfreda, Michela Negro, Nicola Omodei, Melissa Pesce-Rollins, Carmelo Sgrò, Stefano Silvestri,
+ixpeobssim: A simulation and analysis framework for the imaging X-ray polarimetry explorer,
+SoftwareX,
+Volume 19,
+2022,
+101194,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101194.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001169)
+Keywords: X-ray polarimetry
+
+Grégory Setnikar, Julien Samson, Marie-Aude Méasson,
+Raman Selection Rules Calculator: A simplified selection rules calculator for Raman spectroscopy experiment,
+SoftwareX,
+Volume 19,
+2022,
+101152,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101152.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000942)
+Keywords: Raman spectroscopy; Selection rules; Node.js; Python
+
+David Badalyan, Oleg Borisenko,
+Ansible execution control in Python and Golang for cloud orchestration,
+SoftwareX,
+Volume 19,
+2022,
+101126,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101126.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000826)
+Keywords: Ansible; Cloud orchestration; Function hooking; Golang; Python
+
+Pranav Chandramouli, Zadia Codabux, Melina Vidoni,
+analyzeR: A SonarQube plugin for analyzing object-oriented R Packages,
+SoftwareX,
+Volume 19,
+2022,
+101113,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101113.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000747)
+Keywords: SonarQube; R packages; Static code analysis; Object-oriented; R plugin
+
+Florian Malard, Laura Danner, Emilie Rouzies, Jesse G. Meyer, Ewen Lescop, Stéphanie Olivier-Van Stichelen,
+EpyNN: Educational python for Neural Networks,
+SoftwareX,
+Volume 19,
+2022,
+101140,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101140.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000905)
+Keywords: Python; Education; Machine Learning; Neural Networks
+
+Anshu Dubey, Klaus Weide, Jared O’Neal, Akash Dhruv, Sean Couch, J. Austin Harris, Tom Klosterman, Rajeev Jain, Johann Rudi, Bronson Messer, Michael Pajkos, Jared Carlson, Ran Chu, Mohamed Wahib, Saurabh Chawdhary, Paul M. Ricker, Dongwook Lee, Katie Antypas, Katherine M. Riley, Christopher Daley, Murali Ganapathy, Francis X. Timmes, Dean M. Townsley, Marcos Vanella, John Bachan, Paul M. Rich, Shravan Kumar, Eirik Endeve, W. Raphael Hix, Anthony Mezzacappa, Thomas Papatheodore,
+Flash-X: A multiphysics simulation software instrument,
+SoftwareX,
+Volume 19,
+2022,
+101168,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101168.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001030)
+Keywords: Multiphysics; Simulation software; High-performance computing; Performance portability
+
+Philippe Mainçon,
+EspyInsideFunction.jl — extracting intermediate results from numerical functions,
+SoftwareX,
+Volume 19,
+2022,
+101200,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101200.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001194)
+Keywords: Meta-programming; Julia language; Finite element analysis
+
+Shun Liu, Junjie Yang, Xianxian Zeng, Haiying Song, Jian Cen, Weichao Xu,
+An efficient and user-friendly software tool for ordered multi-class receiver operating characteristic analysis based on python,
+SoftwareX,
+Volume 19,
+2022,
+101175,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101175.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001078)
+Keywords: Receiver Operating Characteristics (ROC); Hyper-volume under the surface (HVUS); Efficient; Python
+
+Sylwester Czmil, Jacek Kluska, Anna Czmil,
+CACP: Classification Algorithms Comparison Pipeline,
+SoftwareX,
+Volume 19,
+2022,
+101134,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101134.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000863)
+Keywords: Supervised classification; Computational reproducibility; Classifier performance evaluation; Wilcoxon signed-rank test
+
+DongBo Huang, Xing Xu,
+IGAOD: An online design framework for interactive genetic algorithms,
+SoftwareX,
+Volume 19,
+2022,
+101205,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101205.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001236)
+Keywords: Interactive genetic algorithm; Java program language; Algorithm framework; Template design pattern; Online design
+
+Otávio Augusto Peter de Souza, Letícia Fleck Fadel Miguel,
+CIOA: Circle-Inspired Optimization Algorithm, an algorithm for engineering optimization,
+SoftwareX,
+Volume 19,
+2022,
+101192,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101192.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001157)
+Keywords: Metaheuristic algorithms; Real-world problems; Structural optimization; Circle-Inspired Optimization Algorithm
+
+Rui Yang, Nathan Blanc, Ariel Vardi-Chouchana, Noam Ouzana, Guy Z. Ramon,
+PC-TAS: A design environment for phase-change and classical thermoacoustic systems,
+SoftwareX,
+Volume 19,
+2022,
+101142,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101142.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000899)
+Keywords: Thermoacoustics; Phase-change thermoacoustics; Thermoacoustic engine; Thermoacoustic refrigerator
+
+Gorka Garate, Julian Estevez, Manuel Graña,
+ADITU: A mesh-free formulation for the solution of Helmholtz equation in bounded and unbounded domains,
+SoftwareX,
+Volume 19,
+2022,
+101111,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101111.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000735)
+Keywords: Helmholtz equation; Acoustic radiation; Acoustic scattering; Unbounded domains; Fluid–fluid coupling
+
+Hee-Seok Oh, Guebin Choi, Donghoh Kim,
+Decomp2d: An R solution for image decomposition,
+SoftwareX,
+Volume 19,
+2022,
+101182,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101182.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001108)
+Keywords: Decomposition; Image; Frequency; R package
+
+Krzysztof Gajowniczek, Jialin Wu, Soumyajit Gupta, Chandrajit Bajaj,
+HOFS: Higher order mutual information approximation for feature selection in R,
+SoftwareX,
+Volume 19,
+2022,
+101148,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101148.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000930)
+Keywords: Feature selection; Machine learning; Mutual information; Higher order approximation
+
+Aleksandra Bączkiewicz, Jarosław Wątróbski,
+Crispyn—A Python library for determining criteria significance with objective weighting methods,
+SoftwareX,
+Volume 19,
+2022,
+101166,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101166.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001029)
+Keywords: Objective weighting methods; SMAA; Decision support systems; VIKOR; Python
+
+João Filho, Luiz Nunes, José Xavier,
+iCorrVision-3D: An integrated python-based open-source Digital Image Correlation Software for in-plane and out-of-plane measurements (Part 2),
+SoftwareX,
+Volume 19,
+2022,
+101132,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101132.
+(https://www.sciencedirect.com/science/article/pii/S235271102200084X)
+Keywords: 3D-DIC; Subset-based; Open-source software; Python
+
+Daniil Kazantsev, Nicola Wadeson, Mark Basham,
+High performance Savu software for fast 3D model-based iterative reconstruction of large data at Diamond Light Source,
+SoftwareX,
+Volume 19,
+2022,
+101157,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101157.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000978)
+Keywords: X-ray tomography; Image reconstruction; Iterative methods; Regularisation; Big-data; High Performance Computing
+
+Nestor Alexander Zermeño-Campos, Daniel Cuevas-González, Juan Pablo García-Vázquez, Roberto López-Avitia, Miguel Enrique Bravo-Zanoguera, Marco A. Reyna, Arnoldo Díaz-Ramírez,
+PÉEK: A cloud-based application for automatic electrocardiogram pre-diagnosis,
+SoftwareX,
+Volume 19,
+2022,
+101124,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101124.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000814)
+Keywords: Arrhythmia; Electrocardiogram; ECG; Deep learning; Convolutional neural networks
+
+Kelly R. Thorp,
+pyfao56: FAO-56 evapotranspiration in Python,
+SoftwareX,
+Volume 19,
+2022,
+101208,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101208.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001261)
+Keywords: Agriculture; Crop; Evapotranspiration; Irrigation; Management; Water
+
+Matthias Drvoderic, Jens J. Bender, Martin Pletz, Clara Schuecker,
+Version 0.2 - CrackDect: Detecting crack densities in images of fiber-reinforced polymers,
+SoftwareX,
+Volume 19,
+2022,
+101198,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101198.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001182)
+Keywords: Crack detection; Image processing; Fiber-reinforced polymers; Crack density; Python
+
+Daniel Cantero,
+VEqMon2D—Equations of motion generation tool of 2D vehicles with Matlab,
+SoftwareX,
+Volume 19,
+2022,
+101103,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101103.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000693)
+Keywords: Vehicle; Equations of motion; Dynamics; Multibody
+
+Ashok Kumar Verma,
+A Python-based tool for constructing observables from the DSN’s closed-loop archival tracking data files,
+SoftwareX,
+Volume 19,
+2022,
+101190,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101190.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001145)
+Keywords: Radio science; ATDF; Closed-loop; DSN
+
+Salman Haidri, Yaksh J. Haranwala, Vania Bogorny, Chiara Renso, Vinicius Prado da Fonseca, Amilcar Soares,
+PTRAIL — A python package for parallel trajectory data preprocessing,
+SoftwareX,
+Volume 19,
+2022,
+101176,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101176.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001066)
+Keywords: Trajectory preprocessing; Feature engineering; Parallel processing; Vectorization
+
+João Carlos Andrade de Deus Filho, Luiz Carlos da Silva Nunes, José Manuel Cardoso Xavier,
+iCorrVision-2D: An integrated python-based open-source Digital Image Correlation software for in-plane measurements (Part 1),
+SoftwareX,
+Volume 19,
+2022,
+101131,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101131.
+(https://www.sciencedirect.com/science/article/pii/S2352711022000851)
+Keywords: 2D-DIC; Subset-based; Open-source software; Python
+
+Jin Yang, Yue Yin, Alexander K. Landauer, Selda Buyukozturk, Jing Zhang, Luke Summey, Alexander McGhee, Matt K. Fu, John O. Dabiri, Christian Franck,
+SerialTrack: ScalE and rotation invariant augmented Lagrangian particle tracking,
+SoftwareX,
+Volume 19,
+2022,
+101204,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2022.101204.
+(https://www.sciencedirect.com/science/article/pii/S2352711022001224)
+Keywords: Particle tracking; Topology-based feature vector; Augmented Lagrangian; Finite deformation
